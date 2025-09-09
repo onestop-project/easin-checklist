@@ -1,0 +1,824 @@
+EASINID,Country,Year,Ref
+R19422,FI,2008,"Munyaneza et al., 2010"
+R11525,FR,1966,"Albouy, 1966"
+R19423,AZ,2007,"Balakishiyeva et al., 2011"
+R19424,CZ,2016,"Šafárová et al., 2016"
+R19425,IT,1994,"Marcone et al., 1997b"
+R19426,IT,1997,"Marcone et al., 1997a"
+R19427,LT,2004,"Valiunas et al., 2006"
+R19428,IT,2003,"Paltrinieri et al., 2003"
+R11526,IT,1950,"Rui et al., 1950"
+R19429,ES,2005,"Schneider et al., 2005"
+R19430,IT,2007,"Landi et al., 2007"
+R11527,IT,1933,"Goidanich, 1933"
+R11528,IT,1908,"Mader, 1908"
+R19431,DE,1994,"Seemüller et al., 1994"
+R19432,NL,1951,"de Fluiter and van der Meer, 1953"
+R14622,RU,1942,"Bogoyavlenskii, 1942"
+R19433,IT,1894,"Cuboni, 1894"
+R11529,IT,2004,"Faggioli et al., 2004"
+R19434,CZ,1969,"Bojnanský, 1969"
+R19435,IT,2005,"Paltrinieri et al., 2005"
+R00001,UK,1800,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00004,FR,1868,Pellizzari & Germain (2010) BioRisk 4: 475-510
+R00005,DK,1765,NOBANIS - European Network on Invasive Alien Species. 
+R00006,EE,1830,NOBANIS - European Network on Invasive Alien Species. 
+R18689,EE,1953,NOBANIS - European Network on Invasive Alien Species. 
+R00007,AT,2007,NOBANIS - European Network on Invasive Alien Species. 
+R00008,NO,1900,NOBANIS - European Network on Invasive Alien Species. 
+R00010,UK,1871,"Mason W.L. 2012.The role of True Fir Species in the Silviculture of British Forests: past, present and future..Kastamonu Univ., Journal of Forestry Faculty 15-26(15-26)"
+R00011,UK,1831,"Mason W.L. 2012.The role of True Fir Species in the Silviculture of British Forests: past, present and future..Kastamonu Univ., Journal of Forestry Faculty 15-26(15-26)"
+R00012,NO,1900,NOBANIS - European Network on Invasive Alien Species. 
+R00013,DK,1840,NOBANIS - European Network on Invasive Alien Species. 
+R00014,PT,1949,"Domingues de Almeida J., Freitas H. 2006.Exotic naturalized flora of continental Portugal – A reassessment.Botanica Complutensis 117-130(117-130)"
+R00015,DK,1830,NOBANIS - European Network on Invasive Alien Species. 
+R00016,EE,1826,NOBANIS - European Network on Invasive Alien Species. 
+R00019,PT,1949,"Domingues de Almeida J., Freitas H. 2006.Exotic naturalized flora of continental Portugal – A reassessment.Botanica Complutensis 117-130(117-130)"
+R20136,IL,2018,"Golani D, 2019. First record of the flat needlefish Ablennes hians (Valenciennes, 1846) in the Mediterranean Sea (Osteichthyes, Beloniformes, Belonidae). BioInvasions Records,  https://doi.org/10.3391/bir.2019.8.2.22"
+R16884,IT,1972,Rasplus et al. (2010) BioRisk 4: 669–776
+R16885,FR,1953,Rasplus et al. (2010) BioRisk 4: 669–776
+R00022,FR,1972,Rasplus et al. (2010) BioRisk 4: 669–776
+R00024,IT,1985,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00026,BE,1951,Manual of the Alien Plants of Belgium. 
+R20210,IT,2018,"Dragičević B, Fricke R, Soussi J, Ugarković P, Dulčić J and Azzurro E, 2021. On the occurrence of abudefduf spp. (pisces: Pomacentridae) in the mediterranean sea: A critical review with new records. BioInvasions Records, 188-199, 10(1)."
+R19331,MT,2014,"Vella et al., 2016"
+R19652,EL,2017,"Giovos I, Bernardi G, Romanidis-Kyriakidis G, marmara D & Kleitou P, 2018. First records of the fish"
+R19332,IL,1997,"Goren & Galil, 1998"
+R00030,PT,1868,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00032,PT,1865,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00031,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00033,AT,1850,NOBANIS - European Network on Invasive Alien Species. 
+R00034,SE,1990,NOBANIS - European Network on Invasive Alien Species. 
+R16518,EG,1984,"Zakaria, H.Y., 1992. Distribution and ecology of some zooplankton organisms in the Egyptian Mediterranean waters. M.Sc. thesis. Faculty of Sci., Alexandria Univ.Zakaria, 2006. ACTA ADRIAT., 47 (2): 195-206."
+R00035,PT,1981,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00037,PT,1999,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00038,PT,1939,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00039,FR,1790,"Sheppard A.W., Shaw R.H., Sforza R. 2006.Top 20 envrironmental weeds for classical biological control in Europe: a review of opportunities, regulations and other barriers to adoptation..Weed Res. 93-117(93-117)"
+R00042,FR,1954,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00043,CY,1977,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00044,FR,1899,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00045,PT,1999,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00046,IT,1821,"Campagnaro, T., Brundu, G., Burrascano, S., Celesti-Grapow, L., La Mantia, T., Sitzia, T., Badalamenti, E. (2022). Tree invasions in Italian forests, Forest Ecology and Management, 521, 120382, and references therein"
+R00047,FR,1800,Biogeography of Mediterranean invasions. 1991
+R00048,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00050,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00051,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00053,ES,1800,"Sanz-Elorza M, Dana E, Sobrino E, 2001. Checklist of invasive alien plants in Spain (Iberian Peninsula and Balearic Islands). (Aproximación al listado de plantas alóctonas invasoras reales y potenciales en España.). Lazaroa. 121-131."
+R00054,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00055,PT,1862,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00056,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00057,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00059,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00061,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00064,RU,1915,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00065,BE,2003,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00066,IT,1501,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18764,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00067,ES,1900,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R00068,IT,2004,"EPPO reporting service n.11 - 2007, 2007/217"
+R17484,ES,1982,"Garcia Raso, J.E, 1982. Famiglia Scyllaridae Latreille 1825 (rustacea, Decapoda) en la region Sur-Mediterranea espanola. Boletin de la Asociacion Espanola de Entomologia, 6 (1): 73-78."
+R16519,FR,2006,"WGBOSV, 2006. Report of the ICES/IOC/IMO Working Group on Ballast and Other Ship Vectors (WGBOSV), 13-15 March 2006, Oostende, Belgium."
+R00070,IE,1700,Minchin (2007) Aquatic Invasions 2: 341-366
+R00072,UK,1991,Uhthoff-Kaufmann (1991) Entomologist's Record and Journal of Variation 103: 189- 192.
+R00074,DK,1996,"Hansen,M. 1996. Katalog over Danmarks biller. Ent.Meddr.64(1&2)"
+R00075,DK,1964,"Hansen,V., 1964. Fortgnelse over Danmarks Biller. Ent.Meddr.33: 1-504."
+R00076,FR,1922,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R17971,IT,1992,"Pellizzari G , 1993, Homoptera Coccoidea nuovi o poco noti per la fauna italiana., Boll. zool. agraria Bachicolt., 25, 49-55"
+R17970,IT,1991,"Pellizzari G , 1993, Homoptera Coccoidea nuovi o poco noti per la fauna italiana., Boll. zool. agraria Bachicolt., 25, 49-55"
+R19555,PT,1880,"Méquignon, 1935"
+R00079,UK,1978,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00080,NL,1986,"Magis N (1988) Mise à jour du catalogue des Pamphilidae observés en Belgique et dans les pays limitrophes : Hyménoptères, Symphytes. Notes fauniques de Gembloux 16: 1-48."
+R18239,TN,2010,"BEN-SOUIssI, J., BOUGHEDIR, W., RIFI, M., CAPAPE, C., AZZURRO, E.. 2014. First record of the twobar sea bream Acanthopagrus bifasciatus (Teleostei: Sparidae) in the Mediterranean Sea. Mediterranean Marine Science,"
+R00082,EL,1861,"Grunow In Heufler, A., 1861. IV. Algas. In HEUFLER, Specimen florae cryptogamae septem insularum. Verhandlungen der Zoologisch-Botanischen Gesellschaft Wien, 11, 416-430."
+R16520,LY,2007,"Zaouali, J., Ben Souissi, J., Galil, B.S., d’Udekem d’Acoz, C. & ben Abdallah, A., 2007. Grapsoid crabs (Crustacea: Decapoda: Brachyura) new to the Sirte Basin, southern Mediterranean Sea-the roles of vessel traffic and climate change. JMBA, Biodiversity Re"
+R00085,IT,1889,Beenen & Roques (2010) Biorisk 4: 267-292
+R00086,BG,1980,Beenen & Roques (2010) Biorisk 4: 267-292
+R20258,IT,2019,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R00088,FR,1969,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R00090,UK,1909,Lee M. (1993) Phasmid Studies 4: 15-23
+R00091,UK,1920,Lee M. (1993) Phasmid Studies 4: 15-23
+R19333,IT,2012,"Langeneck et al., 2015"
+R19118,CY,2011,"Langeneck, J., Marcelli, M., & Simak, H. C. (2012). Unexpected alien species in Cyprus waters: Acanthurus coeruleus (Actinopterygii: Acanthuridae). Marine Biodiversity Records, 5, e116."
+R19653,EL,2017,"Giovos I, Bernardi G, Romanidis-Kyriakidis G, marmara D & Kleitou P, 2018. First records of the fish"
+R00097,IT,1983,Navajas et al. (2010) Biorisk 4: 149-192
+R00099,IL,1978,"Barash, A. & Danin, Z., 1986. Further additions to the knowledge of Indo-Pacific mollusca in the Mediterranean Sea. Spixiana, 9(2): 117-141."
+R16886,RS,1997,Petanović & Stanković (1999) Acta. Ent. Serb. Spec.issue
+R16521,LB,1970,"Lakkis, S., 1976. Considerations on the distribution of pelagic copepods in the eastern Mediterranean off the coast of Lebanon. Acta Adriatica 18: 41–52."
+R00102,FR,2004,"Seuront, L., 2005. Hydrodynamic and tidal controls of small-scale phytoplankton patchiness. Mar. Ecol. Prog. Ser. 302:93-101."
+R16354,IL,1968,"Berdugo, V., 1974. On the occurrence of Acartia centrura (Copepoda: Calanoida) in the neritic waters of the Eastern Mediterranean. Rapports et Proces-Verbaux des Reunions, Commission Internationale pour I'Exploration Scientifique de la mer Mediterranee 22."
+R00104,NL,1912,"Redeke, H.C., 1934. On the occurrence of two pelagic copepods, Acartia bifilosa and Acartia tonsa, in the brackish waters of the Netherlands. Journal du Conseil International de l’Exploration de la Mer 9(1): 39-45."
+R00105,ES,2000,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R18906,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R19728,UK,1996,"Holmes JS, Simons JR, 1996. The Wildlife and Countryside Act 1981 and bird introductions. In: Holmes JS, Simons JR (eds), The Introduction and Naturalisation of Birds. HMSO, London, England, pp 19-24"
+R00107,ES,2001,"Martín, A. & Lorenzo, J. A. 2001. Aves Del Archipiélago Canario. Francisco Lemus Editor"
+R00109,SE,1749,NOBANIS - European Network on Invasive Alien Species. 
+R18865,DK,1987,NOBANIS - European Network on Invasive Alien Species. 
+R00111,DK,1957,NOBANIS - European Network on Invasive Alien Species. 
+R00113,SE,1996,NOBANIS - European Network on Invasive Alien Species. 
+R00115,AT,1900,NOBANIS - European Network on Invasive Alien Species. 
+R00116,UK,1688,NOBANIS
+R00119,UK,1683,Falk 2011
+R00120,UK,800 ,Leslie A. 2005
+R00121,BE,1990,NOBANIS - European Network on Invasive Alien Species. 
+R00122,AT,1850,NOBANIS - European Network on Invasive Alien Species. 
+R00123,AT,1500,NOBANIS - European Network on Invasive Alien Species. 
+R00124,SE,1931,Flowers of Cyprus. Plants of medicine. 2nd Edition. 1987
+R00127,EE,1805,NOBANIS - European Network on Invasive Alien Species. 
+R00128,RU,1927,NOBANIS - European Network on Invasive Alien Species. 
+R00129,IT,1974,Rasplus et al. (2010) BioRisk 4: 669–776
+R16887,CZ,1952,Navajas et al. (2010) Biorisk 4: 149-192
+R16888,RS,1999,Petanović & Stanković (1999) Acta. Ent. Serb. Spec.issue
+R16889,RS,1981,Petanović (1988) Eriofidne grinje u Jugoslaviji
+R16890,RS,1998,Petanović (1998) Acta Entomol. Serbica 3: 149–157
+R00130,BG,1903,Navajas et al. (2010) Biorisk 4: 149-192
+R17666,UK,2008,"EPPO reporting service n.11 - 2008, 2008/222"
+R16891,RS,1995,Petanović (1997) Allochthonous mite species (Acari) in the Fauna of Yugoslavia. Plant protec. 48: 211-224
+R16892,RO,1901,Navajas et al. (2010) Biorisk 4: 149-192
+R00131,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R16893,ES,1998,González Núñez et al. (2002) Bol. Sanid. Veg. Plagas 28: 415–418.
+R16894,EL,1987,Anagnou-Veroniki et al. (2008) Hellenic Plant Prot. J. 1: 55–78.
+R16895,IT,1939,Fauna Italia. Eriophyidae. Accessed at http://www.faunaitalia.it/checklist/invertebrates/families/Eriophyidae.html
+R16896,RS,1981,"Petanović et al (1983) Archiv. Agric. Sci. 44,156:455-460"
+R00132,IT,1600,Navajas et al. (2010) Biorisk 4: 149-192
+R00133,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00134,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00135,RS,1903,"Trotter (1903) Nuov. Giorn. Bot. Italiano NS 10, 5-54:210-233"
+R17727,RU,1988,Izhevskiy (1988) Entomol. Review 68: 45-51
+R17728,FR,1971,"Panis A. & Brun J. (1971) Essais de lutte biologique contre trois espèces de 'Pseudococcidae' (Homoptera, Coccoidea) en serres de plantes vertes. Revue de Zoologie Agricole et de Pathologie Végétale 70: 42-47"
+R17729,RU,1966,Elizarova (1966) Zashchita Rasteniy 10: 47-48
+R17766,HU,2007,Garai & Gyulai (2008) Növényvédelem 44 : 226-228
+R19256,UK,1963,Paul (1963) J. Conch. 25: 200
+R19267,BE,1960,Gijzen (1960) Zoo 25: 103-114
+R19662,IT,2016,"Ulman A, Ferrario J, Occhipinti-Ambrogi A, Arvanitidis C, Bandi A, et al. 2017. A massive update of"
+R00143,AT,1945,NOBANIS - European Network on Invasive Alien Species. 
+R00145,LV,1934,NOBANIS
+R18484,DK,1932,NOBANIS - European Network on Invasive Alien Species. 
+R00147,DK,1939,NOBANIS - European Network on Invasive Alien Species. 
+R00148,AT,1760,NOBANIS - European Network on Invasive Alien Species. 
+R00149,UK,1804,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00150,UK,2006,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00151,SE,1870,NOBANIS - European Network on Invasive Alien Species. 
+R00152,AT,1945,NOBANIS - European Network on Invasive Alien Species. 
+R00153,UK,1781,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00155,SE,1662,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00157,SE,1749,NOBANIS - European Network on Invasive Alien Species. 
+R18486,DK,1858,NOBANIS - European Network on Invasive Alien Species. 
+R00159,IS,1806,http://www.brc.ac.uk/plantatlas/index.php?q=plant/achillea-ptarmica; http://actaplantarum.org/flora/flora_info.php?id=256
+R00161,DE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18485,FI,1874,NOBANIS - European Network on Invasive Alien Species. 
+R00163,BE,1885,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R17433,UA,1984,"Guslyakov, N.E. & Gerasemiul, V.P. 1984. About some new and interesting species of diatom algae of the Black Sea. Novosty sistematiki nizshikh rasteny, 21: 14-17 (in Russian).; Nevrova 2003."
+R00168,UK,2004,EPPO-PQR
+R00169,ES,1817,Goberno de Canarias. Especies introducidas en Canarias. 2014
+R00171,EL,2005,"Holeva et al., 2009"
+R00172,DE,1901,"Kraepelin K, 1901, Ueber die durch den Schiffsverkehr in Hamburg eingeschleppten Tiere, 2. Beih. Jb. Hamburg. Wiss. Anst., 18, 183-209"
+R00174,EE,1960,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00176,EE,1962,"Arman, J., 1968. Tuurlased Soome lahes. Eesti Loodus, 6: 367-368."
+R00179,PL,1837,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00181,CZ,1993,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00182,IT,1987,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00184,FR,1981,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00185,IT,1987,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00186,IT,2001,"EPPO reporting service n.04 - 2002, 2002/058"
+R00187,FR,1974,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R17864,IT,2005,"Ciampolini M, Regalin, R, Peerin H, 2005, Aclees cribratus, nuovo per l'Italia nocivo al fico allevato in vivaio., Inftore agrario, 61, 69-71"
+R20026,FR,1997,"Perrin, H. Récoltes accidentelles de Curculionidae tropicaux en France métropolitaine (Coleoptera). Entomologiste 1997, 53, 155–158"
+R00188,ES,1998,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R00189,PT,2005,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R16898,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R17639,EL,2003,"Long JL (2003) Introduced mammals of the world. CABI and CSIRO publishing, Melbourne, Australia"
+R17640,CY,2003,"Long JL (2003) Introduced mammals of the world. CABI and CSIRO publishing, Melbourne, Australia"
+R18361,NO,1993,NOBANIS - European Network on Invasive Alien Species. 
+R00193,EE,1807,NOBANIS - European Network on Invasive Alien Species. 
+R00194,DK,1893,NOBANIS - European Network on Invasive Alien Species. 
+R00197,DK,1991,NOBANIS - European Network on Invasive Alien Species. 
+R00199,LT,1996,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00200,CZ,1819,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00201,RU,1987,NOBANIS - European Network on Invasive Alien Species. 
+R00203,RU,2000,NOBANIS - European Network on Invasive Alien Species. 
+R16899,UA,1966,Poltavsky et al. (2008) Entomological News 119:531-536
+R00206,FR,2003,"Letellier M. (2003) Une Noctuelle exotique, Acontia crocata (Guenée, 1852), capturée dans les Deux-Sèvres (Lepidoptera Noctuidae Acontiinae). Alexanor 23: 45-48"
+R00207,AT,1550,"Essl and Rabitsch (2002) Neobiota in Österreich. Umweltbundesamt Wien, 432 pp"
+R00208,AT,1500,"Essl and Rabitsch (2002) Neobiota in Österreich. Umweltbundesamt Wien, 432 pp"
+R00209,ES,1994,"García-Jiménez J. et al. 1994. Plant Disease 78, 416–9"
+R19713,ES,1994,"ISSG, 2010. Aliens: the Invasive Species Bulletin. Newsletter of the IUCN/SSC Invasive Species Specialist Group No 29. ISPRA, Rome, Italy."
+R00210,AT,1982,"Seebens H, Blackburn T M, Dyer E E, Genovesi P, Hulme P E, Jeschke J M, Pagad S, Pyšek P, Winter M, Arianoutsou M, Bacher S, Blasius B, Brundu G, Capinha C, Celesti-Grapow L, Dawson W, Dullinger S, Fuentes N, Jäger H, Kartesz J, Kenis M, Kreft H, Kühn I, Lenzner B, Liebhold A, Mosena A (et al), 2017. No saturation in the accumulation of alien species worldwide. Nature Communications. 8 (2), 14435. http://www.nature.com/articles/ncomms14435"
+R19748,DE,2003,"DAISIE, 2003. European Invasive Alien Species Gateway. http://www.europe-aliens.org (Accessed 15 April 2011)"
+R00212,UK,1956,"Seebens H, Blackburn T M, Dyer E E, Genovesi P, Hulme P E, Jeschke J M, Pagad S, Pyšek P, Winter M, Arianoutsou M, Bacher S, Blasius B, Brundu G, Capinha C, Celesti-Grapow L, Dawson W, Dullinger S, Fuentes N, Jäger H, Kartesz J, Kenis M, Kreft H, Kühn I, Lenzner B, Liebhold A, Mosena A (et al), 2017. No saturation in the accumulation of alien species worldwide. Nature Communications. 8 (2), 14435. http://www.nature.com/articles/ncomms14435"
+R19667,LB,1966,Abd El-Rahman et al. 2006
+R16355,EG,1944,"Aleem, A.A., 1950. Meddelanden Fran Goteborgs Botaniska Tradgard, 18, 275."
+R16356,EG,1944,"Aleem, A.A., 1950. Meddelanden Fran Goteborgs Botaniska Tradgard, 18, 275."
+R16357,EG,1944,"Aleem, A.A., 1950. Meddelanden Fran Goteborgs Botaniska Tradgard, 18, 275."
+R00218,PT,1977,Cocquempot & Lindelöw (2010) BioRisk 4: 193–218
+R00219,NL,1994,Beenen R (2006) Translocation in leaf beetles (Coleoptera: Chrysomelidae). Bonner zoologische Beiträge 54 [2005]: 179–199.
+R20263,IT,2008,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R18216,IT,1987,"Orsi Relini, L., 1990. Synagrops japonicus (Steindachner e Doderlein, 1884) (Pisces, Acropomatidae) nel Mediterraneo: un migrante lessepsiano? oebalia, 16-1: 217-223."
+R00225,NL,1954,"Wygodzinsky P, 1954, the thysanura of the Netherlands (Apterygota, Insecta), Natuurhistorisch Maandblad, 43, 67-72"
+R18042,DE,1936,"Weidner H, 1983, Nach Hamburg eingeschleppte Collembola und Zygentoma., Anz. Schädlingskd. Pflanzenschutz-Umweltschutz , 56, 105-107"
+R00226,IT,1969,"Cinelli, F. & Sartoni, G., 1969 Pubbl. staz. Zool. Napoli, 37: 567."
+R00227,FR,1998,"Verlaque, M., 2000. Actualisation de la flore des macrophytes des etangs de thau (Herault) et de Salses-Leucate (Aude – Pyrenees-Orientales), in: PNEC « Lagunes Mediterraneennes », theme 1, le compartiment ‘Macrophytes’, GIS Posidonie - IFREMER Report, 6."
+R00229,SE,1967,Nobanis (2013)
+R00230,FI,1988,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00231,SE,1932,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00232,UK,1966,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00234,UK,1987,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00235,ES,1964,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R18459,SE,1993,NOBANIS - European Network on Invasive Alien Species. 
+R00237,NO,1900,NOBANIS - European Network on Invasive Alien Species. 
+R17594,LB,2006,Crocetta et al. 2015
+R19108,EL,2013,"Ripka G, Király G, Szabó Á and Kazmierski A,  2022. Recent additions to the plant-inhabiting mite fauna of three European countries (Acari: Acariformes: Tydeoidea, Stigmaeidae). Systematic & Applied Acarology 27(5): 865–887"
+R00238,TR,2003,"Mienis, H.K., 2004. New data concerning the presence of Lessepsian and other Indo-Pacific migrants among the molluscs in the Mediterranean Sea with emphasize on the situation in Israel. pp. 117-131. In: B.Ozturk & A.Salman (eds.). 1st National malacology ."
+R00239,LB,1986,"Bogi, C. & Giannini, F., 1990. Notes on a few molluscs, found in the Mediterranean Sea. La Conchiglia, 22 (256): 48-51."
+R17755,CH,1987,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R00243,NO,2003,NOBANIS - European Network on Invasive Alien Species. 
+R00244,SE,1996,NOBANIS - European Network on Invasive Alien Species. 
+R01833,UK,1990,"Sneath and Stevens, 1990"
+R00245,FR,1975,"Lambert (1975) Comptes Rendus Hebdomadaire des Seances de L'Academie des Sciences, Paris, D 281: 1329-1332"
+R00246,FR,1975,"Lambert (1975) Comptes Rendus Hebdomadaire des Seances de L'Academie des Sciences, Paris, D 281: 1329-1332"
+R00247,RU,1986,"Panov VE et al. (2007) In: F. Gherardi (ed) Biological Invaders in Inland Waters: Profiles, Distribution and threats. Invading Nature - Springer Series in Invasion Ecology, Vol. 2: 639–656"
+R00248,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00250,IT,1978,"Falciai, L., 2003. First record of Menaethius monoceros (Latreille, 1825) (Decapoda, Majidae) in the central Tyrrhenian Sea. Crustaceana, 75 (10): 1279-1283."
+R00251,RO,1912,Navajas et al. (2010) Biorisk 4: 149-192
+R00252,FR,2003,Navajas et al. (2010) Biorisk 4: 149-192
+R16900,RS,1993,Petanović (1993) 20th Symposium of entomologists of Yugoslavia: 22
+R00254,EL,1958,Navajas et al. (2010) Biorisk 4: 149-192
+R16901,HU,1997,Ripka & de Lillo (1997) Folia Entomol. Hung. 58: 147-157.
+R16902,CZ,1907,Navajas et al. (2010) Biorisk 4: 149-192
+R16903,IT,1993,Fauna Italia. Eriophyidae. Accessed at http://www.faunaitalia.it/checklist/invertebrates/families/Eriophyidae.html
+R00255,UK,1979,UK-E_DB
+R00256,RU,1907,"Coeur d'Acier A, Pérez Hidalgo N, Petrovic-Obradovic O, 2010, Aphids (Hemiptera, Aphididae)., BioRisk, 4, 435-474"
+R00258,FR,2004,"Coeur d'Acier A, Pérez Hidalgo N, Petrovic-Obradovic O, 2010, Aphids (Hemiptera, Aphididae)., BioRisk, 4, 435-474"
+R00261,UK,1913,"Coeur d'Acier A, Pérez Hidalgo N, Petrovic-Obradovic O, 2010, Aphids (Hemiptera, Aphididae)., BioRisk, 4, 435-474"
+R16904,FR,1930,Rasplus et al. (2010) BioRisk 4: 669–776
+R00267,UK,1871,UK-E_DB
+R17965,UA,1953,RU-ANIMALS_DB
+R19068,FR,2004,"Bouchet, V.M.P., Debenay, J.P. & Sauriau, P.G., 2007. First report of Quinqueloculina Carinatastriata (Wiesner, 1923) (Foraminifera) along the French Atlantic coast (Marennes-Oléron Bay and Ile de Ré) doi: 10.2113/gsjfr.37.3.204 Journal of Foraminiferal Research July 2007 v. 37 no. 3 p. 204-212."
+R18489,RU,1980,NOBANIS - European Network on Invasive Alien Species. 
+R00276,BE,1971,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00280,UK,1997,Manual of the Alien Plants of Belgium. 
+R00281,CZ,1959,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00284,AT,1835,NOBANIS - European Network on Invasive Alien Species. 
+R00285,BE,1977,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00289,UK,1950,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R17713,AL,1979,Adhami & Murati (1987) Rev. Mjekësore 1: 13–16.
+R16906,UK,2006,"Taylor MA, Jackson V, Zimmer I, Huntley S, Tomlinson A, Grant R (2006). Qualitative Veterinary Risk Assessment: Introduction of Exotic Diseases (other than Rabies) in the UK. Sand Hutton, York: Central Science Laboratory, Veterinary Surveillance Team. 49 pp."
+R16907,FR,2000,Schaffner et al. (2003) J. Americ. Mosquito Contr. Assoc. 19: 1–5.
+R17656,BE,2008,Versteirt et al (2012) Zootaxa 3191: 21–32.
+R00294,UK,1900,Chandler (pers com)
+R00296,DE,1831,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R00297,BE,1854,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00300,DK,1845,NOBANIS - European Network on Invasive Alien Species. 
+R00302,LV,1962,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00303,BE,1854,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00304,BE,1835,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00309,DK,1867,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R19745,CH,1949,"Volet B, 2006. Checklist of the birds of Switzerland. Der Ornithologische Beobachter 103: 271-294 "
+R00312,BE,1853,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R16908,ES,1999,Báez M. & Askew R.R. (1999) New records of Chalcidoidea (Hymenoptera) from the Canary Islands. Boletin de la Asociation Española de Entomologia 23(1-2):74
+R00317,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00318,PT,2005,Reynaud (2010) BioRisk 4: 767–791.
+R00325,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00327,UA,2003,"Zur Strassen R (2003) Die terebranten thysanopteren Europas und des Mittelmeer-Gebietes. Die Tierwelt Deutschlands 74. Keltern, Germany: Verlag Goecke and Evers. 277 pp."
+R00328,PT,1661,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00329,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00330,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00332,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00333,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R16522,LB,1988,"Goy, J., Lakkis, S. & Zeidane, R., 1988. Les Meduses de la Mediterranee, Rapports et Proces-Verbaux des Reunions de la Commission Internationale pour l'Exploration Scientifique de la Mer Mediterranee, Monaco., 31(2): 299."
+R17473,TR,2011,"Turan, C., Gurlek, M., Yaglioglu, D. & Seyhan, D., 2011. A new alien jellyfish species in the Mediterranean Sea - aequorea globosa Eschscholtz, 1829 (Cnidaria: Hydrozoa). J. Black Sea/Mediterranean Environment, 17(3): 282-286."
+R19307,IL,2013,"Mizrahi et al., 2015"
+R19668,TR,2015,"Yilmaza NI, Isinibilirb M, Vardara D & Dursuna F, 2017. First record of Aequorea vitrina Gosse, 185"
+R00334,UK,1953,"Williams et al., 1953"
+R00336,DE,1894,"Emmerich and Wiebel, 1894"
+R00337,BE,2003,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00338,BE,1999,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00342,UK,1950,Wikipedia
+R00343,SE,2005,NOBANIS - European Network on Invasive Alien Species. 
+R18866,NO,1975,NOBANIS - European Network on Invasive Alien Species. 
+R00351,PT,2004,"Murilhas AM, 2005. aethina tumida arrives in Portugal. Will it be eradicated? EurBee Newsletter, 2:7-9."
+R16523,EG,1924,"Hastings, A.B., 1927. Cambridge Expedition to the Suez Canal, 1924. Pt. 20. Report on the Polyzoa. Transactions of the zoological Society of London, 22: 331-354."
+R20197,PT,1960,"Blome, S., K. Franzke, et al. (2020). ""African swine fever - A review of current knowledge."" Virus Research 287: 1-15.		"
+R00359,IL,1997,"Bogi, C. & Galil, B. S., 1999. New findings along the Israeli coast. La Conchiglia 31(292): 22-29, 63."
+R19133,NL,1986,De Winter & Van Bruggen (1991) Proc. Kon. Ned. Akad. Wet. 95: 515-533
+R00360,PT,1957,Vandel A. (1957) Les Isopodes terrestres des Açores. Mem. Mus. Hist. Nat. Paris 8 : 249- 264.
+R00361,MT,1979,"Kraus F. 2009. Alien Reptiles and Amphibians. A Scientific Compendium and Analysis. Springer, Dordrecht, the Netherlands. Kraus, F., and E.W. Campbell III. 2002."
+R00362,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobierno de Canarias. http://www.interreg-bionatura.com/especies/index.php?opt=verDatos#"
+R16909,FR,1970,Rasplus et al. (2010) BioRisk 4: 669–776
+R00363,ES,2001,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00364,ES,2005,Grupo De Aves Exóticas (Gae-Seo/Birdlife) (2005)
+R00365,AT,1953,Rutgers (1965)
+R00366,DE,1998,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00367,FR,2002,Orueta (2002)
+R19776,ES,2008,"Carrete M, Tella JL, 2008. Wild-bird trade and exotic invasions: a new link of conservation concern? Frontiers in Ecology and the Environment, 6: 207-211"
+R00369,UK,2002,"Dudley, S. P. (2005). ""Changes To Category C Of the British List."" Ibis 147: 803-820."
+R00371,UK,1973,"Farnham, W.F. & Irvine, L.M., 1979. Discovery of members of the red algal family Solieriaceae in the British Isles. British Phycological Journal, 14, 123."
+R00376,UK,1977,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R00377,AT,1998,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00378,NO,2000,NOBANIS - European Network on Invasive Alien Species. 
+R18867,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00380,UK,1990,Chandler (pers com)
+R00382,ES,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00384,PT,1975,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00385,PT,1934,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00387,ES,2001,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00388,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00389,ES,1940,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R00390,NL,2001,"Wolschrijn, J. B. & Kuchlein, J. H. 2000"
+R19733,UK,1863,"Snow D, Perrins C, 1998. The birds of the western Palearctic (Volume 2). Oxford Uni Press, New York, USA."
+R00392,IT,1966,Rasplus et al. (2010) BioRisk 4: 669–776
+R00393,UK,1735,Rasplus et al. (2010) BioRisk 4: 669–776
+R00394,ES,1800,Goberno de Canarias. Especies introducidas en Canarias. 2014
+R00395,DK,1921,NOBANIS - European Network on Invasive Alien Species. 
+R00396,ES,1973,Hansen A. 1975.Contributions to the Flora of the Canary Islands..Cund. Bot. Canar. 3-14(3-14)
+R00398,UK,1822,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R16525,EG,1994,"Samir, A.M., Abdou, H.F., Zazou, S.M. & El-Menhawey, W.H., 2003. Cluster analysis of recent benthic foraminifera from the northwestern Mediterranean coast of Egypt. Revue de Micropaleontologie, 46, 111-130."
+R16526,EG,1994,"Samir, A.M., Abdou, H.F., Zazou, S.M. & El-Menhawey, W.H., 2003. Cluster analysis of recent benthic foraminifera from the northwestern Mediterranean coast of Egypt. Revue de Micropaleontologie, 46, 111-130."
+R00399,IT,1844,"De Notaris, G. 1844. Osservazione su alcuni generi e specie della tribu dei Pirenomiceti sferiacei. 2:38-55"
+R00400,IT,1975,"Sartoni, G. & Sarti, M., 1976. Sulla presenza a Livorno di ‘Aglaothamnion feldmanniae’ L’Hardy-Halos. Informatore Botanico Italiano 8, 185."
+R00401,NO,1960,"Bjaerke, M.R., 2004. Molecular and ecological studies on introduced marine macroalgae in Norwegian waters.- PhD thesis, University of Oslo. [sid. [v] + 29."
+R00402,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00403,NL,1896,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R00404,NL,1896,"Pelt Lechner Α .Α. Van (1896) . Lepidoptera omenbij Zevenhuizen (Z.­H.) Tijdschr . Ent., 39 : 75-76"
+R00405,UK,1912,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00407,PT,2005,Borges et al. (2005) Direccao Regional do Ambiente and Universidade das Açores
+R00409,RU,2003,Mozolevskaya & Izhevskii (2007) Zashchita Rastenii 5: 28-30
+R00410,DK,2007,"Hans Peter Ravn, Forest & Landscape, University of Copenhagen, pers. comm. 1/9-2010"
+R00411,PT,2004,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00413,BE,1827,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00421,UK,2001,"Shaw, PJA; Kibby, G., the fungal biodiversity of ornamental woodchips, Field Mycology, Volume 2(1), January 2001"
+R19747,UK,1998,"Feare C, Craig A, 1998. Starlings and Mynas. Christopher Helm, London, England."
+R00423,CZ,1823,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00424,LT,1962,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00425,AT,1965,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00426,LV,1962,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R08035,BE,1892,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00433,BE,1911,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00434,NO,1983,NOBANIS - European Network on Invasive Alien Species. 
+R00437,BE,1904,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00438,BE,1904,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00439,BE,1990,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00442,AT,1913,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00443,BE,1893,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00444,BE,1881,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00446,DK,1963,NOBANIS - European Network on Invasive Alien Species. 
+R00447,BE,1950,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18296,BE,1998,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R17797,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00456,CZ,1875,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00457,DE,1911,Nobanis (2013)
+R00458,FR,1994,"Verlaque, M., 1996. L'etang de thau (France), un site majeur d'introduction d'especes en Mediterranee - Relations avec 'ostreiculture, in: Ribera, A., Ballesteros, E., Boudouresque, C.F., Gomez, A., Gravez, V. (Eds). Second international Workshop on Caul."
+R19908,PT,1909,DAISIE
+R16528,EG,1966,"Guerguess, S.K. & Halim, Y., 1973. Chaetognathes du plancton d’ Alexandrie. II. Un specimen mur de Sagitta neglecta Aida en Mediterranee. Rapports et Proces-Verbaux des Reunions. Commission Internationale pour l’Exploration Scientifique de la Mer Mediter"
+R00460,FR,1749,"Kowarik I., Säumel I. 2007.Biological flora of Central Europe: Ailanthus altissima (Mill.) Swingle..Perspectives in Plant Ecology, Evolution and Systematics 207-237(207-237)"
+R00461,FR,1973,"Gruet, Y., Heral, M., & Robert, J.M., 1976. Premières observations sur l'introduction de la faune associée au naissain d'huîtres Japonaises Crassostrea gigas (thunberg), importé sur la côte Atlantique Française. CBM-Cahiers de Biologie Marine, 17(2), 173-184."
+R00462,LV,1906,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00464,DE,1852,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00466,UK,1745,Long Jl (1981). Introduced Birds Of the World. Universe Books. New York. 528 pp.
+R00467,UK,1873,Long Jl (1981). Introduced Birds Of the World. Universe Books. New York. 528 pp.
+R00469,PT,1864,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00471,DK,1913,NOBANIS - European Network on Invasive Alien Species. 
+R00472,EE,1839,NOBANIS - European Network on Invasive Alien Species. 
+R00475,SE,1827,NOBANIS - European Network on Invasive Alien Species. 
+R19334,LB,1999,"Harmelin, 2014"
+R19813,PT,2006,"Higgins PJ, Peter JM, Cowling SJ, 2006. Handbook of Australian, New Zealand and Antarctic Birds (Vol. 7, Part A: Boatbill to Larks). Oxford University Press, Melbourne, Australia."
+R00477,IT,1745,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R13501,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00481,CY,1972,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00486,DE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00487,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00491,DK,1987,NOBANIS - European Network on Invasive Alien Species. 
+R00492,SE,1992,NOBANIS - European Network on Invasive Alien Species. 
+R00493,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00494,SE,1938,NOBANIS - European Network on Invasive Alien Species. 
+R00495,FI,1998,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00496,FI,1998,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00498,SE,1938,NOBANIS - European Network on Invasive Alien Species. 
+R00499,FI,1998,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00500,FI,1998,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00501,BE,1950,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00502,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00504,SE,1906,NOBANIS - European Network on Invasive Alien Species. 
+R00505,SE,1938,NOBANIS - European Network on Invasive Alien Species. 
+R00507,SE,1939,NOBANIS - European Network on Invasive Alien Species. 
+R00508,NO,1999,NOBANIS - European Network on Invasive Alien Species. 
+R00509,CZ,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00510,SE,1893,NOBANIS - European Network on Invasive Alien Species. 
+R00511,DE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00512,NO,1996,NOBANIS - European Network on Invasive Alien Species. 
+R00513,SE,1927,NOBANIS - European Network on Invasive Alien Species. 
+R00514,CZ,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00517,IT,100 ,Long Jl (1981). Introduced Birds Of the World. Universe Books. New York. 528 pp.
+R00518,ES,1450,"Hagemeijer, E. J. M. And M. J. Blair, Eds. (1997). the Ebcc Atlas Of European Breeding Birds: their Distribution And Abundance. London, T & Ad Poyser."
+R00519,CZ,1600,Dourdine (1975)
+R00520,PT,1424,Long Jl (1981). Introduced Birds Of the World. Universe Books. New York. 528 pp.
+R18210,IL,2005,Mienis et al. (2012)
+R00521,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00522,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00523,SE,1939,Nobanis (2013)
+R00525,FO,1981,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00526,IL,1924,"Steinitz, W., 1927. Beitrage zur Kenntnis der Kustenfauna Palastinas. I. Pubblicazioni della Stazione Zoologica di Napoli, 8(3-4): 311-353."
+R19531,IE,1986,Touzet et al. 2008
+R20037,IT,2021,"Rizzo D, Suma P, Rossi E, Farina P, Da Lio D, Bartolini L, Salemi C, Farina A, Rapisarda C, 2021. First record of Aleurocanthus camelliae Kanmiya & Kasai, 2011 (Hemiptera, Aleyrodidae) from Italy, on ornamental Camellia spp. plants. EPPO Bulletin.  Aug;51(2):333-9."
+R17959,IT,2008,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R17975,IT,2007,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R18017,HR,2005,"Simala M, Masten Milek T, Koric B, 2009, Whitefly species (Hemiptera: Aleyrodidae) recorded on imported ornamental plants in Croatia from 2005-2008., Zbornik predavanj in referatov 9. slovenskega posvetovanja o varstvu rastlin z mednarodno udeležbo, Nova Gorica, 4.–5. marec 2009, 389-396"
+R18027,HR,2007,"Snazell R & Smithers P, 2007, Pseudanapis aloha Forster (Araneae, Anapidae) from the Eden Project in Cornwall, England., Bull. Br. Arachnol. Soc., 14, 74-76"
+R00531,ES,1962,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00532,BE,1908,Reynaud (2010) BioRisk 4: 767–791.
+R17985,PT,1991,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00536,UK,1961,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00537,UK,1966,UK-E_DB
+R00538,ES,1968,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00539,ES,2000,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R16912,UK,2005,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R00540,UK,1938,"Mifsud D, Coquempot C, Mühlethaler R, Wilson M, Streito J-C, 2010, Other Hemiptera Sternorrhyncha (Aleyrodidae, Phylooxeroidea, and Psylloidea) and Hemiptera Auchenorrhyncha., BioRisk, 4, 511-552"
+R17435,UA,2001,"Zaitsev, Y. & Ozturk, B., 2001. Exotic species in the aegean, Marmara, Black, Azov and Caspian Seas. Turkish Marine Research Foundation, Istanbul, 267 pp."
+R17436,FR,1987,french review
+R19523,IT,2004,Pompei et al. 2006
+R19525,TN,2001,Daly Yahia-Kefi et al. 2001
+R00543,NL,1991,"Koeman, R.P.T., 1997. Identification and enumeration of Alexandrium species in Dutch coastal waters using epifluorescencemicroscopy. Phycologia (Suppl) 34:199."
+R00544,SE,1983,"Karlson, B. & Kuylenstierna, M., 2001. Checklist of phytoplankton in the Skagerrak (including heterotrphic protists). www.marbot.gu.se/ssS/ssShome.htm (2001-03-10)"
+R17242,BG,1991,"Moncheva, S., Petrova-Karadjova, V. & Palasov, A., 1995. In: Harmful Marine Algal Blooms, P Lassus, G.Arzul, E. Denn, P. Gentien [eds], Lavoisier Publ. Inc., 193-198."
+R00545,RO,2002,"Caraus, I., 2002. the algae of Romania. Studii si Cercetari, Universitatea Bacau, Biologie 7: 1-694."
+R17438,UA,2002,"Terenko, L.M., 2003. Dinoflagellates as monitoring object in the urban area of the port of Odessa (Black Sea, Ukraine). In: Proc. the 4th European Congress of Protistology and 10th European Conference on Ciliate Biology (31 August - 5 September, 2003 S.)."
+R00548,ES,1982,"Garcés, E., Delgado, M., Masó, M. & Camp, J. (1998). Life history and in situ growth rates of Alexandrium taylori (Dinophyceae, Pyrrophyta). Journal of Phycology 34: 880-887."
+R00551,CZ,1963,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R17617,IL,2002,"Mienis, H.K., 2004. New data concerning the presence of Lessepsian and other Indo-Pacific migrants among the molluscs in the Mediterranean Sea with emphasize on the situation in Israel. pp. 117-131. In: B. Ozturk & A. Salman (eds.). 1st National malacology."
+R11444,PL,1613,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R11446,AT,1880,NOBANIS - European Network on Invasive Alien Species. 
+R17695,DK,1974,"Enghoff,H., 1974. Om tusindbens udbredelse i Danmark (Diplopoda). Ent. Meddr. 42: 21-32."
+R00559,DK,1991,NOBANIS - European Network on Invasive Alien Species. 
+R00560,UK,999 ,Online Atlas of the British and Irish flora. 
+R00561,LV,1905,NOBANIS - European Network on Invasive Alien Species. 
+R00562,CZ,1946,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R00563,CZ,1922,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R00564,UK,1789,Online Atlas of the British and Irish flora. 
+R00565,UK,995 ,Online Atlas of the British and Irish flora. 
+R00567,AT,1990,NOBANIS - European Network on Invasive Alien Species. 
+R00569,EE,1807,NOBANIS - European Network on Invasive Alien Species. 
+R00570,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18730,ES,1989,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00571,NO,1998,NOBANIS - European Network on Invasive Alien Species. 
+R18731,LV,1962,NOBANIS - European Network on Invasive Alien Species. 
+R00572,SE,2003,NOBANIS - European Network on Invasive Alien Species. 
+R00574,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00575,AT,1501,NOBANIS - European Network on Invasive Alien Species. 
+R00577,IE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00582,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00584,UK,1837,Online Atlas of the British and Irish flora. 
+R00585,DK,1820,NOBANIS - European Network on Invasive Alien Species. 
+R00586,UK,995 ,Online Atlas of the British and Irish flora. 
+R00590,SE,1745,NOBANIS - European Network on Invasive Alien Species. 
+R18363,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00592,UK,1836,Online Atlas of the British and Irish flora. 
+R19909,CZ,2008,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012"
+R00593,AT,1998,NOBANIS - European Network on Invasive Alien Species. 
+R00595,UK,1849,Online Atlas of the British and Irish flora. 
+R19910,CZ,1866,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012"
+R00596,UK,1873,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00597,SE,1600,NOBANIS - European Network on Invasive Alien Species. 
+R00598,NO,1987,NOBANIS - European Network on Invasive Alien Species. 
+R00599,PT,1922,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00600,SE,1996,NOBANIS - European Network on Invasive Alien Species. 
+R18273,CY,1900,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R16530,IT,2005,"Pais, A., Merella, P., Follesa, M.C. & Garippa, G., 2007. Westward range expansion of the Lessepsian migrant Fistularia commersonii (Fistulariidae) in the Mediterranean Sea, with notes on its parasites. Journal of Fish Biology 70, 269-277."
+R00606,SE,1986,Nobanis (2013)
+R00607,FR,1958,Stoev et al. (2010) Biorisk 4: 97-130
+R19282,UK,1883,Kennard & Woodward (1926) Synonymy of the British non-marine Mollusca
+R19283,DE,1966,Jaeckel & Platte (1967) Z. Angew. Zool. 54: 361-371
+R00617,NO,2009,NOBANIS - European Network on Invasive Alien Species. 
+R18869,IS,1945,NOBANIS
+R00612,IS,1900,NOBANIS - European Network on Invasive Alien Species. 
+R20140,PT,2015,"Verloove F, Alves P, 2016. New vascular plant records for the western part of the Iberian Peninsula (Portugal and Spain). Folia Botanica Extremadurensis 10: 5-23"
+R00620,BG,1904,Sauvard et al. (2010): BioRisk 4: 219-266
+R00621,PT,1894,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00632,UK,1937,"Coeur d'Acier A, Pérez Hidalgo N, Petrovic-Obradovic O, 2010, Aphids (Hemiptera, Aphididae)., BioRisk, 4, 435-474"
+R18796,DK,1984,NOBANIS - European Network on Invasive Alien Species. 
+R00636,FR,1989,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00640,DK,1777,NOBANIS - European Network on Invasive Alien Species. 
+R00642,IS,1902,NOBANIS - European Network on Invasive Alien Species. 
+R00643,AT,1826,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00644,UK,1795,GB Non-native Species Secretariat (NNSS)
+R18870,ES,1797,Wikipedia
+R01811,IT,1997,"Ayala, A. J., M. J. Yabsley, et al. (2020). ""A Review of Pathogen Transmission at the Backyard Chicken–Wild Bird Interface."" Frontiers in veterinary science 7(662)."
+R17461,EG,1924,"Fox, H.M., 1926. General part. Zoological results of the Cambridge expedition to the Suez Canal, 1924. I. Transactions of the Zoological Society of London, 22: 1-64."
+R00655,EG,1933,"Balss, H., 1936. Decapoda (with an appendix, Schizopoda, by C. Zimmer). Part VII in the Fishery Grounds near Alexandria. Fisheries Research Directorate Notes and Memoirs (Cairo), 15: 1-67."
+R20254,IL,1982,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R00656,EG,1975,"Lewinsohn, C. & Holthuis, L.B., 1978. On a new species of Alpheus (Crustacea, Decapoda, Natantia) from the Eastern Mediterranean. Zoologische Mededelingen, 53(7): 75-82."
+R00657,IL,1960,"Lewinsohn, Ch. & Holthuis, L.B., 1964. New records of Decapod Crustacea from the Mediterranean coast of Israel and the Eastern Mediterranean. Zoologische Mededelingen 40 (8): 45-63."
+R00658,ME,1921,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00660,BG,1940,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00661,UK,1793,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R00662,UK,2011,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R00663,PT,1934,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00665,ES,2004,"Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2004.. 2004"
+R18707,BE,1911,Verloove F. 2006.Catalogue of neophytes in Belgium (1800-2005).Scripta Botanica Belgica 89(89)
+R00668,BE,2011,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00669,FR,1971,"OEPP/EPPO, 2016. Alternanthera philoxeroides (Mart.) Griseb. European and Mediterranean Plant Protection Organization Bulletin, 46(1):8-13."
+R00670,ES,2011,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00671,BE,1911,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00673,ES,1998,Vincent et al. (2000) Plant disease 84: 1044
+R00677,IT,1990,"Cavanni, P.; Ponti, I. (1991)L'Informatore Agrario 48 (14), 77-78"
+R00679,RS,1996,"Bulajic A, Fladjic N, Babovic M, Sutton TB, 1996. Planr disease 80, 709"
+R00680,NO,1945,"Natural History Museum, University of Oslo: Mycology herbarium, Oslo (O), 2013-10-27. Accessed via http://www.gbif.org/occurrence/19716463"
+R00681,IT,1923,Bresadola (see USDA ARS BPI 446531)
+R00682,IT,1982,"Frisullo S, 1982. Phytopathologia Mediterranea, 21(2/3):113-115."
+R00683,CZ,1966,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00684,AT,1800,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00685,UK,1792,Online Atlas of the British and Irish flora. 
+R00686,FR,1989,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00687,IE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00689,PT,1989,Beenen & Roques (2010) Biorisk 4: 267-292
+R16914,UK,2007,Cox ML (2007) Atlas of the seed and leaf-beetles of Britain and Ireland. Oxford: Information Press. 336 pp.
+R00690,IL,1958,"Nordsieck, F., 1972. Marine Gastropoden aus der Shiqmona Bucht in Israel. Archiv fur Molluskenkunde, 102: 227-245."
+R19643,IL,2016,"Steger J, Stockinger M, Ivkić A, Galil BS, Albano PG, 2018. New records of non-indigenous molluscs f"
+R00691,SE,1749,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00694,FR,1828,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00696,BE,1868,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00698,BE,1879,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18492,BE,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00705,BE,1850,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00706,CZ,1897,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18491,AT,1945,NOBANIS - European Network on Invasive Alien Species. 
+R00709,LT,1844,NOBANIS - European Network on Invasive Alien Species. 
+R00711,UK,1898,"Lever, C. 2003. Naturalized reptiles and amphibians of the world. Oxford University Press, Oxford, U.K., pp. xx + 318."
+R00712,DE,1899,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00713,IT,1974,"Piero Genovesi Email To S. Shirley Nov 7, 2005"
+R19826,ES,2008,"Carrete M, Tella JL, 2008. Wild-bird trade and exotic invasions: a new link of conservation concern? Frontiers in Ecology and the Environment, 6: 207-211"
+R00715,PT,1998,"H. Costa Email (2001), expert contribution"
+R00716,UK,1987,"Reid, D. A. 1987. New or interesting records of British hymenomycetes VII. Notes Roy. Bot. Gard. Edinburgh 44(3): 503-540"
+R00721,FO,1981,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00722,UK,1956,UK-E_DB
+R00724,IE,1972,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00726,UK,1778,Online Atlas of the British and Irish flora. 
+R00727,UK,1759,Online Atlas of the British and Irish flora. 
+R00728,DK,1801,NOBANIS - European Network on Invasive Alien Species. 
+R00731,DE,1889,"Walter J., Dobes Ch. 2004.Morphological characters, geographic distribution and ecology of neophytic Amaranthus blitum L. subsp. emarginatus in Austria.Ann. Naturhist. Mus. Wien 645-672(645-672)"
+R00732,BE,1890,Verloove F. 2006.Catalogue of neophytes in Belgium (1800-2005).Scripta Botanica Belgica 89(89)
+R00736,SK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00738,BE,1939,Verloove F. 2006.Catalogue of neophytes in Belgium (1800-2005).Scripta Botanica Belgica 89(89)
+R00739,AT,1850,NOBANIS - European Network on Invasive Alien Species. 
+R00740,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R00742,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R18710,UK,1723,Online Atlas of the British and Irish flora. 
+R00744,DK,1895,NOBANIS - European Network on Invasive Alien Species. 
+R00746,AT,1700,Wild Crop Relatives: Genomics and Breeding Resources Vegetables. 2011
+R18715,CZ,1910,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R00752,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R00759,BE,1892,Verloove F. 2006.Catalogue of neophytes in Belgium (1800-2005).Scripta Botanica Belgica 89(89)
+R00760,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R00761,CZ,1908,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R18713,BE,1959,Verloove F. 2006.Catalogue of neophytes in Belgium (1800-2005).Scripta Botanica Belgica 89(89)
+R00764,CZ,1853,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R18714,DE,1932,NOBANIS - European Network on Invasive Alien Species. 
+R00768,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R00770,ES,1500,"CABI-Invasive Species Compendium. Datasheets, maps, images, abstracts and full text on invasive species of the world. "
+R00771,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R00772,EE,1954,NOBANIS - European Network on Invasive Alien Species. 
+R00773,DK,1959,NOBANIS - European Network on Invasive Alien Species. 
+R00774,IT,1974,Med-Checklist - A critical inventory of vascular plants of the circum-mediterranean countries. 2014
+R00775,AT,1945,NOBANIS - European Network on Invasive Alien Species. 
+R00776,CZ,1909,"Pyšek P., Danihelka J., Sádlo J., Chrtek J. Jr., Chytrý M., Jarošík V., Kaplan Z., Krahulec F., Moravcová L., Pergl J., Štajerová K., Tichý L. 2012.Catalogue of alien plants of the Czech Republic (2nd edition): checklist update, taxonomic diversity and invasion patterns..Preslia 155–255(155–255)"
+R00777,CZ,1945,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00778,HU,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00779,HU,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00780,SK,1966,"Medvecká J., Kliment J., Májeková J., Halada L., Zaliberová M., Gojdičová E., Feráková V., Jarolímek I. 2012.Inventory of the alien flora of Slovakia.Preslia 257-309(257-309)"
+R00781,HU,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00783,HU,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18794,HU,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00785,HU,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00787,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R20044,FR,2018,"Roques A, Bernard A, Courtin C, Denux O, Roques O, Auger-Rozenberg MA, 2021. Bilan des piégeages 2020 dans les ports d’entrée et en forets avec le mélange générique attractif pour les xylophages exotiques envahissants. Rapport INRAE URZF Orléans, 13 pp."
+R16562,IT,1978,"Occhipinti Ambrogi, A., 1983. the zonation of bryozoans along salinity gradients in the Venice lagoon, (Northern Adriatic). Paper presented at the 6th Conference on Bryozoa, Vienna."
+R19294,PT,2009,"Amat, J.N., Tempera, F., 2009. Zoobotryon verticillatum Della Chiaje, 1822 (Bryozoa), a new occurrence in the archipelago of the Azores (North-Eastern Atlantic). Mar. Pollut. Bull. 58, 761-764."
+R00790,LB,2000,"Scapolatempo, M., Solustri, C. & Sabelli, B., 2003. Amathina tricarinata (Linnaeus, 1767) (Orthogastropoda, Heterobranchia, Amathinidae) una nuova specie esotica in Mediterraneo. Biologia Marina Mediterranea, 10, (2): 614-617."
+R00791,DK,1915,"Nentwig W, Kobelt M, 2010, Spiders (Araneae)., BioRisk, 4, 131-147"
+R17849,PT,1982,Sauvard et al. (2010): BioRisk 4: 219-266
+R00792,CH,1891,Niethammer G (1963). Die Einburgerung Von Saugetiere And Vogeln In Europa (Introduced Mammals And Birds In Europe). Paul Parey. Hamburg And Berlin
+R00793,DE,1987,"Zingel D (2000) 25 Years Freely Living Parrots In Wiesbaden. Yearbooks Of the Nassaui Association For Natural History 121, 129-141"
+R19786,ES,2008,"Carrete M, Tella JL, 2008. Wild-bird trade and exotic invasions: a new link of conservation concern? Frontiers in Ecology and the Environment, 6: 207-211"
+R19785,ES,2008,"Carrete M, Tella JL, 2008. Wild-bird trade and exotic invasions: a new link of conservation concern? Frontiers in Ecology and the Environment, 6: 207-211"
+R00796,ES,2003,"Van Dijk A. J., Van Der Weide M., Kleefstra R., Zoetebier D. & Plate C. 2003. Kolonievogels En Zeldzame Broedvogels In Nederland In 2002. Sovon-Monitoringrapport 2001/08. Sovon, Beek-Ubbergen."
+R00797,DE,1984,Niethammer G (1963). Die Einburgerung Von Saugetiere And Vogeln In Europa (Introduced Mammals And Birds In Europe). Paul Parey. Hamburg And Berlin
+R00800,DE,1984,Schmolz (2005)
+R20285,UK,2020,"Roy H, Rorke S, Wong L J, Pagad S (2020). Global Register of Introduced and Invasive Species - Great Britain. Version 1.7. Invasive Species Specialist Group ISSG. Checklist dataset https://doi.org/10.15468/8rzqvw accessed via GBIF.org on 2023-06-06. "
+R20251,IL,2022,"Lewinsohn C and  Calil B, 1982. NOTES ON SPECIES OF ALPHEUS (CRUSTACEA DECAPODA)} ROM THE MEDITERRANEAN COAST OF ISRAEL."
+R00803,SE,1886,NOBANIS - European Network on Invasive Alien Species. 
+R00804,RU,1989,Tiutin (2002) Parazitologiia 36(2): 163-166
+R00805,CZ,1892,Lusk et al (2010) Folia Zool. 59(1):57-72.
+R00806,ES,2004,Navajas et al. (2010) Biorisk 4: 149-192
+R00807,PL,2010,"Nowak M. 2010 the international trade in reptiles (Reptilia) –the cause of the transfer of exotic ticks (Acari: Ixodida) to Poland, Veterinary Parasitology, 169, 373-381"
+R00808,ES,2004,Brotóns & Estrada-Peña (2004) 7th intern. sympos. pathology and medecine of reptiles and amphibians
+R00809,PL,2010,"Nowak M. 2010 the international trade in reptiles (Reptilia) –the cause of the transfer of exotic ticks (Acari: Ixodida) to Poland, Veterinary Parasitology, 169, 373-381"
+R00810,PL,2010,"Nowak M. 2010 the international trade in reptiles (Reptilia) –the cause of the transfer of exotic ticks (Acari: Ixodida) to Poland, Veterinary Parasitology, 169, 373-381"
+R00811,PL,2010,"Nowak M. 2010 the international trade in reptiles (Reptilia) –the cause of the transfer of exotic ticks (Acari: Ixodida) to Poland, Veterinary Parasitology, 169, 373-381"
+R00812,PL,2010,"Nowak M. 2010 the international trade in reptiles (Reptilia) –the cause of the transfer of exotic ticks (Acari: Ixodida) to Poland, Veterinary Parasitology, 169, 373-381"
+R00813,FR,1932,"Bickel, Daniel J., 1994. the Australian Sciapodinae (Diptera: Dolichopodidae), with a review of the Oriental and Australasian faunas, and a world conspectus of the subfamily. Records of the Australian Museum, Supplement 21: 1–394. [23 December 1994]."
+R00815,UK,1991,Navajas et al. (2010) Biorisk 4: 149-192
+R17672,CZ,1993,Navajas et al. (2010) Biorisk 4: 149-192
+R00818,PL,1613,NOBANIS - European Network on Invasive Alien Species. 
+R19679,SI,2015,"Lešnik M, Vajs S, 2015. Noxiousness evaluation of some not yet widespread species of the genus Ambr"
+R00819,AT,1850,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00820,FR,1899,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00821,DE,1877,"Follak S., Dullinger S., Kleinbauer I., Moser D., Essl F. 2013.Invasion dynamics of three allergenic invasive Asteraceae (Ambrosia trifida, Artemisia annua, Iva xanthiifolia) in central and eastern Europe..Preslia 41-61(41-61)"
+R16916,IT,2008,Sauvard et al. (2010): BioRisk 4: 219-266
+R19491,IT,1868,Maio and Scillitani 2004
+R19075,DE,1970,"Scheibel, A., 1974. Ameira divagans Nicholls, 1939 (Copepoda Harpacticoidea), redescription from the Bay of Kiel. Mikrofauna des Meeresbodens, 38, 1-10."
+R00825,UK,2000,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00826,FR,1871,"Boët, P. Le poisson-chat Ameiurus melas (Rafi nesque, 1920) // Atlas des poisons d'eau douce de France / EdsP. Keith, J. Allardi. -- Paris : Patrimoines naturels, MNHN, 2001. -- 47. -- Р. 222-223."
+R00827,IT,1906,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00828,SK,1800,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R00829,DE,1801,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00830,SE,1875,NOBANIS - European Network on Invasive Alien Species. 
+R00832,SE,1996,NOBANIS - European Network on Invasive Alien Species. 
+R00833,BE,1876,Invasive species in Belgium. 
+R00834,NO,1921,NOBANIS - European Network on Invasive Alien Species. 
+R00835,DK,1800,NOBANIS - European Network on Invasive Alien Species. 
+R00831,SE,1910,NOBANIS - European Network on Invasive Alien Species. 
+R00839,UK,1978,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00840,DK,1925,NOBANIS - European Network on Invasive Alien Species. 
+R00841,IT,1993,Turin et al (1997) Lavori - Soc. Ven. Sc. Nat. 22:7-14.
+R00842,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R00843,IT,1980,Rasplus et al. (2010) BioRisk 4: 669–776
+R00844,FR,1971,Rasplus et al. (2010) BioRisk 4: 669–776
+R00848,IT,1500,Celesti-Grapow et al (2010) Plant Biosystems 144:12-28.
+R00849,IT,1500,Celesti-Grapow et al (2010) Plant Biosystems 144:12-28.
+R00850,ES,1984,http://www.europe-aliens.org/speciesFactsheet.do?speciesId=9478#
+R18876,ME,1942,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00851,UK,1551,Online Atlas of the British and Irish flora. 
+R00852,BE,1887,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R19716,CY,1937,"Long JL, 1981. Introduced birds of the world. David & Charles, Newton Abbot, England."
+R00857,IT,1979,"Krapp, F. & Sconfietti, R., 1983. Ammothea hilgendorfi (Bohm, 1879), an adventitious pycno gonid new for the Mediterranean Sea. Marine Ecology., 4 (2): 123-132."
+R00858,DE,1883,"Geiter O, Homma S, Kinzelbach R (2002) Bestandsaufnahme und Bewertung von Neozoen in Deutschland. Texte des Umweltbundesamtes 2002 (25). http://www.umweltdaten.de/publikationen/fpdf-l/2141.pdf. Cited 10 Dec 2005"
+R00859,DE,1724,"Seibold S., Fischer A. 2013.Suppression of alien invasive species by traditional land use forms: Amorpha fruticosa L. in the Croatian nature park Lonjsko Polje..Sauteria 265-276(265-276)"
+R00860,SE,1994,Nobanis (2013)
+R17243,ES,2005,"Martinez, J., Adarraga, .I & Ruiz, J.M., 2007. TipiWcaciσn de oblaciones bentσnicas de los fondos blandos de la plataforma continental de Guipϊzcoa (sureste del golfo de Vizcaya). Bol Inst Esp Oceanog 23(1-4):85-110."
+R17244,PT,1986,"Marques, J.C. & Bellan-Santini, D., 1990. Benthic amphipod fauna (Crustacea) of the Portuguese coast: biogeographical considerations Mar. Nat. 3: 43-51."
+R00861,PT,1952,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00862,BE,1991,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00863,NL,2007,"Rabitsch W, 2010, True Bugs (Hemiptera, Heteroptera)., BioRisk, 4, 407-433"
+R00864,BG,1987,"Rabitsch W, 2010, True Bugs (Hemiptera, Heteroptera)., BioRisk, 4, 407-433"
+R19296,PT,1889,"Gruvel, A., 1920. Cirripedes. Resultats des Campagnes Scientifiques. Accomplies sur ur son Yacht par Albert 1er. Prince Souver. Monaco 53, 1-88."
+R16532,UA,1892,"Ostroumov, A., 1892. Report of participation in research trip on the Azov area onboard of transport ship ""Kazbek"" in summer 1891. - Mem. Imp. Acad. Sci. St. Petersburg/Suppl. 69 (6): 1-19 (in Russian)."
+R17488,BE,1700,"Kerckhof, F. & Cattrijsse, A., 2001. Exotic Cirripedia (Balanomorpha) from buoys off the Belgian coast. Senckenbergiana maritima 31: 245-254."
+R17489,FR,1958,"Zibrowius, H., 1992. Ongoing modification of the Mediterranean fauna and flora by the establishment of exotic species. Mesogee 51: 83-107."
+R00865,BE,1997,"Kerckhof, F. & Cattrijsse, A., 2001. Exotic Cirripedia (Balanomorpha) from buoys off the Belgian coast. Senckenbergiana maritima 31: 245-254."
+R19551,PL,1927,Zacher 1927
+R16533,IT,1983,"Giangrande, A., 1989. Censimento dei policheti dei mari Italiani: Sabellidae Malmgren, 1867. Atti Della Societa Toscana di Scienze Naturali Serie B 96: 153-189."
+R18899,FR,1766,Viggiani & Battaglia (1983)
+R16661,EG,1936,"Burton, M., 1936. the fishery ground near Alexandria. IX. Sponges. Notes and Memoirs of the Fisheries Research Directorate, Cairo 17: 1-28."
+R17539,IL,1934,"Salman, A., Katagan, T. & Boletzky, S., 1999. New Cephalopod molluscs in the eastern Mediterranean: previously unnoted species or recent migrants? Vie et Milieu, 49: 11-17."
+R16534,TR,2005,"Stohr, S., Cinar, M.E. & Dagli, E., 2010. Brittle stars (Echinodermata: Ophiuroidea) from the southern coast of Turkey (Eastern Mediterranean): New records and revision of Amphiodia obtecta Mortensen, 1940. Zootaxa 2483: 45-57."
+R16535,IL,1944,"Tortonese, E., 1953-1954. Gli Echinodermi viventi presso le coste dello Stato di Israele. (Mar di Levante, Golfo di Elath). Bolletino dei Musei di Zoologia e di anatomia comparata della R. Universita di Torino 4(4): 39-72."
+R00867,EL,1974,"Hollaus, S.S. & Hottinger, L., 1997. Temperature dependence of endosymbiotic relationships? Evidence from the depth range of Mediterranean Amphistegina lessonii (Foraminiferida) truncated by the thermocline. Eclogae geologicae Helvetiae, 90: 591-597."
+R20269,IT,2014,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R20268,IL,2002,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R00869,TR,1959,"Emery, K.O. & Neev, D., 1960. Mediterranean beaches of Israel. Isr. Geol. Surv., Bull. 26, 23 pp."
+R00871,DE,1930,Enghoff (1987) Entomol. Meddel. 54: 147–148.
+R16536,FR,1964,"Goy, J., 1972. Les Hydromeduses de la mer Ligure. Bulletin du Museum National d’Histoire Naturelle, Paris, ser. 3, 83: 965-1008."
+R19514,RU,2010,"Selifonova, 2011"
+R00872,UK,1984,UK-E_DB
+R17607,TR,2010,"Ozaydinli M.& Colemam CH.O., 2012. Ampithoe bizseli n. sp. (Crustacea, Amphipoda) from the west coast of Turkey. Zootaxa 3388: 17–28"
+R19302,PT,1993,"Faase, 2015"
+R00875,DK,1902,NOBANIS - European Network on Invasive Alien Species. 
+R00876,DK,1977,NOBANIS - European Network on Invasive Alien Species. 
+R00877,DK,1916,NOBANIS - European Network on Invasive Alien Species. 
+R00878,BE,1924,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00879,BE,1874,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00880,UK,1910,Online Atlas of the British and Irish flora. 
+R00881,DK,1894,NOBANIS - European Network on Invasive Alien Species. 
+R00883,BE,1877,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R20141,SE,2020,GBIF
+R00892,DE,1989,"Stresemann E. (1989) Exkursionsfauna von Deutschland, Band 2: Wirbellose: Insekten. Springer"
+R00893,DE,1900,"Weidner H, 1981, Einschleppung von Heuschrecken (Saltatoria und Phasmida) nach Hamburg., Anz. Schädlkde. Pflanzen-Umweltschutz, 54, 65-67"
+R00896,SE,1600,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18494,FR,1934,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
+R00898,DK,1923,NOBANIS - European Network on Invasive Alien Species. 
+R00899,BE,1913,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R18218,TR,1998,"Ceviker, D. & Albayrak, S., 2002. New record of an exotic Bivalve from the southeastern coast of Turkey: Scapharca inflata (Reeve,1844). La Conchiglia, 305: 56-60."
+R16538,IT,1966,"Ghisotti, F., 1973. Scapharca cfr. Cornea (Reeve), ospite nuova del Mediterraneo. Conchiglie, 9(3-4): 68."
+R00902,IL,1935,"Haas, G., 1937. Mollusca marina. In: Bodenheimer F.S. (ed.). Prodromus faunae Palestinae, pp. 275-280, Memoires de l'Institut d'Egypte."
+R00903,TR,1972,"Demir, M., 1977. On the presence of Arca (Scapharca) amygdalum Philippi, 1847 in the harbour of Izmir, Turkey. Istanbul Universitesi Fen Fakultesi Mecmuasi Ser. B, 42: 197-202, 1 pl."
+R17705,UK,1906,Stoev et al. (2010) Biorisk 4: 97-130
+R17692,UK,1900,Stoev et al. (2010) Biorisk 4: 97-130
+R18258,DK,1648,NOBANIS - European Network on Invasive Alien Species. 
+R00907,CZ,1953,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R16917,PT,1993,Rasplus et al. (2010) BioRisk 4: 669–776
+R00911,IT,1983,Viggiani G. & Battaglia (1983) Boll. Lab. Entomol. Agraria 'Filippo Silvestri' Portici 40: 109-114
+R00912,PT,1994,Rasplus et al. (2010) BioRisk 4: 669–776
+R16919,PT,1994,Rasplus et al. (2010) BioRisk 4: 669–776
+R00913,UK,1709,Online Atlas of the British and Irish flora. 
+R00914,IT,1977,Arzone & Vidano C (1978) Inform. Agr. 34: 2741 - 2744
+R00915,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00917,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
+R00920,ES,2003,"Zur Strassen R (2003) Die terebranten thysanopteren Europas und des Mittelmeer-Gebietes. Die Tierwelt Deutschlands 74. Keltern, Germany: Verlag Goecke and Evers. 277 pp."
+R00921,BE,1957,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00922,UK,1959,"Emmet, A.M., Langmaid, J.R. (2002) the moths and butterflies of Great Britain and Ireland (Vol 4, part 2) 1-277:225"
+R19726,UK,2003,"DAISIE, 2003. European Invasive Alien Species Gateway. http://www.europe-aliens.org (Accessed 15 April 2011)"
+R00925,UK,1998,"Mullarney K, Svensson L, Zetterstrom D And Grant Pj (1998). Collins Bird Guide. Harpercollins Pub Ltd"
+R00926,DE,1996,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00927,DE,1998,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00928,DE,2002,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00931,DE,2002,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00932,DE,1999,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00933,DE,1998,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R01076,ES,1970,"Martín, A. & Lorenzo, J. A. 2001. Aves Del Archipiélago Canario. Francisco Lemus Editor"
+R00935,DE,1999,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R19722,UK,1906,"Banks AN, Wright LJ, Maclean IMD, Rehfisch MM, 2008. Review of the Status of Introduced Non-Native Waterbird Species in the Area of the African-Eurasian Waterbird Agreement: 2007 Update. BTO Research Report No. 489 to the AEWA Secretariat. BTO, Thetford, UK."
+R00937,DE,1998,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00939,DE,1998,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R19767,DE,1985,"Snow D, Perrins C, 1998. The birds of the western Palearctic (Volume 1). Oxford Uni Press, New York, USA."
+R00944,SE,2005,http://svalan.artdata.slu.se/rappsyst/
+R00946,DE,2002,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R20286,UK,2020,"Roy H, Rorke S, Wong L J, Pagad S (2020). Global Register of Introduced and Invasive Species - Great Britain. Version 1.7. Invasive Species Specialist Group ISSG. Checklist dataset https://doi.org/10.15468/8rzqvw accessed via GBIF.org on 2023-06-06. "
+R19712,UK,1850,"Snow D, Perrins C, 1998. The birds of the western Palearctic (Volume 1). Oxford Uni Press, New York, USA."
+R19741,UK,2007,"Banks AN, Wright LJ, Maclean IMD, Rehfisch MM, 2008. Review of the Status of Introduced Non-Native Waterbird Species in the Area of the African-Eurasian Waterbird Agreement: 2007 Update. BTO Research Report No. 489 to the AEWA Secretariat. BTO, Thetford, UK."
+R00953,DE,1998,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R00956,HU,1920,Ruschka (1921) Verhandl.Zool.-Bot. Gesell.Wien 70: 234–315
+R00957,IT,1999,Russo et al. (2000) Boll. Zool. Agr. Bachic. Ser.II 32: 239-243.
+R01057,DK,1996,"Hansen,M. 1996. Katalog over Danmarks biller. Ent.Meddr.64(1&2)"
+R00962,ES,2002,"EPPO reporting service n.03 - 2010, 2010/058"
+R00963,PT,1999,Lopez- Vaamonde et al (2010) Biorisk 4: 603-668
+R00965,DE,1928,Verhoeff (1928) Zool. Anz. 79: 58–64.
+R00966,SE,1986,Nobanis (2013)
+R00968,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00969,AT,1501,NOBANIS - European Network on Invasive Alien Species. 
+R00970,UK,1866,Online Atlas of the British and Irish flora. 
+R00974,UA,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00975,AT,1700,NOBANIS - European Network on Invasive Alien Species. 
+R00977,UK,1799,Online Atlas of the British and Irish flora. 
+R00979,UA,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00981,DK,1989,NOBANIS - European Network on Invasive Alien Species. 
+R00986,BE,1947,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00987,UK,1735,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00988,UK,1978,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00989,UK,1735,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00990,UK,1735,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00991,UK,1978,"Fitton MG, de V. Graham MWR, Boucek ZRJ, Fergusson NDM, Huddleston T, et al. (1978) Hymenoptera. In Kloet GS, Hincks WD (eds). A checklist of British insects. Handbooks for the identification of British insects, 2nd ed. London: Royal Entomological Society"
+R00992,DE,1929,"Geiter, O.; Homma, S.; Kinzelbach, R. 2002. Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland. Texte Des Umweltbundesamtes 2002 (25), 174 + 36 + 31 + 52 P."
+R00994,FR,1950,"EPPO (2018) Pest risk analysis for Andropogon virginicus. EPPO, Paris."
+R00995,NO,1888,NOBANIS - European Network on Invasive Alien Species. 
+R18357,LV,1904,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R00997,LV,1926,NOBANIS - European Network on Invasive Alien Species. 
+R01001,UK,50  ,Schoeb et al (2007)
+R01002,AT,1945,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01004,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01007,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01009,FR,1867,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01011,DK,1972,NOBANIS - European Network on Invasive Alien Species. 
+R12662,CZ,1852,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01015,UK,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01016,NO,1892,NOBANIS - European Network on Invasive Alien Species. 
+R01017,DK,1981,NOBANIS - European Network on Invasive Alien Species. 
+R18462,DK,1989,NOBANIS - European Network on Invasive Alien Species. 
+R18457,IE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01018,EE,1777,NOBANIS - European Network on Invasive Alien Species. 
+R01019,DK,1949,Nobanis (2013)
+R01021,CZ,1517,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R16358,IL,1950,"Mienis, H.K., 1980a. Planaxis lineolatus Gould. Another Indo-Pacific species from the Mediterranean coast of Israel. Levantina, 28: 324."
+R20280,ES,2022,"Martin-Alonso A, Abreu-Yanes E, Feliu C, Mas-Coma S, Bargues MD, Valladares B, Foronda P. Intermediate hosts of Angiostrongylus cantonensis in Tenerife, Spain. PLoS One. 2015 Mar 24;10(3):e0120686. doi: 10.1371/journal.pone.0120686. PMID: 25803658; PMCID: PMC4372438."
+R20085,RO,2007,"Paunović M, Csányi B, Simonović P, Zorić K. Invasive alien species in the Danube. InThe Danube River Basin 2015 (pp. 389-409). Springer, Berlin, Heidelberg."
+R01026,UK,1980,"Froese and Pauly (2013) FishBase. World Wide Web electronic publication. www.fishbase.org, version (02/2013)"
+R01027,IT,2008,DAISIE-terr
+R18171,IT,1982,Paggi L. et al. (1982) Parassitologia 24: 139-144.
+R01029,FR,1985,Dupont F. and Petter A.J. (1988) Bull. Fr. Pêche Piscic. 308 : 38-41.
+R01028,IT,1982,Moravec F. and Taraschewski H. (1988) Folia Parasitologica 35: 125-146.
+R01030,EE,1971,Krall E. and Krall H. (1971) Faunistilisi Markmaid Tartu 1 (4/5): 281-284.
+R01031,SE,1920,Byars L.P. (1920) USDA Bulletin 842.
+R01032,IE,1906,"Fitter, R.S.R., 1959. the Ark in our Midst. the Story of the Introduced Animals of Britain: Birds, Beasts, reptiles, Amphibians, Fishes. London, Collins."
+R01034,HR,1977,Hoffer (1970) Studia Entomol.Forest. 1: 151–170.
+R16540,LB,2003,"Bariche, M. & Trilles, J.P., 2006. Anilocra pilchardi n. sp., a new parasitic cymothoid isopod from off Lebanon (Eastern Mediterranean). Systematic Parasitology, 64:203-214."
+R19562,UA,2007,"Terekhova and Skrylnik, 2012"
+R01037,DE,1901,"Kraepelin K, 1901, Ueber die durch den Schiffsverkehr in Hamburg eingeschleppten Tiere, 2. Beih. Jb. Hamburg. Wiss. Anst., 18, 183-209"
+R01038,UK,1959,"British Lichen Society - BLS Mapping Scheme dataset, 1750-2009"
+R01039,IT,2005,Reynaud (2010) BioRisk 4: 767–791.
+R16921,AT,1911,Ruschka (1921) Verhandl.Zool.-Bot. Gesell.Wien 70: 234–315
+R20013,IT,2010,"Mori E, Magoga G, Panella M, Montagna M, Winsor L, Justine JL, Menchetti M, Schifani E, Melone B, Mazza G, 2021. Discovering the Pandora’s box: the invasion of alien flatworms in Italy. Biological Invasions. Sep 26:1-2. "
+R20287,ES,2000,"Mezquita, F., A. Sanz-Brau & G. Wansard, 2000. Habitat preferences and population dynamics of Ostracoda in a helocrene spring system. Canadian Journal of Zoology 78: 840-847. "
+R20142,ES,2005,"Gallego PPF, Lumbreras EL, 2019. Sobre la presencia de Annona cherimolia Mill.(Annonaceae) como especie asilvestrada en la flora valenciana. Flora Montiberica 74: 96-98"
+R01043,SE,1935,NOBANIS - European Network on Invasive Alien Species. 
+R01047,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobierno de Canarias. http://www.interreg-bionatura.com/especies/index.php?opt=verDatos#"
+R01048,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobierno de Canarias. http://www.interreg-bionatura.com/especies/index.php?opt=verDatos#"
+R01049,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobierno de Canarias. http://www.interreg-bionatura.com/especies/index.php?opt=verDatos#"
+R01050,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobierno de Canarias. http://www.interreg-bionatura.com/especies/index.php?opt=verDatos#"
+R18148,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobierno de Canarias. http://www.interreg-bionatura.com/especies/index.php?opt=verDatos#"
+R01051,NL,1935,"Van Benthem Jutting, W.S.S., 1936. Over de Anomia's of Paardenzadels van het Nederlandsche strand. Basteria 1 : 17-19."
+R01055,TR,*   ,Mehlhorn (2008)
+R01056,EG,1936,"Helfer, H., 1936. the fishery grounds near Alexandria (Egypt), VII. Pantopoda. Notes and memoirs, Ministry of Commerce and Industry, Fisheries Research Directorate, Egypt 16, 1-6."
+R16541,IL,1951,"Stock, J.H., 1958. Pycnogonida from the Mediterranean coast of Israel. the Bulletin of the Research Council of Israel 7B(3/4): 137-142."
+R01059,UK,1953,Rasplus et al. (2010) BioRisk 4: 669–776
+R01060,IT,2000,Colombo & Limonta (2001) Boll. Zool. Agr.Bachic. II Ser 33: 65–68
+R01061,AT,2001,Dauber & Mitter (2001) Beitr. z. Naturk. Oberösterreichs 10: 503–508
+R01064,FR,1943,"Feldmann, J., 1943. Les algues marines de la cote des Alberes, IV. Ceramiales. Traveaux Algologiques 1: 29-113."
+R01066,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R01067,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
+R01068,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R01069,UK,2002,Dudley Sp (2005). Changes To Category C Of the British List. Ibis 147: 803-820.
+R01070,BE,1971,Long Jl (1981). Introduced Birds Of the World. Universe Books. New York. 528 pp.
+R01072,UK,1991,Audit Of Non-Native Species In England Url: Http://Www.English-Nature.Org.Uk/Pubs/Publication/Pdf/662.Pdf
+R01073,DE,1854,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
+R01074,NL,2002,"Van Dijk A. J., Van Der Weide M., Kleefstra R., Zoetebier D. & Plate C. (2003) Kolonievogels En Zeldzame Broedvogels In Nederland In 2002. Sovon-Monitoringrapport 2001/08. Sovon, Beek-Ubbergen."
+R01075,FI,1960,Long Jl (1981). Introduced Birds Of the World. Universe Books. New York. 528 pp.
+R01077,DE,1933,Http://Www.Unep-aewa.Org/Meetings/En/Mop/Mop2_Docs/Wrd/Infodocs/Inf2_17_Non_Native.Doc
+R19762,UK,1996,"Banks AN, Wright LJ, Maclean IMD, Rehfisch MM, 2008. Review of the Status of Introduced Non-Native Waterbird Species in the Area of the African-Eurasian Waterbird Agreement: 2007 Update. BTO Research Report No. 489 to the AEWA Secretariat. BTO, Thetford, UK."
+R01078,FR,1999,"Rasplus J-Y & Roques A, 2010, Dictyoptera (Blattodea, Isoptera), Orthoptera, Phasmatodea and Dermaptera., BioRisk, 4, 807-831"
