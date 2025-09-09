@@ -22,7 +22,6 @@ info_single_species <- jsonlite::fromJSON(
   flatten = TRUE
 )
 info_single_species
-View(info_single_species)
 
 # Function to get all information for a single species/taxon
 get_species_info <- function(easin_id) {
