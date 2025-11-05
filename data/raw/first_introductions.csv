@@ -822,7 +822,7 @@ R01075,FI,1960,Long Jl (1981). Introduced Birds Of the World. Universe Books. Ne
 R01077,DE,1933,Http://Www.Unep-aewa.Org/Meetings/En/Mop/Mop2_Docs/Wrd/Infodocs/Inf2_17_Non_Native.Doc
 R19762,UK,1996,"Banks AN, Wright LJ, Maclean IMD, Rehfisch MM, 2008. Review of the Status of Introduced Non-Native Waterbird Species in the Area of the African-Eurasian Waterbird Agreement: 2007 Update. BTO Research Report No. 489 to the AEWA Secretariat. BTO, Thetford, UK."
 R01078,FR,1999,"Rasplus J-Y & Roques A, 2010, Dictyoptera (Blattodea, Isoptera), Orthoptera, Phasmatodea and Dermaptera., BioRisk, 4, 807-831"
-R18211,IT,1968,"Schmekel, 1968"
+R18211,IT,1968,"Schmekel L, (1968). Ascoglossa, Notaspidea und Nudibranchia im Litoral des Golfes von Neapel. Revue Suisse de Zoologie, 75: 103-155. - Carmona, L., Bhave, V., Salunkhe, R., Pola, M., Gosliner, T. M., & Cervera, J. L. (2014). Systematic review of Anteaeoli"
 R18435,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R01081,DK,1700,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R01083,DK,1642,NOBANIS - European Network on Invasive Alien Species. 
@@ -1181,7 +1181,6 @@ R16557,TR,2004,"Meric, E., Avsar, N. & Bergin F., 2004. Benthic foraminifera of 
 R01585,UK,1980,Souty-Grosset et al. (2006). Atlas of crayfish in Europe. Pp. 187
 R01587,NO,1967,NOBANIS - European Network on Invasive Alien Species. 
 R01588,EE,1807,NOBANIS - European Network on Invasive Alien Species. 
-R20144,ES,2010,GBIF
 R17250,TR,1990,"Albayrak, S., 1996. Echinoderm fauna of the Bosphorus (Turkiye). oebalia, 22: 25-32."
 R17251,UA,1967,"Senicheva, M.I., 1971. Composition and quantitative development of phytoplankton of neritic zone in Sevastopol area during autumn-winter 1968-1969. Biologia moria 24:3-12."
 R01597,BE,1911,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
@@ -1407,6 +1406,7 @@ R19665,EG,2017,"Stamouli C, Akel EHKH, Azzurro E, Bakiu R, Bas AA, et al., 2017.
 R01932,FO,1978,"Enckell PH, Bengtson S, Wiman B, 1987, Serf and waif colonization: distribution and dispersal of invertebrate species in Faroe Island settlement areas., J. Biogeogr., 14, 89-104"
 R20225,ES,2014,"Szekeres J, Beermann A, Neubauer TA, Očadlik M, Paunović M, Raković M, Csányi B, Varga A, Weigand A, Wilke T and Fehér Z, 2022. Rapid spread of a new alien and potentially invasive species, Clathrocaspia knipowitschii (Makarov, 1938) (Gastropoda: Hydrobiidae), in the Danube River. Arch Biol Sci. 2022;74(1):81-89 "
 R20259,ES,2020,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R17589,IT,2003,"Bottalico, A., Delle Foglie, C.I. & Perrone, C., 2006. New records along the Apulian coasts. In: UNEP-MAP-RAC/SPA (eds), Proceedings of the Second Mediterranean Symposium on Marine Vegetation, Athens, 12-13 December 2003, pp. 77-82, Tunis."
 R19576,FR,2016,"EPPO reporting service n.02 - 2017, 2017/038"
 R01933,ES,1997,Garner et al 2005 Emerging Infectious Diseases 11(10)1639-1641
 R19964,NL,2008,"Spitzen-van der Sluijs A, Spikmans F, Bosman W, de Zeeuw M, van der Meij T, Goverse E, Kik M, Pasmans F, Martel A, 2013. Rapid enigmatic decline drives the fire salamander (Salamandra salamandra) to the edge of extinction in the Netherlands. Amphibia-Reptilia 34: 233-239."
@@ -2930,6 +2930,7 @@ R16641,HR,1973,"Schimidt, H.E. & Benovic, A., 1979. Cruises of R/V ""Vila Velebi
 R16642,EG,1972,"Schmidt, H.E., 1972. the distribution of Hydroida (Hydrozoa: Coelenterata) in the Red Sea and the eastern Mediterranean. In: Les consequences biologiques des canaux inter-oceans. C. r. XVIII. Congr. int. Zool., theme nr. 3 : sep. pp. 1-8."
 R16599,IT,1911,source not verified
 R04140,EE,1805,NOBANIS - European Network on Invasive Alien Species. 
+R19290,PT,2005,"Fredericq, S., Serrao, E., Norris, J.N., 1992. New records of red algae from the Azores.Arquipelago 10, 1-4"
 R04144,ES,2002,Haroun et al.(2002). A checklist of the marine plants from the Canary Islands (central eastern Atlantic Ocean). Botanica Marina 45: 139-169.
 R04145,NL,1994,"Stegenga, H. & Prud'homme van Reine, W.F., 1998. Changes in the seaweed flora of the Netherlands, in: Scott, G.W. et al. (Ed.) (1998). Changes in the marine flora of the North Sea. pp. 77-87."
 R04146,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
@@ -3312,6 +3313,7 @@ R04617,ES,2011,"Base de Datos de Especies Introducidas en Canarias, 2011. Gobier
 R16390,IL,1992,"Golani, D., 1993. Trophic adaption of Red Sea fishes to the eastern Mediterranean environment - Review and new data. Israel Journal of Zoology, 39: 391-402."
 R04618,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
 R17414,IL,1996,"Hyams-Kaphzan, O., Almogi-Labin, A., Sivan, D. & Benjamini, C., 2008. Benthic foraminifera assemblage change along the southeastern Mediterranean inner shelf due to fall-off of Nile-derived siliciclastics. Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen, 248 (3): 315-344."
+R17523,IL,1993,"Hottinger, L., Halicz, E. & Reiss, Z., 1993. Recent foraminiferida from the Gulf of Aqaba, Red Sea. Dela (Slovenska akademija znanosti in umetnosti. Razred za naravoslovne vede). Vol. 33. Ljubljana, Slovenska Akademija Znanosti in Umetnosti, 179 pp."
 R04619,IT,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R09624,IE,1982,"Holmes, J.M.C. & Gotto, R.V., 2000. A checklist of the Cyclopoida (Crustacea: Copepoda) of Ireland. Bulletin of the Irish Biogeographical Society 24: 1-42."
 R04621,RU,1950,Rivier (1996) Hydrobiologia 320 (Issue 1-3): 235-241
@@ -3527,6 +3529,7 @@ R04886,DE,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe.
 R04887,NO,1892,NOBANIS - European Network on Invasive Alien Species. 
 R04892,IT,1974,Sauvard et al. (2010): BioRisk 4: 219-266
 R18208,TR,1993,"Ceviker, 2001"
+R18209,IL,2005,"Sharon et al., 2005"
 R18583,AT,1971,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R17541,IL,1999,"Hyams, O., 2000. Benthic Foraminifera from the Mediterranean Inner Shelf, Israel. MSc thesis (in Hebrew), Faculty of Natural Sciences, Ben-Gurion University of the Negev, Israel."
 R04902,ES,1975,"Mahnert, V. 1997. New species and records of pseudoscorpions (Arachnida, Pseudo-scorpiones) from the Canary Islands, Rev. Suisse de Zool., 104 (3): 559-585"
@@ -5133,6 +5136,7 @@ R06981,IT,1992,Ricci M. and Sabatini A. (1992) Parassitologia 34(1-3): 53-60.
 R06982,SE,1992,Höglund J. et al (1997) Acta Vet Scand 38(2):157-65. 2) Ricci M. and Sabatini A. (1992) Parassitologia 34(1-3): 53-60.
 R19930,HU,1500,DAISIE
 R06984,DK,1958,NOBANIS - European Network on Invasive Alien Species. 
+R17527,TR,2002,"Meric, E., Avsar, N. & Yokes, B., 2007. Alien foraminifers along the aegean and southwestern coasts of Turkey. Rapports de la Commission Internationale pour l’Exploration Scientifique de la Mer Mediterranee, 38: 540."
 R06985,UK,1948,"Bretherton, R.F., B. Goater & R.I. Lorimer (1979). Noctuidae: Noctuinae and Hadeninae. Pp. 120-278 in: Heath, J. & A.M. Emmet (Eds). the moths and butterflies of Great Britain and Ireland. Volume 9, Sphingidae - Noctuidae (Part I). Curwen Books, England."
 R06986,UK,1989,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
 R17838,BE,1999,"Van Keer K, 2007, Exotic spiders (Araneae): Verified reports from Belgium of imported species (1976-2006) and some notes on apparent neozoan invasive species., Nieuwsbr. Belg. Arachnol. Ver., 22, 45-54"
@@ -5219,6 +5223,7 @@ R17757,PT,1907,"Frohawk F.J., A.J.Wendel & P.W.M.Trap (1907, publ 1908). Micromo
 R07109,EE,1807,NOBANIS - European Network on Invasive Alien Species. 
 R07110,FR,2007,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
 R07111,BE,1972,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R21202,EL,2019,"Kontadakis, C., Mbazios, G., Manousis, T., & Galinous-Mitsoudi, S., 2021. Records of the Indo-pacific species Heliacus implexus (Mighels, 1845)(Gastropoda, Architectonicidae) established in the Mediterranean Sea. Xenophora taxonomy. 32 - AVR 2021"
 R18295,DK,1982,NOBANIS - European Network on Invasive Alien Species. 
 R07115,AT,1780,NOBANIS - European Network on Invasive Alien Species. 
 R07116,AT,1835,NOBANIS - European Network on Invasive Alien Species. 
@@ -5529,6 +5534,7 @@ R07518,UK,1977,"Graddon, W.D. 1977.Transactions of the British Mycological Socie
 R07521,UK,1985,"Kirk, P.M. 1984. New or interesting microfungi XIII. Ascomycetes on Laurus nobilis leaf litter. Mycotaxon 19: 307-322."
 R16419,EG,1938,"Monod, T., 1938. Decapoda Brachyura. Mission Robert Ph. Dollfus en Egypte. VIII. Memoires de l’institut d’Egypte 37: 91-162."
 R07522,TN,1975,"Cantone, G., Fassari, G. & Brigandi, S., 1978. Ricerche sui Policheti della Tunisia. Animalia, 5(1/3): 51-78."
+R21203,UA,2017,"Boltachova, N.A., Lisitskaya, E.V. & Podzorova, D.V. Distribution of Alien Polychaetes in Biotopes of the Northern Part of the Black Sea.Â Russ J Biol InvasionsÂ 12, 11â€""26 (2021). https://doi.org/10.1134/S2075111721010033"
 R07524,DE,1872,"Harvard University Herbaria: Harvard University Herbaria, 2014-01-15. Accessed via http://www.gbif.org/occurrence/864800086"
 R07525,DE,1850,Botanic Garden and Botanical Museum Berlin-Dahlem: Lichen Herbarium Berlin. Accessed via http://www.gbif.org/occurrence/786261668
 R07526,UK,1903,Shropshire Ecological Data Network - Shropshire Ecological Data Network Database
@@ -5762,7 +5768,7 @@ R07828,EE,1980,http://www.nobanis.org/NationalInfo.asp?countryID=EE&taxaID=7002
 R17536,IE,1970,"Minchin, D., 2007. Rapid coastal survey for targeted alien species associated with floating pontoons in Ireland. Aquatic Invasions 2(1): 63-70."
 R07830,IT,1960,Rossi et al. (2003) J. Limnol. 62(1): 1-8
 R07831,FR,1960,Kelner-Pillault (1962) L ’Entomologiste 18: 102-110
-R20245,CY,2021,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
+R20245,EL,2016,"Angelidis & Polyzoulis, 2018/Albano et al., 2019/Manousis 2020"
 R19360,IL,2015,"Mienis et al., 2016"
 R07832,IE,1996,"Minchin, D., 2007. A checklist of alien and cryptogenic aquatic species in Ireland. Aquatic Invasions 2(4): 341-366."
 R16678,IT,2001,"Cantone, G. 2001. Polychaetous annelids new or uncommon in the Mediterranean Sea found in the Noto Gulf (south eastern Sicily). Biologia Marina Mediterranea 8(1): 107-108."
@@ -5799,6 +5805,7 @@ R07872,UK,1967,Biological Records Center
 R07873,PT,2002,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R17314,NL,1990,"Stock, J.H., 1993. De marmerkreeftjes (Amphipoda: geslacht Jassa) van Nederland. Het Zeepaard 53: 10-15."
 R20113,TN,2008,"Katsanevakis S, Poursanidis D, Hoffman R, Rizgalla J, Rothman SB, Levitt-Barmats YA, Hadjioannou L, Trkov D, Garmendia JM, Rizzo M, Bartolo AG, 2020. Unpublished Mediterranean records of marine alien and cryptogenic species. BioInvasions Records, https://doi.org/10.3391/bir.2020.9.2.01"
+R07874,PT,1980,"Guerra, M.T., Gaudêncio, M.J., 1982. Première capture de la langouste du sud-ouest Africain, Jasus lalandii (H. Milne Edwards, 1837) sur la côte du Portugal. Cascais : F. Reiner, 1982 [D.L. 1985] Memórias do Museu do Mar. Série Zoológica, 2-22."
 R01252,TR,2004,"Eryilmaz, L. & Dalyan, C., 2006. First record of Apogon queketti Gilchrist Osteichthyes: Apogonidae) in the Mediterranean Sea. Journal of Fish Biology, 69: 1251-1254"
 R01253,IL,2007,"Golani, D., Appelbaum-Golani, B. & Gon, O., 2008. Apogon smithi (Kotthaus, 1970) (Teleostei: Apogonidae), a Red Sea cardinalfish colonizing theMediterranean Sea. Journal of Fish Biology, 72: 1534-1538."
 R20242,IL,2018,"Zenetos A, Alabno PG, López Garcia E, Stern N, Tsiamis K and Galanidi M, 2022. Established non-indigenous species increased by 40% in 11 years in the Mediterranean Sea. Mediterranean Marine Science, 23(1). https://doi.org/10.12681/mms.29106"
@@ -6235,6 +6242,7 @@ R08467,SE,1955,GBIF-Sweden: Fungi (S). Accessed via http://www.gbif.org/occurren
 R08469,PL,1888,"Wojewoda W, Karasiński D, 2010. Invasive Macrofungi (Ascomycota and Basidiomycota) in Poland. Biological Invasions in Poland 1: 7-21"
 R08470,UK,1995,"Dennis, R.W.G. (1995) Fungi of South East England. Kew: Royal Botanic Gardens"
 R08471,UK,1995,"Dennis, R.W.G. (1995) Fungi of South East England. Kew: Royal Botanic Gardens"
+R21204,RO,2021,"Pantea E. NIMRD Phytoplankton Database (Unpublished data); LazÄƒr L., Boicenco L., Todorova V. et al. (2021). Black Sea state of environment based on ANEMONE Joint  Cruise, CD Press: Bucharest, Romania, 185 p."
 R08474,DK,1806,NOBANIS - European Network on Invasive Alien Species. 
 R08475,UK,1596,Online Atlas of the British and Irish flora. 
 R08476,UK,1866,Online Atlas of the British and Irish flora. 
@@ -6810,6 +6818,7 @@ R09251,PL,1959,Nobanis Database
 R09252,UK,1869,Mordue & Ainsworth (1984) Commonwealth Mycological Institute 54:96pp
 R09253,UK,1918,Mordue & Ainsworth (1984) Commonwealth Mycological Institute 54:96pp
 R09945,UK,1850,"Maggs, C.A. & Hommersand, M.H., 1993. Seaweeds of the British Isles: Volume 1 Rhodophyta, Part 3A Ceramiales, 2 edn. Natural History Museum, London."
+R20465,ES,2015,doi:10.2760/7897
 R09254,DK,1850,Nobanis (2013)
 R17104,PT,2005,"Denux O, Zagatti P, 2010, Coleoptera families other than Cerambycidae, Curculionidae sensu lato, Chrysomelidae sensu lato and Coccinellidae., BioRisk, 4, 315-406"
 R09259,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
@@ -6888,6 +6897,7 @@ R09371,SE,1988,Nobanis (2013)
 R18873,UK,1928,Online Atlas of the British and Irish flora. 
 R09372,DK,1966,NOBANIS - European Network on Invasive Alien Species. 
 R09373,BE,1895,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R21205,ES,2007,doi:10.2760/7897
 R09376,DE,1950,"Long JL (2003) Introduced mammals of the world. CABI and CSIRO publishing, Melbourne, Australia"
 R19411,AT,1926,"Kiefer F., 1981. Beitrag zur kenntnis von morphologie, taxonomie und geographischer verbreitungn von Mesocyclops leuckarti auctorum. Archiv für Hydrobiologie, 62(Suppl.): 148-190."
 R17107,IT,1974,Viggiani G (1975) La lotta biologica di tipo convenzionale. Atti X Congresso Nazional Italiano di Entomologia: 178-179.
@@ -7756,6 +7766,7 @@ R10539,RU,1974,Naseka and Diripasko (2005) Vestnik zoologii 39(4): 89–94
 R00166,TR,1500,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R17493,TR,1992,"Buzzurro, G., Hoarau, A., Greppi, E. & Pelorce, J., 2001. Prima segnalazione di Hinemoa cylindrica (de Folin, 1879) per il Mediterraneo. Bollettino Malacologico, 37(1-4): 23-26."
 R16462,IL,1984,"Van Aartsen, J.J., Barash, A. & Carrozza, F., 1989. Addition to the knowledge of the Mediterranean mollusca of Israel and Sinai. Bollettino Malacologico, 25(1-4): 63-76."
+R21206,IL,2018,"Albano, P.G., Steger, J., Bakker, P.A.J., Bogi, C., Bošnjak, M. et al., 2021. Numerous new records of tropical non-indigenous species in the Eastern Mediterranean highlight the challenges of their recognition and identification. ZooKeys 1010, 1-95. https://doi.org/10.3897/zookeys.1010.58759"
 R10541,ES,2009,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
 R10544,RU,1882,Blumberg C. (1882) Deutsch Zeitscher f thiermed viii: 223
 R10546,RU,1959,"Sterligova, Ilmast (2012). J Ichtyol. 51:261-267. Web-site and database ""Freshwater fishes of Russia"""
@@ -7854,6 +7865,7 @@ R20378,ES,2013,"GARCIA RASO, J. E., SALMERON, F., BARO, J., MARINA, P., & ABELLO
 R19375,PL,1920,"Janas et al., 2004"
 R10690,UK,1992,"Ashelby, C.W., Worsfold, T.M. & Fransen, C.H.J.M., 2004. First records of the oriental prawn Palaemon macrodactylus (Decapoda: Caridea), an alien species in European waters, with a revised key to British Palaemonidae.JMBA, 84, 1041-1050."
 R10691,IL,1948,"Holthuis, L.B. & Gottlieb, E., 1958. An annotated list of the decapod Crustacea of the Mediterranean coast of Israel, with an appendix listing the Decapoda of the Eastern Mediterranean. Bulletin of the Research Council of Israel, section B, Zoology, 7B (1-2):"
+R17481,TR,1972,"Aysel, V., Zeybek, N., Guner, H. & Sukatar, A., 1986. Türkiye'nin bazı derin deniz algleri III. Rhodophyta (Kırmızı Algler). Doga Türk Biyoloji Dergisi, 10: 8-29."
 R16753,IT,1990,"Serio, D., Cormaci, M., Furnari, G. & Boisset, F., 2010. First record of Palisada maris-rubri (Ceramia-les, Rhodophyta) from the Mediterranean Sea along with three proposed transfers to the genus Palisada. Phycological Research, 58: 9-16."
 R10693,BE,1874,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R16463,IL,1990,"Mienis, H.K., 1990. Cypraea lentiginosa: Another odd record of an exotic cowry from the Mediterranean coast of Israel. De Kreukel 26(10): 119-121."
@@ -8412,6 +8424,7 @@ R18827,BE,1999,DAISIE-Delivering Alien Invasive Species Inventories for Europe.
 R11376,UK,1966,Online Atlas of the British and Irish flora. 
 R11380,ES,2004,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R16469,IL,1951,"Ruffo, S., 1959. Contributo alla conoscenza delgi anfipodi del mar Rosso (materiali raccolti a Ghardaqa e nel golfo di Aqaba). Bulletin of Sea Fisheries Research Station, Haifa 20, 11-36."
+R11381,IT,1991,"Ceschia, G., Quaglio, F., Giorgetti, G., Bertoja, G. & Bovo, G., 1991. Serious outbreak of pasteurellosis (Pasteurella piscicida) in euryhaliene species along the Italian coasts. In Abstracts of the Fifth International Conference of the European Associat."
 R19436,ES,1992,"Fouz et al., 1992"
 R19437,FR,1991,"Baudin-Laurencin et al., 1991"
 R20098,ES,2011,"Sánchez-Hernández J, Servia MJ, Vieira-Lanero R, Cobo F, 2012. New record of translocated Phoxinus bigerri Kottelat, 2007 from a river basin in the North-West Atlantic coast of the Iberian Peninsula. BioInvasions Records, http://dx.doi.org/10.3391/bir.2012.1.1.08"
@@ -8779,6 +8792,7 @@ R19795,UK,1986,"Crawley MJ, Kornberg H, Lawton JH, Usher MB, Southwood R, O'Conn
 R20324,ES,1908,"Travé, F. (1954). Notas sobre un ejemplar de Aechmophorus major en las proximidades de Barcelona en el año 1908. Ardeola 1: 124-127"
 R11880,RU,1984,Rabitsch (2008) Zootaxa 1827: 1-44
 R11881,BE,1899,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
+R11884,UA,1959,Panov et al. (2007) Hydrobiologia 590: 3–14
 R18659,AT,1994,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
 R11886,DE,1874,Staatliche Naturwissenschaftliche Sammlungen Bayerns: the Erysiphales Collection at the Botanische Staatssammlung München. Accessed via http://www.gbif.org/occurrence/442158528
 R11888,AT,1854,thuemen Fungi Austriaci (see USDA ARS BPI 604443)
@@ -8911,6 +8925,7 @@ R12104,ES,1802,"Vandel, A. (1954): Etude des isopodes terrestres recueillis aux 
 R12105,ES,1889,Dollfuss (1889b) Bull. Soc. Zool. France 14: 125-132
 R12106,ES,1889,"Arechavaleta, M., S. Rodríguez, N. Zurita & A. García (Coord.) 2010. Lista de especies silvestres de Canarias (hongos, plantas y animales terrestres) 2009. Gobierno de Canarias. 579 pp."
 R19095,IE,1991,"Holmes, J.M.C., 1991. Crustacean records from Lough Hyne (Ine) Co Cork Ireland: Part V. Bulletin of the Irish Biogeographical Society14: 73-84."
+R21207,RO,1948,"BSC (2017). Black Sea Non-indigenous species. Black Sea Commission Publication, 40 pp.; TDA (2007). Black Sea Transboundary Diagnostic Analysis. Programme coordinating unit, Global Environmental Facility Black Sea Environmental Programme publication, Istanbul, 227 pp.; Alexandrov B, Boltachev A, Kharchenko T, Lyashenko A, Son M, Tsarenko P, Zhukinsky V (2007). Trends of aquatic alien species invasions in Ukraine. Aquat Invasions 2(3):215-242."
 R12118,DE,2002,Bestandsaufnahme Und Bewertung Von Neozoen In Deutschland (2002)
 R12119,AT,1885,NOBANIS - European Network on Invasive Alien Species. 
 R18968,BE,1972,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
@@ -9102,8 +9117,10 @@ R17368,ES,1994,"Miguez, A., Fernández, M. L. & Fraga, S., 1996. First detection
 R17369,TR,2000,"Bargu, S., Koray, T. & Lundholm, N., 2002. First Report of Pseudo-nitzschia calliantha Lundholm, Moestrup & Hasle 2003, a New Potentially Toxic Species from Turkish Coasts.//E.U. Journal of Fisheries & Aquatic Sciences, 19, (3-4): 479-483."
 R17370,FR,2003,"Nezan, E., Antoine, E., Fiant, L. & Billard, C., 2006. Identification of Pseudo-nitzschia australis and P. multiseries in the Bay of Seine. Was there a relation to presence of domoic acid in king scallops in autumn 2004? Harmful algae news, (31), 1-3."
 R12386,SE,1994,Swedish data base
+R21208,IL,2016,"Velasquez, X., Bolanos, D.M., Benayahu, Y., 2018. New records of cotylean flatworms (Platyhelminthes: Polycladida: Rhabditophora) from coastal habitats of Israel. Zootaxa, 4438 (2), 237-260."
 R11204,IT,1878,Saccardo PA (1878). Fungi veneti novi vel critici. 8. Michelia 1: 239–275.
 R12388,IT,1980,"EPPO; Braun et al., (2012). Plant Pathology & Quarantine 2(2), 103–110, doi 10.5943/ppq/2/2/2"
+R21209,IL,2015,"Velasquez, X., Bolanos, D.M., Benayahu, Y., 2018. New records of cotylean flatworms (Platyhelminthes: Polycladida: Rhabditophora) from coastal habitats of Israel. Zootaxa, 4438 (2), 237-260."
 R17497,EL,1939,"Ralli-Tzelepi, Z.N., 1946. Contribution a l’etude conchyliologique du littoral de l’Attique (Grece). Ph.D. thesis, University of Athens."
 R19656,DE,1998,"Rabitsch W, Nehring S (eds) 2017. Naturschutzfachliche Invasivitäts-bewertungen für in Deutschland w"
 R12390,DK,1998,"Horstmann, U. et al., 1998. Proceedings of 2nd International Workshop on MOS-IRS and Ocean Colour, 303-311."
@@ -9629,6 +9646,7 @@ R13044,IT,200 ,DAISIE
 R13045,FR,1894,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R13046,SE,1935,GBIF-Sweden: Botany (UPS). Accessed via http://www.gbif.org/occurrence/328243845
 R16813,TN,2006,"Ben Hadj Hamida-Ben Abdallah, O., Ben Hadj Hamida, N., Jarboui, O., & Froglia, C. (2010). First occurrence of the yellow roughneck shrimp, Rimapenaeus similis (Smith, 1885)(Crustacea: Decapoda: Penaeidae) in the Mediterranean Sea (Tunisian waters). Biological Invasions, 12(5), 999-1001."
+R21210,EL,2019,"Zenetos, A., Ovalis, P., Giakoumi, S., Kontadakis, C., Lefkaditou, E. et al., 2020a. Saronikos Gulf: a hotspot area for alien species in the Mediterranean Sea. BioInvasions Records, 9 (4), 873-889."
 R17721,SI,2006,"Seljak, G. (2008) Scale insects introduced into Slovenia in the last fifty years. in: Branco M., Franco J.C. & Hodgson C. (eds). Proceedings of XI international Symposium on Scale insect Studies, oeiras (Portugal), 24-27 September 2007. ISA Press, Lisbon; 121-127"
 R13051,TR,2003,"Mienis, H.K., 2004. New data concerning the presence of Lessepsian and other Indo-Pacific migrants among the molluscs in the Mediterranean Sea with emphasize on the situation in Israel. pp. 117-131. In: B.Ozturk & A.Salman (eds.). 1st National malacology"
 R13052,IL,1958,"Van Aartsen, J.J., 1963. Overpeininzingen bij een regenachtige zomer. Correspondentieblad van de Nederlandse Malacologische Vereniging, 107: 1115-1 116."
@@ -10248,7 +10266,6 @@ R13951,ES,2001,"Martín, A. & Lorenzo, J. A. (2001). Aves Del Archipiélago Cana
 R13952,PL,2002,Http://Www.Nobanis.Org/Nationalinfo.Asp?Countryid=Pl&Taxaid=8978
 R13953,ES,1970,"Martín, A. & Lorenzo, J. A. (2001). Aves Del Archipiélago Canario. Francisco Lemus Editor."
 R20209,ES,1989,"Massuti E and Stefanescu C, 1993. First record of Seriola fasciata (Bloch, 1793) (Osteichthyes: Carangidae) in the Mediterranean. J. Fish Biol. 42, 143–144."
-R20336,ES,2015,"Salvador Vilariño, V. (2015). Diagnóstico de la situación de las especies exóticas invasoras dentro del ámbito del proyecto LIFE11 NAT ES/699 MedWetRivers. Sociedad Pública de Infraestructuras y Medio Ambiente de Castilla y León S.A (SOMACYL)."
 R13959,IE,1987,Euro+Med PlantBase - the information resource for Euro-Mediterranean plant diversity.. 2006-
 R16828,LB,1930,"Peres, J.M., 1958. Ascidies recoltees sur les cotes Mediterraneennes d’Israel. Bulletin of the Research Council of Israel 7B (3-4): 143-150."
 R19070,LB,1999,"Morri, C., Puce, S., Bianchi, C. N., Bitar, G., Zibrowius, H. & Bavestrello, G. 2009. Hydroids (Cnidaria: Hydrozoa) from the Levant Sea (mainly Lebanon), with emphasis on alien species. Journal of the Marine Biological Association of the United Kingdom 89: 49-62."
@@ -10485,6 +10502,7 @@ R14297,FR,1993,Euro+Med PlantBase - the information resource for Euro-Mediterran
 R14300,UK,1973,"Farnham, W.F. & Jephson, N.A., 1977. A survey of the maerl beds of Falmouth (Cornwall). British PhycologicalJournal, 12, 119."
 R16497,EG,1944,"Aleem, A.A., 1950. Meddelanden Fran Goteborgs Botaniska Tradgard, 18, 275."
 R14301,IT,1922,"Cecere, E. & Perrone, C., 1990. Variabilità morfologica di Solieria filiformis (Kützing) Gabrielson nel Mar Piccolo di Taranto. oebalia, 16 (1): 323-333."
+R17584,FR,2005,"Mineur, F., Le Roux, A., Stegenga, H., Verlaque, M. & Maggs, C.A., 2012. Four new exotic red seaweeds on European shores. Biol Invasions (2012) 14:1635-1641."
 R14302,BE,1893,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
 R14303,NO,2004,NOBANIS - European Network on Invasive Alien Species. 
 R14304,PT,1804,DAISIE-Delivering Alien Invasive Species Inventories for Europe. 
@@ -10612,6 +10630,7 @@ R14480,DK,1961,NOBANIS - European Network on Invasive Alien Species.
 R16501,IL,1958,"Ben Eliahu, N.M., 1991. Red Sea Serpulids Polychaeta) in the Eastern Mediterranean. Ophelia supplement 5: 515-528"
 R14481,LB,1965,"Laubier, L., 1966. Sur quelques Annelides polychaetes de la region de Beyrouth. Am. Univ. Beirut Misc. Pap., 5: 9-22."
 R19454,IT,1957,Van Valkenburg & Pot 2008
+R17580,IL,1996,"Hyams-Kaphzan, O., Almogi-Labin, A., Sivan, D. & Benjamini, C., 2008. Benthic foraminifera assemblage change along the southeastern Mediterranean inner shelf due to fall-off of Nile-derived siliciclastics. Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen, 248 (3): 315-344."
 R16839,TR,1988,"Avsar, N., Meric, E. & Ergin, M., 2001. Iskenderun Korfezi bentojenik sedimentlerinin foraminifer icerigi. Hacettepe Universitesi Yerbilimleri, 24: 97-112."
 R16840,TR,1988,"Avsar, N., Meric, E. & Ergin, M., 2001. Iskenderun Korfezi bentojenik sedimentlerinin foraminifer icerigi. Hacettepe Universitesi Yerbilimleri, 24: 97-112."
 R17427,IL,1996,"Hyams-Kaphzan, O., Almogi-Labin, A., Sivan, D. & Benjamini, C., 2008. Benthic foraminifera assemblage change along the southeastern Mediterranean inner shelf due to fall-off of Nile-derived siliciclastics. Neues Jahrbuch fur Geologie und Palaontologie Abhandlungen, 248 (3): 315-344."
@@ -12042,6 +12061,7 @@ R16335,UK,1982,"Roche, J. 1984. Zophodia convolutella (Huebner) (Lep.: Pyralidae
 R16342,ES,2001,"Martín, A. & Lorenzo, J. A. (2001). Aves Del Archipiélago Canario. Francisco Lemus Editor."
 R17822,DE,1929,"Bieman CF & Rozeboom GJ, 1993, Twee Cicadellidae nieuw voor de Nederlandse fauna en een herontdekte soort (Homoptera, Auchenorrhyncha)., Ent. Ber., Amst., 53, 23-25"
 R19897,DE,1962,"Plese N, Milicic D, 1966. Vergleichende Untersuchungen an Isolaten des Kakteen-X-Virus mit Testpflanzen. Phytopath Z 55:197–210"
+R21211,DK,1983,Aquanis/HELCOM data used for HOLASIII report
 R16880,IT,1985,"Gubbioli F. & Nofroni, I., 1985. Malacological notes from the Alboran Sea (west Mediterranean). La Conchiglia, 17: 200-201: 20-21."
 R16345,BE,2013,"Belgian Species List 2013. Zygogramma piceicollis (Stål, 1859). Document accessed at http://www.species.be/fr/19875 on 7 November 2013"
 R16346,HR,1985,Igrc et al. (1995) Biol. Control 5: 203–208.

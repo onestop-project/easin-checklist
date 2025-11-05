@@ -138,6 +138,8 @@ R00026,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R20210,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R19331,P,,RELEASE IN NATURE: Other intentional release
 R19652,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20399,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20754,P,,UNKNOWN
 R19332,P,,CORRIDOR: Interconnected waterways/basins/seas
 R00029,P,,UNKNOWN
 R00030,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
@@ -234,15 +236,20 @@ R00088,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, ve
 R00088,S,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R00088,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R00089,P,,TRANSPORT - STOWAWAY: Unknown
+R20755,P,,RELEASE IN NATURE: Unknown
+R20755,P,,TRANSPORT - STOWAWAY: Unknown
 R19907,p,,TRANSPORT - CONTAMINANT: Unknown
 R00090,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R00090,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R00091,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R00091,P,MEDIUM,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20400,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20756,P,,RELEASE IN NATURE: Unknown
 R19333,P,,RELEASE IN NATURE: Other intentional release
 R19118,P,,UNKNOWN
 R00094,P,,UNKNOWN
 R19653,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20401,P,,TRANSPORT - STOWAWAY: Other means of transport
 R00095,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R00095,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R00096,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -689,9 +696,12 @@ R00396,S,,UNAIDED: Natural dispersal across borders of invasive alien species th
 R00398,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R00398,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R00398,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20757,P,,TRANSPORT - STOWAWAY: Unknown
+R20758,P,,TRANSPORT - STOWAWAY: Unknown
 R16525,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16526,P,,CORRIDOR: Interconnected waterways/basins/seas
 R00399,S,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20402,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R00400,S,,TRANSPORT - STOWAWAY: Angling/fishing equipment
 R00400,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R00401,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -699,6 +709,8 @@ R00402,P,,UNKNOWN
 R00403,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R00404,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R00405,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20403,P,LOW,RELEASE IN NATURE: Other intentional release
+R20403,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R00407,P,,UNKNOWN
 R20138,P,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R20138,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -791,6 +803,7 @@ R00474,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R00474,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R00475,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R00475,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20404,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19334,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R00476,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R00476,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -889,6 +902,8 @@ R19519,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19523,p,,UNKNOWN
 R19525,P,,UNKNOWN
 R00543,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20405,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20405,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R00544,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17242,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R00545,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -901,6 +916,8 @@ R17617,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19269,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19269,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R00552,P,,UNKNOWN
+R20759,P,,UNKNOWN
+R20760,P,,UNKNOWN
 R11444,P,,RELEASE IN NATURE: Other intentional release
 R11444,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R11444,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -1060,6 +1077,7 @@ R18870,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domes
 R01811,P,,ESCAPE FROM CONFINEMENT: Farmed animals (including animals left under limited control)
 R01811,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R01811,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20761,P,,UNKNOWN
 R17461,P,,CORRIDOR: Interconnected waterways/basins/seas
 R00655,P,,CORRIDOR: Interconnected waterways/basins/seas
 R20254,P,,UNKNOWN
@@ -1111,6 +1129,7 @@ R00687,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R00687,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R00689,P,,UNKNOWN
 R16914,P,,UNKNOWN
+R20762,P,,UNKNOWN
 R00690,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19643,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R00691,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -1240,7 +1259,9 @@ R20044,P,LOW,TRANSPORT - STOWAWAY: Hitchhikers in or on airplane
 R20044,P,LOW,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R20044,P,LOW,TRANSPORT - STOWAWAY: Machinery / equipment
 R20044,P,LOW,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
+R20406,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16562,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20763,P,,UNKNOWN
 R19294,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R00790,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R00791,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
@@ -1377,9 +1398,11 @@ R17489,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R00865,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19551,P,LOW,TRANSPORT - CONTAMINANT: Timber trade
 R16533,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20764,P,,TRANSPORT - STOWAWAY: Unknown
 R18899,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18899,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16661,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R20765,P,,TRANSPORT - STOWAWAY: Unknown
 R17539,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16534,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16534,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
@@ -1392,6 +1415,7 @@ R00871,P,,UNKNOWN
 R16536,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16536,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16536,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R20766,P,,TRANSPORT - STOWAWAY: Unknown
 R19514,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19514,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19514,S,,CORRIDOR: Interconnected waterways/basins/seas
@@ -1628,6 +1652,7 @@ R01050,P,,RELEASE IN NATURE: Other intentional release
 R01050,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R18148,P,,RELEASE IN NATURE: Other intentional release
 R18148,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20767,P,,TRANSPORT - STOWAWAY: Unknown
 R01051,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R01053,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R01054,P,,UNKNOWN
@@ -1739,6 +1764,7 @@ R01133,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R01136,P,,CORRIDOR: Interconnected waterways/basins/seas
 R01137,P,LOW,ESCAPE FROM CONFINEMENT: Horticulture
 R01137,S,,ESCAPE FROM CONFINEMENT: Horticulture
+R20768,P,,UNKNOWN
 R01138,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19911,p,,UNKNOWN
 R01141,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -1793,6 +1819,7 @@ R01166,P,,RELEASE IN NATURE: Other intentional release
 R01166,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R20143,P,HIGH,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R01167,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20407,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R16544,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19552,P,MEDIUM,TRANSPORT - CONTAMINANT: Timber trade
 R01168,P,,UNKNOWN
@@ -1885,8 +1912,10 @@ R01238,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including liv
 R01239,S,,ESCAPE FROM CONFINEMENT: Horticulture
 R01242,P,,UNKNOWN
 R19682,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20769,P,,UNKNOWN
 R19807,P,,UNKNOWN
 R20289,P,,UNKNOWN
+R20408,P,,UNKNOWN
 R01246,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R01246,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R16547,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
@@ -1915,7 +1944,9 @@ R01262,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R01262,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R01263,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R01263,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20770,P,,TRANSPORT - STOWAWAY: Unknown
 R01264,P,,TRANSPORT - CONTAMINANT: Seed contaminant
+R20771,P,,TRANSPORT - CONTAMINANT: Unknown
 R01265,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19847,P,MEDIUM,ESCAPE FROM CONFINEMENT: Horticulture
 R19847,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
@@ -2025,6 +2056,7 @@ R01346,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R01346,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R20135,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R19257,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20772,P,,UNKNOWN
 R01349,P,,UNKNOWN
 R01351,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R01351,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -2153,6 +2185,7 @@ R01445,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R01446,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R01446,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R01447,P,,ESCAPE FROM CONFINEMENT: Horticulture
+R20773,P,,CORRIDOR: Unknown
 R01448,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R01448,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R01448,P,,TRANSPORT - CONTAMINANT: Seed contaminant
@@ -2174,6 +2207,8 @@ R01453,P,,TRANSPORT - CONTAMINANT: Unknown
 R01453,P,,TRANSPORT - STOWAWAY: Unknown
 R01457,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R01458,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
+R20774,P,,RELEASE IN NATURE: Unknown
+R20774,P,,TRANSPORT - STOWAWAY: Unknown
 R01461,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R01461,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R01461,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -2268,6 +2303,8 @@ R01520,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R01521,P,,RELEASE IN NATURE: Other intentional release
 R17249,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17249,P,HIGH,CORRIDOR: Interconnected waterways/basins/seas
+R20775,P,,UNKNOWN
+R20409,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R01526,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R01527,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19649,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -2543,8 +2580,10 @@ R01742,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R01742,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R01742,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R01744,P,,UNKNOWN
+R20776,P,,TRANSPORT - STOWAWAY: Unknown
 R01747,S,,CORRIDOR: Interconnected waterways/basins/seas
 R20250,P,,UNKNOWN
+R20777,P,,CORRIDOR: Unknown
 R19338,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16947,P,,UNKNOWN
 R01748,P,,RELEASE IN NATURE: Other intentional release
@@ -2644,6 +2683,7 @@ R01826,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast wate
 R01826,S,,CORRIDOR: Interconnected waterways/basins/seas
 R01827,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R01827,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20422,P,,TRANSPORT - STOWAWAY: Other means of transport
 R09927,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17884,P,,UNKNOWN
 R01830,P,LOW,RELEASE IN NATURE: Erosion control / dune stabilization
@@ -2778,6 +2818,8 @@ R01938,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domes
 R01938,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R01938,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R01938,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
+R20410,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20410,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R18785,P,,UNKNOWN
 R19264,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R01942,P,,RELEASE IN NATURE: Other intentional release
@@ -2862,6 +2904,7 @@ R01991,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R01992,P,,RELEASE IN NATURE: Other intentional release
 R01992,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R01994,P,,RELEASE IN NATURE: Other intentional release
+R20778,P,,CORRIDOR: Unknown
 R18380,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R01997,P,,RELEASE IN NATURE: Other intentional release
 R01997,P,,TRANSPORT - CONTAMINANT: Seed contaminant
@@ -2876,6 +2919,7 @@ R02003,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R02004,P,,RELEASE IN NATURE: Other intentional release
 R02005,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R02005,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20411,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R02008,P,,ESCAPE FROM CONFINEMENT: Unknown
 R02008,P,,TRANSPORT - CONTAMINANT: Unknown
 R02008,P,,TRANSPORT - STOWAWAY: Unknown
@@ -3007,6 +3051,7 @@ R19114,P,,UNKNOWN
 R17544,P,MEDIUM,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R17544,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17544,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20779,P,,TRANSPORT - STOWAWAY: Unknown
 R02104,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R02104,S,,TRANSPORT - CONTAMINANT: Seed contaminant
 R02105,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -3087,10 +3132,13 @@ R19341,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17257,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19301,P,,UNKNOWN
 R17597,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20412,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20412,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19683,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R02159,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R02159,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R02159,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20780,P,,TRANSPORT - STOWAWAY: Unknown
 R02160,S,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R02160,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R02161,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -3553,6 +3601,7 @@ R02490,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R02492,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R02492,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R02494,P,,UNKNOWN
+R20781,P,,CORRIDOR: Unknown
 R19505,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R20019,P,,UNKNOWN
 R20020,P,,UNKNOWN
@@ -3628,6 +3677,8 @@ R02550,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R12019,P,,UNKNOWN
 R02553,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19116,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20413,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20413,P,,CORRIDOR: Interconnected waterways/basins/seas
 R02554,P,HIGH,"RELEASE IN NATURE: Release in nature for use (other than above, e.g., fur, transport, medical use)"
 R02554,P,MEDIUM,RELEASE IN NATURE: Other intentional release
 R02554,P,HIGH,ESCAPE FROM CONFINEMENT: Live food and live bait
@@ -3671,6 +3722,8 @@ R02578,P,LOW,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R02578,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R02579,P,,UNKNOWN
 R18238,P,,UNKNOWN
+R20782,P,,TRANSPORT - STOWAWAY: Unknown
+R20783,P,,TRANSPORT - STOWAWAY: Unknown
 R02580,P,,UNKNOWN
 R02581,P,,UNKNOWN
 R02582,P,,UNKNOWN
@@ -3833,6 +3886,8 @@ R02698,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R02702,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R02705,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R02705,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
+R20414,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20784,P,,UNKNOWN
 R16570,P,,CORRIDOR: Interconnected waterways/basins/seas
 R02710,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R02710,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -3866,6 +3921,7 @@ R16963,P,,UNKNOWN
 R02738,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R02739,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R02739,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20785,P,,UNKNOWN
 R02742,P,,RELEASE IN NATURE: Other intentional release
 R02743,P,LOW,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R02743,P,LOW,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
@@ -3873,6 +3929,8 @@ R02744,P,LOW,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R02744,P,LOW,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R02744,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R17785,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20786,P,,CORRIDOR: Unknown
+R20786,P,,UNKNOWN
 R02750,P,,UNKNOWN
 R02751,P,HIGH,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R19611,P,MEDIUM,ESCAPE FROM CONFINEMENT: Live food and live bait
@@ -4138,8 +4196,10 @@ R18228,P,MEDIUM,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (includi
 R18228,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R18228,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R18228,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
+R20788,P,,UNKNOWN
 R18229,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R16376,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
+R20415,P,,UNKNOWN
 R02955,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R02956,P,MEDIUM,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R02956,S,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -4189,6 +4249,8 @@ R02979,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R16572,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19407,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R17510,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20416,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20416,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19342,P,,CORRIDOR: Interconnected waterways/basins/seas
 R02980,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R02980,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -4378,6 +4440,8 @@ R03107,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R03108,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R03109,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R16967,P,,RELEASE IN NATURE: Biological control
+R20395,P,LOW,RELEASE IN NATURE: Other intentional release
+R20395,P,LOW,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R19403,P,,RELEASE IN NATURE: Other intentional release
 R16377,P,HIGH,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R16377,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -4391,6 +4455,7 @@ R03115,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R03116,S,,TRANSPORT - CONTAMINANT: Timber trade
 R03117,P,,TRANSPORT - CONTAMINANT: Timber trade
 R03120,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20417,P,,UNKNOWN
 R03122,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16968,P,,RELEASE IN NATURE: Biological control
 R16969,P,,RELEASE IN NATURE: Biological control
@@ -4566,10 +4631,13 @@ R03259,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R03259,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R19670,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19670,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R20419,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20419,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R19518,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19518,P,HIGH,CORRIDOR: Interconnected waterways/basins/seas
 R03261,P,,TRANSPORT - STOWAWAY: Machinery / equipment
 R17290,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20789,P,,UNKNOWN
 R03262,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19671,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19671,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
@@ -4578,8 +4646,12 @@ R17291,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R03264,P,,UNKNOWN
 R03265,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19959,P,,ESCAPE FROM CONFINEMENT: Fur farms
+R20420,P,,UNKNOWN
 R17229,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20790,P,,UNKNOWN
 R16575,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20791,P,,TRANSPORT - CONTAMINANT: Unknown
+R20421,P,,RELEASE IN NATURE: Other intentional release
 R03266,P,,CORRIDOR: Interconnected waterways/basins/seas
 R03267,S,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R03267,S,,CORRIDOR: Interconnected waterways/basins/seas
@@ -4672,7 +4744,9 @@ R20075,P,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast wate
 R20075,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20075,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17526,P,,CORRIDOR: Interconnected waterways/basins/seas
+R03342,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R03342,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R03342,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R03344,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R03345,P,,ESCAPE FROM CONFINEMENT: Unknown
 R03346,P,,TRANSPORT - CONTAMINANT: Seed contaminant
@@ -4687,6 +4761,7 @@ R03354,S,,CORRIDOR: Interconnected waterways/basins/seas
 R03355,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19623,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19623,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R20792,P,,UNKNOWN
 R03356,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R03356,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R03360,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
@@ -4779,6 +4854,7 @@ R03452,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R03454,P,,RELEASE IN NATURE: Biological control
 R03455,P,,RELEASE IN NATURE: Biological control
 R03457,P,,RELEASE IN NATURE: Biological control
+R20793,P,,UNKNOWN
 R16581,P,,UNKNOWN
 R03459,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R03459,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -4830,6 +4906,8 @@ R03501,P,LOW,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood
 R03503,P,,UNKNOWN
 R03504,P,,UNKNOWN
 R03505,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20396,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20396,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R03509,P,HIGH,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R03510,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R03510,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -4870,12 +4948,15 @@ R17562,S,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19792,P,,UNKNOWN
 R03537,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R03539,P,MEDIUM,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20794,P,,TRANSPORT - STOWAWAY: Unknown
+R20794,P,,UNKNOWN
 R03542,P,,UNKNOWN
 R03546,P,HIGH,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18582,P,,UNKNOWN
 R18563,P,,RELEASE IN NATURE: Other intentional release
 R19903,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19903,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20795,P,,TRANSPORT - STOWAWAY: Unknown
 R19680,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R03552,P,,RELEASE IN NATURE: Other intentional release
 R19105,P,,RELEASE IN NATURE: Other intentional release
@@ -4993,7 +5074,13 @@ R03661,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R03661,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R20249,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R20249,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20796,P,,TRANSPORT - STOWAWAY: Unknown
+R20797,P,,TRANSPORT - CONTAMINANT: Unknown
+R20797,P,,TRANSPORT - STOWAWAY: Unknown
+R20798,P,,TRANSPORT - CONTAMINANT: Unknown
+R20798,P,,TRANSPORT - STOWAWAY: Unknown
 R17296,P,,TRANSPORT - STOWAWAY: Machinery / equipment
+R20799,P,,UNKNOWN
 R16586,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16586,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16586,P,HIGH,CORRIDOR: Interconnected waterways/basins/seas
@@ -5198,6 +5285,7 @@ R03790,P,,UNKNOWN
 R03791,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R03792,P,,UNKNOWN
 R16593,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20800,P,,TRANSPORT - STOWAWAY: Unknown
 R17748,P,,UNKNOWN
 R03794,P,,RELEASE IN NATURE: Biological control
 R03795,P,,TRANSPORT - CONTAMINANT: Contaminant nursery material
@@ -5277,9 +5365,11 @@ R19613,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R03843,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R03843,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16596,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20801,P,,TRANSPORT - STOWAWAY: Unknown
 R16387,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16387,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16387,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
+R20802,P,,TRANSPORT - STOWAWAY: Unknown
 R17914,P,,UNKNOWN
 R17911,P,,UNKNOWN
 R19284,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -5402,6 +5492,7 @@ R03944,P,,RELEASE IN NATURE: Other intentional release
 R03944,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R17861,P,,UNKNOWN
 R17862,P,,UNKNOWN
+R20803,P,,TRANSPORT - STOWAWAY: Unknown
 R03945,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R03945,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R03946,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
@@ -5526,6 +5617,7 @@ R04055,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R04055,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R04056,P,,UNKNOWN
 R19919,p,,UNKNOWN
+R20804,P,,TRANSPORT - STOWAWAY: Unknown
 R04057,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R04059,P,,UNKNOWN
 R04060,P,,RELEASE IN NATURE: Other intentional release
@@ -5605,6 +5697,7 @@ R19804,P,,UNKNOWN
 R04121,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R04121,P,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R04121,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
+R20805,P,,TRANSPORT - STOWAWAY: Unknown
 R04123,P,,UNKNOWN
 R04124,P,,UNKNOWN
 R04125,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
@@ -5629,6 +5722,8 @@ R04139,P,,RELEASE IN NATURE: Erosion control / dune stabilization
 R04139,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R04139,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R04139,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20424,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20424,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R18901,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18901,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16641,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
@@ -5638,6 +5733,7 @@ R04140,P,,UNKNOWN
 R04141,P,,UNKNOWN
 R18280,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18280,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20806,P,,TRANSPORT - STOWAWAY: Unknown
 R04144,P,,UNKNOWN
 R04145,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04145,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -5879,6 +5975,7 @@ R04273,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R04274,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19345,P,,CORRIDOR: Interconnected waterways/basins/seas
 R04275,P,,TRANSPORT - CONTAMINANT: Seed contaminant
+R20425,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04279,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R04279,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R20370,P,LOW,UNKNOWN
@@ -6040,6 +6137,7 @@ R17479,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19072,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19831,P,,UNKNOWN
 R19832,P,,UNKNOWN
+R20807,P,,TRANSPORT - STOWAWAY: Unknown
 R04391,P,,UNKNOWN
 R04392,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04393,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -6092,6 +6190,7 @@ R04432,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R04433,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R04435,P,,UNKNOWN
 R04436,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20427,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04437,P,LOW,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R19759,P,,UNKNOWN
 R04439,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
@@ -6209,6 +6308,7 @@ R04507,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R04508,P,,UNKNOWN
 R04509,S,,TRANSPORT - CONTAMINANT: Timber trade
 R16998,P,,UNKNOWN
+R20808,P,,UNKNOWN
 R04510,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R04510,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R16999,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -6216,6 +6316,7 @@ R16999,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R04511,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R04511,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R17000,P,,UNKNOWN
+R20809,P,,TRANSPORT - STOWAWAY: Unknown
 R04512,S,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R04514,S,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R20279,S,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
@@ -6453,6 +6554,8 @@ R04670,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R04668,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R04671,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04672,P,,UNKNOWN
+R20388,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20388,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16605,P,,CORRIDOR: Interconnected waterways/basins/seas
 R04674,P,,UNKNOWN
 R04675,P,,UNKNOWN
@@ -6728,6 +6831,7 @@ R04888,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R04891,P,,UNKNOWN
 R04892,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R18208,P,,CORRIDOR: Interconnected waterways/basins/seas
+R18209,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R18583,P,,RELEASE IN NATURE: Other intentional release
 R17541,P,,CORRIDOR: Interconnected waterways/basins/seas
 R04896,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -6765,6 +6869,7 @@ R13901,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R13901,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R04922,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R04922,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20811,P,,UNKNOWN
 R04924,P,,TRANSPORT - STOWAWAY: Hitchhikers in or on airplane
 R04924,P,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R04924,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -6858,6 +6963,7 @@ R04971,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R04971,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R04971,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R04972,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20428,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04973,P,,RELEASE IN NATURE: Other intentional release
 R04974,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R04975,P,,RELEASE IN NATURE: Erosion control / dune stabilization
@@ -6888,6 +6994,7 @@ R16608,P,HIGH,CORRIDOR: Interconnected waterways/basins/seas
 R04991,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R04991,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04991,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20812,P,,UNKNOWN
 R17485,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R17485,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16395,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -6895,6 +7002,7 @@ R04993,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R04993,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R04995,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R04996,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20429,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R04997,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R04997,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R04998,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
@@ -7025,6 +7133,8 @@ R18244,P,,UNKNOWN
 R05096,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R05097,P,,UNKNOWN
 R05098,P,,UNKNOWN
+R20813,P,,TRANSPORT - STOWAWAY: Unknown
+R20814,P,,UNKNOWN
 R20155,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R20155,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R20155,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -7105,6 +7215,7 @@ R05141,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R05141,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R05143,P,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R05143,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20815,P,,TRANSPORT - STOWAWAY: Unknown
 R05144,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R05144,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R05144,P,MEDIUM,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
@@ -7125,7 +7236,15 @@ R05148,P,HIGH,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R05148,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R05148,P,HIGH,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
 R05148,S,,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
+R20816,P,,UNKNOWN
+R20817,P,,TRANSPORT - STOWAWAY: Unknown
+R20818,P,,TRANSPORT - STOWAWAY: Unknown
 R17261,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20819,P,,TRANSPORT - STOWAWAY: Unknown
+R20430,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20430,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20820,P,,TRANSPORT - STOWAWAY: Unknown
+R20821,P,,UNKNOWN
 R05149,P,,UNKNOWN
 R05150,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R05151,P,HIGH,TRANSPORT - CONTAMINANT: Seed contaminant
@@ -7134,6 +7253,7 @@ R16397,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16397,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R05153,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R05153,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R20822,P,,TRANSPORT - STOWAWAY: Unknown
 R17619,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19063,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19348,P,,TRANSPORT - STOWAWAY: Machinery / equipment
@@ -7161,6 +7281,7 @@ R05166,P,,UNKNOWN
 R05167,P,,UNKNOWN
 R05168,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R18050,P,,UNKNOWN
+R20431,P,,UNKNOWN
 R19686,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19686,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R05172,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -7225,6 +7346,7 @@ R16610,P,,UNKNOWN
 R05215,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16611,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R16611,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20432,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R05218,P,,UNKNOWN
 R05219,P,,TRANSPORT - STOWAWAY: Other means of transport
 R05219,P,,ESCAPE FROM CONFINEMENT: Unknown
@@ -7512,6 +7634,7 @@ R05410,P,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R16616,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16617,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17598,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20823,P,,TRANSPORT - STOWAWAY: Unknown
 R19351,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19351,P,,TRANSPORT - STOWAWAY: Machinery / equipment
 R19351,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
@@ -7562,6 +7685,7 @@ R17839,P,HIGH,TRANSPORT - STOWAWAY: Container / bulk
 R05442,P,,UNKNOWN
 R05443,P,,UNKNOWN
 R05444,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20824,P,,TRANSPORT - STOWAWAY: Unknown
 R05445,P,,"RELEASE IN NATURE: Release in nature for use (other than above, e.g., fur, transport, medical use)"
 R05445,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R05445,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -7712,6 +7836,7 @@ R05524,P,,ESCAPE FROM CONFINEMENT: Unknown
 R05524,P,,TRANSPORT - CONTAMINANT: Unknown
 R05524,P,,TRANSPORT - STOWAWAY: Unknown
 R20127,P,,UNKNOWN
+R20825,P,,TRANSPORT - STOWAWAY: Unknown
 R05525,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R05525,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R05526,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -7769,6 +7894,8 @@ R05578,P,,UNKNOWN
 R05579,S,,RELEASE IN NATURE: Biological control
 R05579,P,,UNKNOWN
 R20024,P,,UNKNOWN
+R20826,P,,TRANSPORT - CONTAMINANT: Unknown
+R20826,P,,TRANSPORT - STOWAWAY: Unknown
 R05583,P,,UNKNOWN
 R17028,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R17029,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
@@ -7882,6 +8009,7 @@ R05697,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R05697,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R05697,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R05698,P,,UNKNOWN
+R20434,P,,TRANSPORT - STOWAWAY: Other means of transport
 R19352,P,,CORRIDOR: Interconnected waterways/basins/seas
 R20126,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R19298,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -7979,6 +8107,7 @@ R05778,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R05779,P,,RELEASE IN NATURE: Other intentional release
 R05779,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R05971,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20827,P,,CORRIDOR: Unknown
 R17033,P,,UNKNOWN
 R17274,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17274,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -8032,6 +8161,7 @@ R05813,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R05813,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R05815,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R05817,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20435,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17722,P,,UNKNOWN
 R18587,P,,TRANSPORT - CONTAMINANT: Unknown
 R18587,P,,TRANSPORT - STOWAWAY: Unknown
@@ -8080,6 +8210,7 @@ R05834,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R05834,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R05835,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R05835,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20828,P,,UNKNOWN
 R05836,P,MEDIUM,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R05836,P,MEDIUM,ESCAPE FROM CONFINEMENT: Live food and live bait
 R05836,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -8299,6 +8430,8 @@ R19825,P,,UNKNOWN
 R05987,P,,UNKNOWN
 R17037,P,,UNKNOWN
 R16633,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20436,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20436,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R05988,P,,UNKNOWN
 R05989,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17716,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -8357,6 +8490,8 @@ R17275,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R06016,P,,UNKNOWN
 R17517,P,,CORRIDOR: Interconnected waterways/basins/seas
 R18604,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20437,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20437,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R06018,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17767,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06020,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
@@ -8564,6 +8699,8 @@ R06175,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R17960,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06176,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06177,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20438,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20438,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R06180,P,,UNKNOWN
 R20200,P,,UNKNOWN
 R06182,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -8577,7 +8714,11 @@ R16643,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06191,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R19692,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19692,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20829,P,,UNKNOWN
+R20830,P,,TRANSPORT - STOWAWAY: Unknown
+R20830,P,,UNKNOWN
 R06192,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20439,P,,UNKNOWN
 R19661,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06194,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06195,S,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -8610,6 +8751,7 @@ R06205,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R06205,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06206,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06206,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20831,P,,TRANSPORT - STOWAWAY: Unknown
 R06208,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06208,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06209,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -8621,9 +8763,11 @@ R16645,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19520,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19520,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17280,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20832,P,,TRANSPORT - STOWAWAY: Unknown
 R17609,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17043,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R17043,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20833,P,,TRANSPORT - STOWAWAY: Unknown
 R06212,P,,RELEASE IN NATURE: Other intentional release
 R06213,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06213,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -8638,6 +8782,10 @@ R06220,S,,RELEASE IN NATURE: Biological control
 R06220,P,,UNKNOWN
 R06221,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R06221,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20834,P,,TRANSPORT - STOWAWAY: Unknown
+R20834,P,,CORRIDOR: Unknown
+R20441,P,LOW,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
+R20441,P,LOW,TRANSPORT - STOWAWAY: Other means of transport
 R17045,P,,UNKNOWN
 R06222,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R06223,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -8645,6 +8793,7 @@ R06224,P,,UNKNOWN
 R06225,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R16647,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16646,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R20835,P,,CORRIDOR: Unknown
 R06230,P,,UNKNOWN
 R19857,P,MEDIUM,ESCAPE FROM CONFINEMENT: Horticulture
 R19857,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
@@ -8688,6 +8837,8 @@ R06259,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06259,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R06260,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06260,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20836,P,,TRANSPORT - STOWAWAY: Unknown
+R20836,P,,CORRIDOR: Unknown
 R06261,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06261,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R06265,P,HIGH,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
@@ -8896,6 +9047,8 @@ R06427,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06427,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R06429,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06429,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20837,P,,UNKNOWN
+R20442,P,,UNKNOWN
 R06431,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06431,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19693,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -9081,6 +9234,8 @@ R06581,S,,RELEASE IN NATURE: Other intentional release
 R06581,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06581,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06582,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20838,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20838,P,,TRANSPORT - STOWAWAY: Unknown
 R06590,P,,UNKNOWN
 R06592,P,,UNKNOWN
 R06593,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -9161,6 +9316,7 @@ R06646,P,,TRANSPORT - STOWAWAY: Unknown
 R06647,P,,TRANSPORT - STOWAWAY: Unknown
 R00909,P,,UNKNOWN
 R06648,P,,TRANSPORT - STOWAWAY: Unknown
+R20443,P,,TRANSPORT - STOWAWAY: Other means of transport
 R06650,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R06650,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R16653,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -9174,6 +9330,8 @@ R06657,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R19482,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19482,P,HIGH,TRANSPORT - CONTAMINANT: Timber trade
 R06658,P,,UNKNOWN
+R20433,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20433,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R06659,P,,UNKNOWN
 R18750,P,,UNKNOWN
 R06660,P,,UNKNOWN
@@ -9398,6 +9556,7 @@ R06808,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live foo
 R06808,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R06809,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R06809,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
+R20839,P,,UNKNOWN
 R06810,P,MEDIUM,TRANSPORT - CONTAMINANT: Timber trade
 R06810,S,,TRANSPORT - CONTAMINANT: Timber trade
 R06811,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -9408,6 +9567,8 @@ R06816,P,LOW,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R06818,P,LOW,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R20120,P,MEDIUM,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R17573,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20840,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20841,P,,UNKNOWN
 R06820,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06820,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R06821,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -9469,7 +9630,9 @@ R20164,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20164,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20164,P,,TRANSPORT - STOWAWAY: Unknown
 R06855,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R06855,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R06855,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R06855,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R06856,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R06857,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R06858,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -9561,6 +9724,7 @@ R06913,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R18051,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R06914,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R06915,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20444,P,,RELEASE IN NATURE: Other intentional release
 R06918,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R06918,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R06918,P,,TRANSPORT - CONTAMINANT: Seed contaminant
@@ -9583,12 +9747,16 @@ R06929,S,,UNAIDED: Natural dispersal across borders of invasive alien species th
 R06930,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R19087,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R06932,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20842,P,,UNKNOWN
+R20843,P,,TRANSPORT - STOWAWAY: Unknown
 R19533,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19530,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19530,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19534,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17241,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20844,P,,UNKNOWN
 R17610,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20845,P,,UNKNOWN
 R06934,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20165,P,,UNKNOWN
 R06936,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -9633,6 +9801,7 @@ R06966,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R06966,P,MEDIUM,TRANSPORT - CONTAMINANT: Seed contaminant
 R06966,S,,TRANSPORT - CONTAMINANT: Seed contaminant
 R06968,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20846,P,,TRANSPORT - CONTAMINANT: Unknown
 R20302,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R06969,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R06970,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
@@ -9647,6 +9816,7 @@ R19535,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R06975,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19537,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19537,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20847,P,,UNKNOWN
 R17871,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R06976,P,,UNKNOWN
 R06977,P,,UNKNOWN
@@ -9690,10 +9860,17 @@ R19744,P,HIGH,RELEASE IN NATURE: Introduction for conservation purposes or wildl
 R07011,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R19794,P,HIGH,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R17655,P,,RELEASE IN NATURE: Other intentional release
+R20848,P,,TRANSPORT - CONTAMINANT: Unknown
+R20848,P,,TRANSPORT - STOWAWAY: Unknown
+R20849,P,,UNKNOWN
+R20850,P,,UNKNOWN
+R20851,P,,UNKNOWN
+R20445,P,,UNKNOWN
 R16660,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R07017,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19657,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R07018,P,,UNKNOWN
+R20852,P,,TRANSPORT - STOWAWAY: Unknown
 R19416,P,,RELEASE IN NATURE: Other intentional release
 R19690,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R16416,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -9710,6 +9887,7 @@ R07026,P,,UNKNOWN
 R19954,P,,TRANSPORT - STOWAWAY: Machinery / equipment
 R07027,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R07027,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
+R20853,P,,TRANSPORT - STOWAWAY: Unknown
 R19306,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19306,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R07030,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -9722,6 +9900,7 @@ R17054,S,,TRANSPORT - STOWAWAY: Container / bulk
 R07031,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R07031,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16662,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20449,P,,UNKNOWN
 R07033,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R07033,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R07033,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
@@ -9761,6 +9940,7 @@ R16665,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17961,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R07084,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R07084,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20854,P,,CORRIDOR: Unknown
 R07086,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R07086,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R07093,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -9791,6 +9971,7 @@ R07109,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R07110,P,,TRANSPORT - STOWAWAY: Unknown
 R07111,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R07111,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R21202,P,,TRANSPORT - STOWAWAY: Unknown
 R18295,P,,TRANSPORT - CONTAMINANT: Unknown
 R07113,P,,UNKNOWN
 R07114,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -9978,6 +10159,7 @@ R20058,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20058,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R07229,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R07229,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20855,P,,UNKNOWN
 R07230,S,,ESCAPE FROM CONFINEMENT: Live food and live bait
 R07230,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R07230,S,,CORRIDOR: Interconnected waterways/basins/seas
@@ -10212,6 +10394,7 @@ R07392,P,MEDIUM,RELEASE IN NATURE: Other intentional release
 R07392,P,MEDIUM,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R07392,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R07393,P,,UNKNOWN
+R20856,P,,UNKNOWN
 R17297,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20307,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R19413,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -10221,7 +10404,9 @@ R19862,P,MEDIUM,ESCAPE FROM CONFINEMENT: Horticulture
 R19862,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R19862,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R07399,P,,UNKNOWN
+R20857,P,,UNKNOWN
 R07401,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20390,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R07402,P,,UNKNOWN
 R07403,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R07404,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -10240,6 +10425,8 @@ R07416,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites,
 R20282,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R07417,P,,UNKNOWN
 R07419,P,,UNKNOWN
+R20450,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20450,P,LOW,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R07421,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R07423,S,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R07424,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -10386,6 +10573,7 @@ R07521,P,,UNKNOWN
 R16419,P,,CORRIDOR: Interconnected waterways/basins/seas
 R07522,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R07522,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R21203,P,,TRANSPORT - STOWAWAY: Unknown
 R07524,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R07525,P,,UNKNOWN
 R07526,P,,UNKNOWN
@@ -10398,6 +10586,7 @@ R07529,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R07530,S,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R07530,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R20168,P,,UNKNOWN
+R20858,P,,UNKNOWN
 R07532,P,,UNKNOWN
 R07533,P,,UNKNOWN
 R07534,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
@@ -10532,6 +10721,9 @@ R07629,P,,UNKNOWN
 R07630,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R07630,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R07631,P,,RELEASE IN NATURE: Other intentional release
+R20859,P,,UNKNOWN
+R20452,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20452,P,,UNKNOWN
 R16673,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16673,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R16675,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -10599,6 +10791,7 @@ R16677,P,,CORRIDOR: Interconnected waterways/basins/seas
 R07669,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R07670,P,,UNKNOWN
 R07672,P,MEDIUM,RELEASE IN NATURE: Other intentional release
+R20391,P,,UNKNOWN
 R19359,P,,TRANSPORT - STOWAWAY: Machinery / equipment
 R19359,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R07673,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -10819,6 +11012,9 @@ R07830,P,LOW,TRANSPORT - CONTAMINANT: Seed contaminant
 R07830,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R07830,S,,TRANSPORT - STOWAWAY: Machinery / equipment
 R07831,P,,UNKNOWN
+R20245,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20245,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20245,P,,TRANSPORT - STOWAWAY: Other means of transport
 R20245,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19360,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R19360,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -10978,7 +11174,9 @@ R07938,P,,UNKNOWN
 R07939,S,,TRANSPORT - CONTAMINANT: Seed contaminant
 R16681,P,,CORRIDOR: Interconnected waterways/basins/seas
 R20171,P,HIGH,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
+R20453,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17315,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20454,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R07941,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R07941,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R17316,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -11009,6 +11207,8 @@ R07963,P,,UNKNOWN
 R07965,P,,UNKNOWN
 R07966,P,,UNKNOWN
 R07967,P,,UNKNOWN
+R20455,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20398,P,,UNKNOWN
 R07969,P,,RELEASE IN NATURE: Other intentional release
 R07969,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R07970,P,,UNKNOWN
@@ -11098,6 +11298,7 @@ R08044,P,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R08045,P,,UNKNOWN
 R08047,P,HIGH,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R08048,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20456,P,,UNKNOWN
 R18556,P,,ESCAPE FROM CONFINEMENT: Unknown
 R18557,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18557,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -11129,6 +11330,7 @@ R08060,P,,UNKNOWN
 R08061,P,,UNKNOWN
 R19292,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19292,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20860,P,,CORRIDOR: Unknown
 R08062,P,,RELEASE IN NATURE: Other intentional release
 R08062,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R08063,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
@@ -11376,6 +11578,8 @@ R08227,S,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R08228,S,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R08230,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R08231,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20457,P,,UNKNOWN
+R20458,P,,UNKNOWN
 R08232,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R08233,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R08233,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -11444,6 +11648,7 @@ R03744,P,MEDIUM,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstoc
 R03744,P,LOW,ESCAPE FROM CONFINEMENT: Horticulture
 R03744,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R03744,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20393,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R16694,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16694,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19412,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -11487,6 +11692,7 @@ R08299,P,,RELEASE IN NATURE: Other intentional release
 R08299,p,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19445,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19445,P,medium,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20459,P,LOW,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R08300,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R08300,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R08300,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -11522,6 +11728,7 @@ R08317,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R08315,P,,UNKNOWN
 R08318,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R09657,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20861,P,,UNKNOWN
 R08323,P,,TRANSPORT - STOWAWAY: Other means of transport
 R18523,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R18635,P,,UNKNOWN
@@ -11587,6 +11794,7 @@ R08352,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R08352,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R08352,P,,TRANSPORT - STOWAWAY: Other means of transport
 R17931,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20862,P,,UNKNOWN
 R08354,P,,UNKNOWN
 R16695,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16695,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -11742,6 +11950,7 @@ R08467,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R08469,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R08470,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R08471,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R21204,P,,TRANSPORT - STOWAWAY: Unknown
 R08473,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R08474,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R08475,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -11790,6 +11999,8 @@ R08511,P,,UNKNOWN
 R17784,P,,UNKNOWN
 R08513,P,,UNKNOWN
 R17320,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
+R20863,P,,TRANSPORT - CONTAMINANT: Unknown
+R20864,P,,TRANSPORT - CONTAMINANT: Unknown
 R08514,S,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R08515,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R08515,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -11853,6 +12064,7 @@ R20308,P,,UNKNOWN
 R19586,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R08551,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R08551,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20461,P,,UNKNOWN
 R08552,P,,RELEASE IN NATURE: Other intentional release
 R20060,P,,RELEASE IN NATURE: Hunting
 R20060,P,,ESCAPE FROM CONFINEMENT: Farmed animals (including animals left under limited control)
@@ -12061,6 +12273,7 @@ R16698,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16698,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R08702,P,,UNKNOWN
 R08703,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20865,P,,UNKNOWN
 R17086,P,,UNKNOWN
 R17087,P,,UNKNOWN
 R17088,P,,UNKNOWN
@@ -12099,6 +12312,7 @@ R08723,P,,UNKNOWN
 R08727,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R08727,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R08727,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
+R08727,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R08728,S,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R08730,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R08730,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -12230,6 +12444,8 @@ R08817,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R08817,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R18817,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R15011,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
+R20462,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20462,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R08820,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R08820,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R08821,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
@@ -12264,6 +12480,8 @@ R08832,P,MEDIUM,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (includi
 R19012,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R19012,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19012,P,,ESCAPE FROM CONFINEMENT: Other escape from confinement
+R20866,P,,UNKNOWN
+R20867,P,,TRANSPORT - STOWAWAY: Unknown
 R19017,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R19017,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R08835,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -12320,6 +12538,8 @@ R08862,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R08862,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16439,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19106,P,,UNKNOWN
+R20868,P,,UNKNOWN
+R20869,P,,UNKNOWN
 R16704,P,,UNKNOWN
 R19366,P,,RELEASE IN NATURE: Other intentional release
 R19605,P,,RELEASE IN NATURE: Hunting
@@ -12596,6 +12816,7 @@ R09064,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09065,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09066,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09066,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20870,P,,TRANSPORT - STOWAWAY: Unknown
 R17457,S,,TRANSPORT - STOWAWAY: Angling/fishing equipment
 R17094,P,,UNKNOWN
 R19508,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -12611,6 +12832,7 @@ R09072,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, ve
 R09074,P,,UNKNOWN
 R09075,P,LOW,RELEASE IN NATURE: Introduction for conservation purposes or wildlife management
 R19104,P,,UNKNOWN
+R20464,P,LOW,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R18407,P,,TRANSPORT - CONTAMINANT: Unknown
 R09078,P,,UNKNOWN
 R09079,P,,RELEASE IN NATURE: Other intentional release
@@ -12679,6 +12901,7 @@ R17098,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, ve
 R09126,P,,UNKNOWN
 R09128,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09128,S,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
+R20871,P,,TRANSPORT - STOWAWAY: Unknown
 R09130,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R09130,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R09130,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -12822,6 +13045,7 @@ R09239,P,,UNKNOWN
 R09240,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09241,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09242,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20872,P,,CORRIDOR: Unknown
 R09244,P,,UNKNOWN
 R17103,P,,UNKNOWN
 R09246,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
@@ -12835,6 +13059,10 @@ R09252,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transp
 R09253,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R09945,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R09945,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20465,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
+R20465,P,,UNKNOWN
+R20466,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20466,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R09254,P,,UNKNOWN
 R17104,P,,UNKNOWN
 R09257,P,,UNKNOWN
@@ -13005,6 +13233,8 @@ R09372,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18874,P,,ESCAPE FROM CONFINEMENT: Unknown
 R09373,P,,TRANSPORT - STOWAWAY: Other means of transport
 R09370,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20873,P,,TRANSPORT - STOWAWAY: Unknown
+R21205,P,,UNKNOWN
 R09376,P,,RELEASE IN NATURE: Other intentional release
 R09376,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R19411,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -13015,6 +13245,7 @@ R09380,P,,UNKNOWN
 R09384,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R09384,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16709,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20874,P,,TRANSPORT - STOWAWAY: Unknown
 R09386,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09387,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16710,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -13073,6 +13304,7 @@ R17113,P,,UNKNOWN
 R09418,P,,UNKNOWN
 R09419,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R09419,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
+R20875,P,,TRANSPORT - STOWAWAY: Unknown
 R16446,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16446,P,HIGH,CORRIDOR: Interconnected waterways/basins/seas
 R09424,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -13081,6 +13313,7 @@ R09424,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R09424,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R09425,P,HIGH,TRANSPORT - CONTAMINANT: Seed contaminant
 R09425,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20876,P,,TRANSPORT - STOWAWAY: Unknown
 R17114,P,,UNKNOWN
 R05438,S,,RELEASE IN NATURE: Erosion control / dune stabilization
 R05438,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -13089,7 +13322,11 @@ R09426,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R09426,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R09427,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09428,P,,UNKNOWN
+R20877,P,,UNKNOWN
 R09430,P,,UNKNOWN
+R20878,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20878,S,,CORRIDOR: Unknown
+R20878,S,,UNKNOWN
 R09431,P,,UNKNOWN
 R09432,P,,UNKNOWN
 R09433,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -13102,6 +13339,7 @@ R19410,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particula
 R16712,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16713,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09440,P,LOW,TRANSPORT - CONTAMINANT: Timber trade
+R20879,P,,UNKNOWN
 R09441,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R09442,P,LOW,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R09442,P,LOW,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
@@ -13112,6 +13350,7 @@ R09449,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R09449,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R09450,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09450,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20880,P,,TRANSPORT - STOWAWAY: Unknown
 R09451,P,,UNKNOWN
 R09452,P,,UNKNOWN
 R09453,P,,UNKNOWN
@@ -13151,12 +13390,15 @@ R09479,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R09479,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R17528,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R09480,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20881,P,,UNKNOWN
+R20882,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R09482,P,,RELEASE IN NATURE: Other intentional release
 R17471,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09485,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R17689,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R17689,P,MEDIUM,TRANSPORT - CONTAMINANT: Seed contaminant
 R17689,S,,TRANSPORT - CONTAMINANT: Seed contaminant
+R20883,P,,UNKNOWN
 R09487,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R09487,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R09487,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -13184,6 +13426,7 @@ R09514,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R09514,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R09515,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R09515,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20884,P,,TRANSPORT - STOWAWAY: Unknown
 R09517,P,,UNKNOWN
 R09518,P,MEDIUM,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R09518,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -13203,6 +13446,7 @@ R09520,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including liv
 R09521,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R09522,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R09523,P,,TRANSPORT - STOWAWAY: Unknown
+R20885,P,,TRANSPORT - STOWAWAY: Unknown
 R16716,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16717,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16569,P,,UNKNOWN
@@ -13226,6 +13470,8 @@ R09533,P,LOW,TRANSPORT - CONTAMINANT: Seed contaminant
 R09534,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R09534,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09534,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20467,P,,UNKNOWN
+R20468,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09535,P,,ESCAPE FROM CONFINEMENT: Unknown
 R09536,P,,RELEASE IN NATURE: Other intentional release
 R09536,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
@@ -13277,6 +13523,7 @@ R09569,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R09569,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R09572,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R18241,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R20886,P,,UNKNOWN
 R09575,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R09576,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R17119,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
@@ -13289,6 +13536,7 @@ R09581,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballas
 R09581,S,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R09582,P,,UNKNOWN
 R09583,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20887,P,,TRANSPORT - STOWAWAY: Unknown
 R09584,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09584,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R09585,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -13302,6 +13550,7 @@ R17605,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09591,P,,TRANSPORT - STOWAWAY: Other means of transport
 R09592,P,,TRANSPORT - STOWAWAY: Other means of transport
 R09593,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20888,P,,UNKNOWN
 R09594,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R09594,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18933,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -13359,6 +13608,7 @@ R19637,S,,UNAIDED: Natural dispersal across borders of invasive alien species th
 R09640,P,,RELEASE IN NATURE: Hunting
 R09640,P,,RELEASE IN NATURE: Other intentional release
 R09640,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
+R20889,P,,UNKNOWN
 R16448,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09641,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09642,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -13406,7 +13656,11 @@ R09679,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R09679,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R09680,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R09680,P,,TRANSPORT - STOWAWAY: Other means of transport
+R20890,P,,UNKNOWN
+R20891,P,,TRANSPORT - STOWAWAY: Unknown
 R16722,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20469,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20469,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R09683,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09685,P,,UNKNOWN
 R09686,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -13440,6 +13694,7 @@ R09710,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R09710,P,HIGH,TRANSPORT - CONTAMINANT: Seed contaminant
 R09711,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R16723,P,,UNKNOWN
+R20892,P,,UNKNOWN
 R09713,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R09714,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R09715,P,,RELEASE IN NATURE: Other intentional release
@@ -13501,6 +13756,7 @@ R09747,S,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including liv
 R09747,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R09747,S,,TRANSPORT - STOWAWAY: Machinery / equipment
 R20315,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
+R20893,P,,UNKNOWN
 R09750,P,,UNKNOWN
 R09751,P,,UNKNOWN
 R09752,P,HIGH,TRANSPORT - CONTAMINANT: Timber trade
@@ -13691,12 +13947,15 @@ R09902,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R09903,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R09905,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19970,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R20894,P,,TRANSPORT - CONTAMINANT: Unknown
 R09907,P,,UNKNOWN
 R09908,P,,UNKNOWN
 R09909,P,,UNKNOWN
+R20895,P,,TRANSPORT - STOWAWAY: Unknown
 R19766,P,HIGH,ESCAPE FROM CONFINEMENT: Farmed animals (including animals left under limited control)
 R09911,P,MEDIUM,TRANSPORT - CONTAMINANT: Timber trade
 R09914,P,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
+R20896,P,,CORRIDOR: Unknown
 R09915,P,,UNKNOWN
 R09916,P,,UNKNOWN
 R19500,P,HIGH,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
@@ -13724,6 +13983,7 @@ R09926,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R09930,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09934,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R09935,P,LOW,TRANSPORT - CONTAMINANT: Contaminant nursery material
+R20897,P,,UNKNOWN
 R17966,P,,UNKNOWN
 R09937,P,,UNKNOWN
 R16730,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
@@ -13731,6 +13991,7 @@ R19309,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16731,P,,CORRIDOR: Interconnected waterways/basins/seas
 R09938,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R18070,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
+R20898,P,,CORRIDOR: Unknown
 R09940,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R20316,P,,UNKNOWN
 R09941,P,,UNKNOWN
@@ -13870,6 +14131,7 @@ R10023,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R10023,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R20366,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R10024,P,,UNKNOWN
+R20899,P,,UNKNOWN
 R10026,P,,UNKNOWN
 R10027,P,HIGH,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R10027,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
@@ -13878,8 +14140,10 @@ R14962,P,,CORRIDOR: Interconnected waterways/basins/seas
 R10028,P,,UNKNOWN
 R10029,P,,UNKNOWN
 R10030,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R20900,P,,TRANSPORT - STOWAWAY: Unknown
 R17338,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20272,P,,UNKNOWN
+R20901,P,,UNKNOWN
 R16736,P,,CORRIDOR: Interconnected waterways/basins/seas
 R10036,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10036,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -13954,6 +14218,7 @@ R17662,P,,RELEASE IN NATURE: Other intentional release
 R17662,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R10083,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R20174,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
+R20903,P,,TRANSPORT - CONTAMINANT: Unknown
 R13649,P,,UNKNOWN
 R10084,P,,UNKNOWN
 R10085,P,LOW,RELEASE IN NATURE: Hunting
@@ -14021,6 +14286,7 @@ R10120,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, ve
 R10123,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R10123,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R17340,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20904,P,,TRANSPORT - STOWAWAY: Unknown
 R19546,P,LOW,TRANSPORT - CONTAMINANT: Timber trade
 R10124,P,,UNKNOWN
 R19558,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
@@ -14062,6 +14328,7 @@ R10156,P,MEDIUM,TRANSPORT - STOWAWAY: Container / bulk
 R10156,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R10156,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R10156,S,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
+R20905,P,,UNKNOWN
 R17875,P,,UNKNOWN
 R10161,P,,UNKNOWN
 R10162,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -14259,6 +14526,7 @@ R10318,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R10318,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R10318,P,,ESCAPE FROM CONFINEMENT: Other escape from confinement
 R10319,P,,UNKNOWN
+R20906,P,,TRANSPORT - STOWAWAY: Unknown
 R10321,P,,UNKNOWN
 R10323,P,,RELEASE IN NATURE: Other intentional release
 R20103,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
@@ -14539,6 +14807,7 @@ R10523,P,,UNKNOWN
 R17127,P,,UNKNOWN
 R10525,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10525,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20907,P,,TRANSPORT - STOWAWAY: Unknown
 R10526,S,,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
 R10527,S,,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
 R10528,P,,UNKNOWN
@@ -14562,6 +14831,7 @@ R19602,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species tr
 R19602,P,MEDIUM,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R17493,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R16462,P,,CORRIDOR: Interconnected waterways/basins/seas
+R21206,P,,CORRIDOR: Unknown
 R10541,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10544,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R10546,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -14585,6 +14855,7 @@ R10560,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R10561,P,,RELEASE IN NATURE: Other intentional release
 R10561,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R10562,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
+R20470,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R10565,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R10564,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R10566,P,,TRANSPORT - STOWAWAY: Machinery / equipment
@@ -14626,6 +14897,7 @@ R20102,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20102,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20102,P,MEDIUM,TRANSPORT - STOWAWAY: Machinery / equipment
 R10599,P,,UNKNOWN
+R20471,P,,UNKNOWN
 R10601,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10601,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R17984,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -14699,6 +14971,7 @@ R10648,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, ve
 R10648,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R10649,P,,UNKNOWN
 R10650,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20908,P,,TRANSPORT - STOWAWAY: Unknown
 R10651,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R10651,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R19739,P,,UNKNOWN
@@ -14708,12 +14981,15 @@ R19737,P,HIGH,ESCAPE FROM CONFINEMENT: Farmed animals (including animals left un
 R19738,P,,UNKNOWN
 R19764,P,HIGH,ESCAPE FROM CONFINEMENT: Farmed animals (including animals left under limited control)
 R17477,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20909,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20909,P,,CORRIDOR: Unknown
 R10658,P,MEDIUM,TRANSPORT - CONTAMINANT: Timber trade
 R10658,S,,TRANSPORT - CONTAMINANT: Timber trade
 R19102,P,,UNKNOWN
 R19624,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R10659,P,,RELEASE IN NATURE: Other intentional release
 R10660,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
+R20472,P,,UNKNOWN
 R17533,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17533,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19374,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
@@ -14752,10 +15028,12 @@ R10684,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R10687,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R20378,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19375,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20910,P,,TRANSPORT - STOWAWAY: Unknown
 R10690,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R10690,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R10691,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16753,P,,UNKNOWN
+R20911,P,,CORRIDOR: Unknown
 R10693,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R10693,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16463,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -14778,6 +15056,8 @@ R10709,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballas
 R10710,P,HIGH,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R10711,P,HIGH,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R10712,P,,UNKNOWN
+R20912,P,,UNKNOWN
+R20913,P,,RELEASE IN NATURE: Unknown
 R17817,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R10714,P,,UNKNOWN
 R20101,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
@@ -14825,7 +15105,9 @@ R05892,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R05892,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R05892,P,MEDIUM,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R10741,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20914,P,,ESCAPE FROM CONFINEMENT: Unknown
 R16464,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20915,P,,UNKNOWN
 R10743,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10743,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10744,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -14875,11 +15157,15 @@ R10777,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R10777,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R10777,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10777,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20916,P,,UNKNOWN
+R20917,P,,UNKNOWN
 R18240,P,,CORRIDOR: Interconnected waterways/basins/seas
 R10778,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R10779,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R10779,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
+R20918,P,,TRANSPORT - STOWAWAY: Unknown
 R16756,P,,TRANSPORT - STOWAWAY: Machinery / equipment
+R20919,P,,TRANSPORT - STOWAWAY: Unknown
 R19394,p,,RELEASE IN NATURE: Other intentional release
 R17453,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17133,P,,UNKNOWN
@@ -14923,6 +15209,8 @@ R10807,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R10807,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R10807,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R10807,S,,TRANSPORT - STOWAWAY: Machinery / equipment
+R20473,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20473,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17355,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17355,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R10809,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -14970,7 +15258,9 @@ R10838,P,,UNKNOWN
 R10839,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R10841,P,,UNKNOWN
 R10842,P,,UNKNOWN
+R20474,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16760,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20475,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17511,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17511,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17511,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
@@ -15158,6 +15448,7 @@ R10967,P,,UNKNOWN
 R17136,P,,UNKNOWN
 R10968,P,,UNKNOWN
 R16771,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20920,P,,CORRIDOR: Unknown
 R18248,P,,UNKNOWN
 R10970,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R10970,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -15260,6 +15551,7 @@ R11035,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19755,P,,UNKNOWN
 R11037,P,MEDIUM,ESCAPE FROM CONFINEMENT: Other escape from confinement
 R11038,P,LOW,RELEASE IN NATURE: Hunting
+R20476,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R11040,P,,UNKNOWN
 R11041,P,,UNKNOWN
 R11042,P,,UNKNOWN
@@ -15269,6 +15561,9 @@ R11045,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R11045,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R11046,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R11046,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20477,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20478,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20479,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R11048,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17139,P,,UNKNOWN
 R11050,P,,RELEASE IN NATURE: Other intentional release
@@ -15305,6 +15600,7 @@ R19658,P,LOW,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including 
 R19377,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R11066,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R17287,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20921,P,,CORRIDOR: Unknown
 R20059,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20059,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20178,P,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
@@ -15678,6 +15974,7 @@ R11368,S,,TRANSPORT - CONTAMINANT: Timber trade
 R11368,P,MEDIUM,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
 R11368,S,,"TRANSPORT - STOWAWAY: Organic packing material, in particular wood packaging"
 R20322,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
+R20480,P,,UNKNOWN
 R17834,P,MEDIUM,TRANSPORT - STOWAWAY: Container / bulk
 R18949,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18949,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -15691,6 +15988,7 @@ R11380,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18200,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18200,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16469,P,,CORRIDOR: Interconnected waterways/basins/seas
+R11381,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19436,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R19437,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R20098,P,,RELEASE IN NATURE: Fishery in the wild (including game fishing)
@@ -16028,8 +16326,10 @@ R18652,p,,UNKNOWN
 R11589,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19379,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R11590,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20481,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16470,P,,CORRIDOR: Interconnected waterways/basins/seas
 R11591,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20922,P,,TRANSPORT - STOWAWAY: Unknown
 R11592,P,,ESCAPE FROM CONFINEMENT: Live food and live bait
 R11593,P,,ESCAPE FROM CONFINEMENT: Unknown
 R11593,P,,TRANSPORT - CONTAMINANT: Unknown
@@ -16200,6 +16500,7 @@ R17724,P,,UNKNOWN
 R11700,P,,UNKNOWN
 R11701,P,,UNKNOWN
 R17149,P,,UNKNOWN
+R20923,P,,TRANSPORT - STOWAWAY: Unknown
 R16472,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R16472,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R16473,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -16304,6 +16605,7 @@ R11784,P,,UNKNOWN
 R11785,P,,UNKNOWN
 R11786,P,,UNKNOWN
 R19113,P,,UNKNOWN
+R20924,P,,UNKNOWN
 R11788,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R11789,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R11789,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -16322,6 +16624,8 @@ R11799,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R11799,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18136,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R18136,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20925,P,,TRANSPORT - STOWAWAY: Unknown
+R20925,P,,CORRIDOR: Unknown
 R11801,P,,UNKNOWN
 R11802,P,,UNKNOWN
 R11803,P,,UNKNOWN
@@ -16429,6 +16733,7 @@ R16786,P,,UNKNOWN
 R19795,P,,UNKNOWN
 R20324,P,,UNKNOWN
 R11880,P,,RELEASE IN NATURE: Biological control
+R20926,P,,TRANSPORT - STOWAWAY: Unknown
 R11881,P,,TRANSPORT - STOWAWAY: Other means of transport
 R18659,P,,TRANSPORT - CONTAMINANT: Unknown
 R18659,P,,TRANSPORT - STOWAWAY: Unknown
@@ -16477,17 +16782,21 @@ R11921,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R11922,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17152,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R11923,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20482,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19685,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R11924,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R11924,P,,TRANSPORT - STOWAWAY: Other means of transport
 R11925,P,,RELEASE IN NATURE: Other intentional release
 R11926,P,,RELEASE IN NATURE: Other intentional release
 R11926,P,,TRANSPORT - CONTAMINANT: Seed contaminant
+R20927,P,,UNKNOWN
 R16787,P,,UNKNOWN
 R11930,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R11930,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R11931,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R11933,P,,UNKNOWN
+R20483,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20483,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R11934,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R11934,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17908,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -16580,6 +16889,7 @@ R16790,P,,RELEASE IN NATURE: Other intentional release
 R16790,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16791,P,,RELEASE IN NATURE: Other intentional release
 R16791,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20484,P,,RELEASE IN NATURE: Other intentional release
 R12029,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R20180,P,,RELEASE IN NATURE: Other intentional release
 R20180,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
@@ -16591,6 +16901,9 @@ R19289,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including liv
 R20379,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R12030,P,,CORRIDOR: Interconnected waterways/basins/seas
 R12031,P,,UNKNOWN
+R20928,P,,UNKNOWN
+R20929,P,,TRANSPORT - STOWAWAY: Unknown
+R20930,P,,UNKNOWN
 R20181,P,,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R20181,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R20181,P,,RELEASE IN NATURE: Unknown
@@ -16605,6 +16918,7 @@ R05440,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, sp
 R05440,P,,TRANSPORT - STOWAWAY: Other means of transport
 R12042,P,,ESCAPE FROM CONFINEMENT: Other escape from confinement
 R12043,P,,ESCAPE FROM CONFINEMENT: Other escape from confinement
+R20931,P,,TRANSPORT - STOWAWAY: Unknown
 R09929,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17629,P,,UNKNOWN
 R12047,S,,ESCAPE FROM CONFINEMENT: Live food and live bait
@@ -16663,6 +16977,7 @@ R12106,P,,UNKNOWN
 R19095,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19095,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19095,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R21207,P,,TRANSPORT - STOWAWAY: Unknown
 R12110,P,,UNKNOWN
 R12118,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R12119,p,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -16695,6 +17010,7 @@ R12141,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12141,S,,CORRIDOR: Interconnected waterways/basins/seas
 R12143,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12144,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20932,P,,UNKNOWN
 R12145,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12146,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12147,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -16852,12 +17168,17 @@ R12261,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live foo
 R12262,P,LOW,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R12263,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R12263,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
+R20933,P,,UNKNOWN
 R12264,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R12265,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R17365,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20934,P,,TRANSPORT - STOWAWAY: Unknown
 R12268,P,,UNKNOWN
 R17159,P,,UNKNOWN
 R12270,P,,TRANSPORT - STOWAWAY: Machinery / equipment
+R20935,P,,TRANSPORT - STOWAWAY: Unknown
+R20485,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20486,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12275,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12276,P,,UNKNOWN
 R12282,P,MEDIUM,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -16868,6 +17189,7 @@ R12287,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12287,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R12288,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R12290,P,,UNKNOWN
+R20487,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17892,P,,UNKNOWN
 R12291,P,,UNKNOWN
 R12292,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -16875,10 +17197,12 @@ R12293,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, ve
 R12295,S,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R12296,P,,UNKNOWN
 R12297,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20936,P,,UNKNOWN
 R12298,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12298,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R12299,P,,RELEASE IN NATURE: Other intentional release
 R20011,P,,UNKNOWN
+R20937,P,,TRANSPORT - STOWAWAY: Unknown
 R12300,P,,UNKNOWN
 R16799,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16799,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
@@ -16986,13 +17310,18 @@ R12383,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil
 R12383,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R12384,P,,UNKNOWN
 R17368,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R20941,P,,ESCAPE FROM CONFINEMENT: Unknown
+R20941,P,,TRANSPORT - CONTAMINANT: Unknown
 R17369,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17370,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12386,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R12386,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R21208,P,,CORRIDOR: Unknown
+R20938,P,,TRANSPORT - STOWAWAY: Unknown
 R11204,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R11204,P,HIGH,TRANSPORT - CONTAMINANT: Seed contaminant
 R12388,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
+R21209,P,,CORRIDOR: Unknown
 R17497,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R19656,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12390,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -17006,6 +17335,7 @@ R12400,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R12400,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R12401,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R12403,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20939,P,,TRANSPORT - STOWAWAY: Unknown
 R17161,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R17161,P,HIGH,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R12404,P,,RELEASE IN NATURE: Other intentional release
@@ -17021,6 +17351,7 @@ R12407,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R12407,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R17405,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R17405,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20940,P,,TRANSPORT - STOWAWAY: Unknown
 R12410,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R12410,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R12411,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -17129,6 +17460,7 @@ R12446,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transp
 R17162,P,,UNKNOWN
 R12448,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12448,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20942,P,,TRANSPORT - STOWAWAY: Unknown
 R12451,P,HIGH,RELEASE IN NATURE: Fishery in the wild (including game fishing)
 R12451,P,LOW,RELEASE IN NATURE: Other intentional release
 R17409,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
@@ -17143,6 +17475,7 @@ R19526,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17704,P,,UNKNOWN
 R12457,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R12457,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20943,P,,UNKNOWN
 R17578,P,,CORRIDOR: Interconnected waterways/basins/seas
 R18694,P,,ESCAPE FROM CONFINEMENT: Forestry (including afforestation or reforestation)
 R18694,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
@@ -17232,6 +17565,7 @@ R16480,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19617,P,LOW,RELEASE IN NATURE: Other intentional release
 R12520,P,,UNKNOWN
 R20219,P,,ESCAPE FROM CONFINEMENT: Live food and live bait
+R20944,P,,UNKNOWN
 R12521,P,,RELEASE IN NATURE: Biological control
 R12522,S,,RELEASE IN NATURE: Biological control
 R12522,P,,UNKNOWN
@@ -17481,7 +17815,9 @@ R03544,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16583,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16583,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17618,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20394,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R17375,P,,TRANSPORT - STOWAWAY: Machinery / equipment
+R20489,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19325,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R19325,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19326,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -17517,6 +17853,7 @@ R12742,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including liv
 R19822,P,,UNKNOWN
 R19821,P,,UNKNOWN
 R20184,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20490,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R12750,P,LOW,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R12750,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R12751,P,,UNKNOWN
@@ -18019,6 +18356,7 @@ R13044,S,,UNAIDED: Natural dispersal across borders of invasive alien species th
 R13045,P,,UNKNOWN
 R13046,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R16813,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R21210,P,,TRANSPORT - STOWAWAY: Unknown
 R17721,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R13050,P,MEDIUM,RELEASE IN NATURE: Biological control
 R13050,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
@@ -18618,6 +18956,7 @@ R13545,P,,CORRIDOR: Interconnected waterways/basins/seas
 R13546,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R13546,P,,CORRIDOR: Interconnected waterways/basins/seas
 R13547,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
+R20945,P,,UNKNOWN
 R19110,P,,CORRIDOR: Interconnected waterways/basins/seas
 R13548,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R13548,S,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -18627,6 +18966,7 @@ R13550,P,,CORRIDOR: Interconnected waterways/basins/seas
 R13551,P,,UNKNOWN
 R18233,P,,UNKNOWN
 R13552,P,,UNKNOWN
+R20946,P,,UNKNOWN
 R19449,P,low,ESCAPE FROM CONFINEMENT: Horticulture
 R13555,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19076,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -18724,6 +19064,7 @@ R13616,P,MEDIUM,TRANSPORT - CONTAMINANT: Food contaminant (including of live foo
 R13617,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R19626,P,,RELEASE IN NATURE: Biological control
 R19626,P,,RELEASE IN NATURE: Introduction for conservation purposes or wildlife management
+R20947,P,,UNKNOWN
 R16491,P,,CORRIDOR: Interconnected waterways/basins/seas
 R13618,P,,UNKNOWN
 R16818,P,,RELEASE IN NATURE: Other intentional release
@@ -18876,6 +19217,8 @@ R13740,P,,TRANSPORT - STOWAWAY: Unknown
 R13741,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R18634,P,,UNKNOWN
 R16825,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20948,P,,TRANSPORT - STOWAWAY: Unknown
+R20949,P,,UNKNOWN
 R19538,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19538,S,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R13743,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -19119,6 +19462,7 @@ R13920,S,,TRANSPORT - CONTAMINANT: Timber trade
 R13920,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R13921,S,,TRANSPORT - CONTAMINANT: Timber trade
 R13921,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20950,P,,CORRIDOR: Unknown
 R16492,P,,CORRIDOR: Interconnected waterways/basins/seas
 R13922,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17482,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
@@ -19270,6 +19614,9 @@ R14025,P,MEDIUM,CORRIDOR: Interconnected waterways/basins/seas
 R16830,P,,UNKNOWN
 R17247,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17247,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20952,P,,CORRIDOR: Unknown
+R20953,P,,ESCAPE FROM CONFINEMENT: Unknown
+R20953,P,,TRANSPORT - STOWAWAY: Unknown
 R16831,P,,CORRIDOR: Interconnected waterways/basins/seas
 R14026,P,,CORRIDOR: Interconnected waterways/basins/seas
 R14027,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -19398,6 +19745,7 @@ R14114,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R14114,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R14119,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19691,P,LOW,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20954,P,,TRANSPORT - STOWAWAY: Unknown
 R14120,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R20348,P,,UNKNOWN
 R14121,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -19504,7 +19852,11 @@ R14191,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R14193,P,,RELEASE IN NATURE: Other intentional release
 R14194,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R14195,P,,TRANSPORT - CONTAMINANT: Seed contaminant
+R20491,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R14196,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20492,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R20492,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20492,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R14197,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R14198,P,,UNKNOWN
 R14199,P,,UNKNOWN
@@ -19753,6 +20105,7 @@ R14371,P,,RELEASE IN NATURE: Other intentional release
 R14371,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R14374,P,HIGH,ESCAPE FROM CONFINEMENT: Forestry (including afforestation or reforestation)
 R14374,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20955,P,,CORRIDOR: Unknown
 R16835,P,,CORRIDOR: Interconnected waterways/basins/seas
 R17393,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R14375,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -19773,6 +20126,7 @@ R17813,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasite
 R14393,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R14393,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R18089,P,,UNKNOWN
+R20493,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R14395,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R18096,P,HIGH,TRANSPORT - CONTAMINANT: Seed contaminant
 R18096,P,MEDIUM,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -19812,6 +20166,7 @@ R14423,P,,UNKNOWN
 R14424,P,,UNKNOWN
 R14427,P,,CORRIDOR: Interconnected waterways/basins/seas
 R14428,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20956,P,,UNKNOWN
 R17933,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R14431,P,,UNKNOWN
 R17998,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -20192,6 +20547,7 @@ R14731,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R14732,S,,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R16846,P,,CORRIDOR: Interconnected waterways/basins/seas
 R14733,P,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
+R20957,P,,TRANSPORT - STOWAWAY: Unknown
 R14734,P,,UNKNOWN
 R14736,P,MEDIUM,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R14736,S,,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
@@ -20256,6 +20612,7 @@ R18341,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18341,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R14760,P,,UNKNOWN
 R14762,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20495,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R14763,P,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R14763,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R14764,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -20309,6 +20666,7 @@ R16852,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16852,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20189,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R20189,P,,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20958,P,,UNKNOWN
 R16853,P,,RELEASE IN NATURE: Other intentional release
 R16853,S,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R16853,P,,CORRIDOR: Interconnected waterways/basins/seas
@@ -20327,11 +20685,13 @@ R16854,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20084,P,,UNKNOWN
 R14816,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R14816,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20959,P,,CORRIDOR: Unknown
 R14817,P,,UNKNOWN
 R14819,P,,UNKNOWN
 R14820,P,,UNKNOWN
 R14821,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R14821,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R20960,P,,TRANSPORT - STOWAWAY: Unknown
 R18555,P,,TRANSPORT - CONTAMINANT: Unknown
 R18555,P,,TRANSPORT - STOWAWAY: Unknown
 R14823,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -20538,6 +20898,7 @@ R19603,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R19603,P,LOW,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R14984,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
 R14985,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
+R20961,P,,UNKNOWN
 R18236,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R14987,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R17459,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
@@ -20642,7 +21003,9 @@ R15061,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19405,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19406,P,,TRANSPORT - STOWAWAY: People and their luggage/equipment (in particular tourism)
 R19406,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20496,P,HIGH,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R15063,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20962,P,,TRANSPORT - STOWAWAY: Unknown
 R17237,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R15064,P,LOW,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R15064,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
@@ -20829,6 +21192,8 @@ R15222,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, spe
 R15223,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R15224,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R15225,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
+R20963,P,,TRANSPORT - STOWAWAY: Unknown
+R20964,P,,TRANSPORT - STOWAWAY: Unknown
 R19522,P,HIGH,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R15228,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R15229,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
@@ -21093,6 +21458,7 @@ R15395,P,,UNKNOWN
 R15396,P,,UNKNOWN
 R15397,P,,UNKNOWN
 R16868,P,,UNKNOWN
+R20965,P,,TRANSPORT - STOWAWAY: Unknown
 R16869,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R17347,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16870,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -21104,9 +21470,13 @@ R15399,P,MEDIUM,TRANSPORT - CONTAMINANT: Seed contaminant
 R15399,S,,TRANSPORT - CONTAMINANT: Seed contaminant
 R15400,P,MEDIUM,"RELEASE IN NATURE: Release in nature for use (other than above, e.g., fur, transport, medical use)"
 R15400,P,MEDIUM,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
+R20498,P,,UNKNOWN
 R16872,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16873,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R16873,P,HIGH,CORRIDOR: Interconnected waterways/basins/seas
+R20499,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20500,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20500,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R15402,P,,RELEASE IN NATURE: Landscape/flora/fauna “improvement” in the wild
 R15402,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R15402,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -21284,7 +21654,11 @@ R18681,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18682,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18682,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R18643,P,,UNKNOWN
+R20501,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20501,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R17490,P,MEDIUM,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20502,P,,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20502,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R19949,p,,UNKNOWN
 R15522,P,,TRANSPORT - STOWAWAY: Other means of transport
 R17212,P,HIGH,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -21301,6 +21675,7 @@ R15530,P,,UNKNOWN
 R19975,P,,UNKNOWN
 R19974,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R15531,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20966,P,,UNKNOWN
 R04620,S,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R15533,P,,ESCAPE FROM CONFINEMENT: Agriculture (including Biofuel feedstocks)
 R15533,P,,TRANSPORT - CONTAMINANT: Seed contaminant
@@ -21378,6 +21753,7 @@ R15578,P,,UNKNOWN
 R17213,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R15579,P,,UNKNOWN
 R15580,S,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20503,P,,UNKNOWN
 R15582,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R15584,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
 R15585,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
@@ -21392,13 +21768,17 @@ R15591,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R15591,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R15592,P,,ESCAPE FROM CONFINEMENT: Forestry (including afforestation or reforestation)
 R15592,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20504,P,,UNKNOWN
+R20967,P,,UNKNOWN
 R15593,P,,RELEASE IN NATURE: Other intentional release
 R17990,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R15594,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R15597,P,,TRANSPORT - STOWAWAY: Machinery / equipment
 R15597,P,,CORRIDOR: Interconnected waterways/basins/seas
+R20968,P,,TRANSPORT - STOWAWAY: Unknown
 R17483,P,,TRANSPORT - STOWAWAY: Machinery / equipment
 R15598,P,,TRANSPORT - STOWAWAY: Machinery / equipment
+R20505,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
 R19193,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19193,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
 R15600,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -21519,6 +21899,7 @@ R16876,S,,UNAIDED: Natural dispersal across borders of invasive alien species th
 R15675,P,MEDIUM,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R15675,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R19967,P,,UNKNOWN
+R20506,P,,UNKNOWN
 R19402,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R15677,P,,UNKNOWN
 R19968,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -21566,6 +21947,7 @@ R15716,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R15717,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R15719,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R15720,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
+R20969,P,,TRANSPORT - STOWAWAY: Unknown
 R15721,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
 R15721,P,,TRANSPORT - CONTAMINANT: Seed contaminant
 R15722,P,HIGH,TRANSPORT - CONTAMINANT: Contaminant nursery material
@@ -21689,6 +22071,9 @@ R15806,P,,RELEASE IN NATURE: Other intentional release
 R15806,P,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R15807,P,,UNKNOWN
 R15808,P,,RELEASE IN NATURE: Other intentional release
+R20508,P,LOW,RELEASE IN NATURE: Other intentional release
+R20508,P,LOW,TRANSPORT - STOWAWAY: Ship/boat ballast water
+R20508,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20284,P,MEDIUM,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R19450,P,LOW,"RELEASE IN NATURE: Release in nature for use (other than above, e.g., fur, transport, medical use)"
 R19450,P,low,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
@@ -21707,12 +22092,14 @@ R15818,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domes
 R15818,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R07455,P,,UNKNOWN
 R15821,P,,UNKNOWN
+R20970,P,,UNKNOWN
 R15822,P,,RELEASE IN NATURE: Other intentional release
 R15822,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R15824,P,,RELEASE IN NATURE: Other intentional release
 R15824,P,,ESCAPE FROM CONFINEMENT: Pet/aquarium/terrarium species (including live food for such species)
 R18180,P,,UNKNOWN
 R19638,P,LOW,CORRIDOR: Interconnected waterways/basins/seas
+R20971,P,,CORRIDOR: Unknown
 R17430,P,,CORRIDOR: Interconnected waterways/basins/seas
 R19955,P,,ESCAPE FROM CONFINEMENT: Fur farms
 R15826,P,MEDIUM,TRANSPORT - CONTAMINANT: Parasites on animals (including species transported by host and vector)
@@ -22141,6 +22528,7 @@ R16142,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domes
 R16143,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R18863,P,,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding domestic aquaria)
 R16146,P,,UNKNOWN
+R20972,P,,TRANSPORT - STOWAWAY: Unknown
 R16147,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R16147,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16148,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -22153,6 +22541,7 @@ R20062,P,LOW,TRANSPORT - STOWAWAY: Hitchhikers in or on airplane
 R20062,P,LOW,TRANSPORT - STOWAWAY: Hitchhikers on ship/boat (excluding ballast water and hull fouling)
 R20062,P,LOW,TRANSPORT - STOWAWAY: Machinery / equipment
 R19305,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
+R20973,P,,UNKNOWN
 R16151,P,LOW,TRANSPORT - STOWAWAY: Ship/boat hull fouling
 R20194,P,,"TRANSPORT - CONTAMINANT: Contaminant on animals (except parasites, species transported by host/vector)"
 R20194,S,,TRANSPORT - STOWAWAY: Ship/boat ballast water
@@ -22175,6 +22564,7 @@ R16162,P,,TRANSPORT - CONTAMINANT: Parasites on animals (including species trans
 R16162,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R19008,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R19008,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
+R20974,P,,UNKNOWN
 R16165,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R16165,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16166,P,,ESCAPE FROM CONFINEMENT: Horticulture
@@ -22494,6 +22884,8 @@ R16292,P,,ESCAPE FROM CONFINEMENT: Horticulture
 R16292,P,,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16293,P,LOW,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
 R16293,S,,TRANSPORT - CONTAMINANT: Food contaminant (including of live food)
+R20975,P,,CORRIDOR: Unknown
+R20976,P,,CORRIDOR: Unknown
 R16294,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16295,P,,CORRIDOR: Interconnected waterways/basins/seas
 R16296,P,,TRANSPORT - CONTAMINANT: Parasites on plants (including species transported by host and vector)
@@ -22520,6 +22912,7 @@ R19249,P,,TRANSPORT - STOWAWAY: Hitchhikers in or on airplane
 R19249,P,,"TRANSPORT - STOWAWAY: Vehicles (car, train, …)"
 R19184,P,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
 R19184,P,,"TRANSPORT - CONTAMINANT: Transportation of habitat material (soil, vegetation, …)"
+R20977,P,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
 R16305,S,,TRANSPORT - CONTAMINANT: Timber trade
 R16306,P,LOW,ESCAPE FROM CONFINEMENT: Ornamental purpose other than horticulture
 R16307,S,,"TRANSPORT - CONTAMINANT: Contaminant on plants (except parasites, species transported by host/vector)"
@@ -22572,6 +22965,7 @@ R19897,P,MEDIUM,ESCAPE FROM CONFINEMENT: Botanical garden/zoo/aquaria (excluding
 R19897,P,MEDIUM,ESCAPE FROM CONFINEMENT: Horticulture
 R19897,P,MEDIUM,TRANSPORT - CONTAMINANT: Contaminant nursery material
 R19897,S,,UNAIDED: Natural dispersal across borders of invasive alien species that have been introduced through pathways 1 to 5
+R21211,P,,UNKNOWN
 R16880,P,,ESCAPE FROM CONFINEMENT: Aquaculture / mariculture
 R16345,P,,UNKNOWN
 R16346,P,,RELEASE IN NATURE: Biological control
