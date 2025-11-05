@@ -3,17 +3,17 @@ library(dplyr)
 library(purrr)
 library(readr)
 
-# Get all species ####
-all_species <- get_species()
-all_species
-
-# Example: get info one species
-info_single_species <- get_species(all_species$EasinID[1])
-info_single_species
-
 # Get info for all species ####
-info_easin_species <- get_species(all_species$EasinID)
+valid_environments <- c("MAR", "FRW", "TER", "OLI")
+info_easin_species <- get_species(environment = valid_environments)
+# Remove duplicates
+info_easin_species <- info_easin_species %>%
+  dplyr::distinct(EASINID, .keep_all = TRUE)info_easin_species
+
 info_easin_species
+
+# To just get an overview of all species, use `get_species()` without arguments:
+# overview_easin_species <- get_species()
 
 # Get all info from some nested columns ####
 
