@@ -19,7 +19,7 @@ easin_taxa <- easin_taxa %>%
 )
 
 # Match to GBIF Backbone
-easin_taxa_match<- purrr::map(
+easin_taxa_match <- purrr::map(
   easin_taxa$easin_scientific_name,
   rgbif::name_backbone,
   strict = TRUE,
