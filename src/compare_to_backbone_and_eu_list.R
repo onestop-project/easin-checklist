@@ -69,7 +69,7 @@ nrow(eu_taxa_matched_backbone)
 # Percentage
 nrow(eu_taxa_matched_backbone) / nrow(eu_taxa) * 100
 
-# Compare EASIN taxa with EU taxa We have to ignore the
+# Compare EASIN taxa with EU taxa. We have to ignore the
 # `https://www.gbif.org/species/` prefix from column `id`. How many taxa in
 # `easin_taxa` are present in `eu_taxa`?
 easin_in_eu <- easin_taxa %>%
