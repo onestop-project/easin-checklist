@@ -52,7 +52,7 @@ nrow(easin_taxa_matched_backbone)/nrow(easin_taxa) * 100
 # Get taxa from temporary European checklist of invasive alien species
 # (permalink to specific version used!)
 eu_taxa <- readr::read_csv(
-  file = "https://github.com/onestop-project/unified-europe/blob/825abc1e52fc8e619ac0ff2ea926f7550892a083/data/Europe/taxon.csv",
+  file = "https://raw.githubusercontent.com/onestop-project/unified-europe/825abc1e52fc8e619ac0ff2ea926f7550892a083/data/Europe/taxon.csv",
   na = ""
 )
 
