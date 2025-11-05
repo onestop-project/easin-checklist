@@ -1,6 +1,5 @@
 library(reasin)
 library(dplyr)
-library(purrr)
 library(readr)
 
 # Get info for all species ####
