@@ -56,8 +56,9 @@ eu_taxa <- readr::read_csv(
   na = ""
 )
 
-# Column `id` (or `taxonID`) contain taxon IDs from GBIF Backbone.
-# Notice that if there is no match to backbone, the id is equal to `"https://www.gbif.org/species/NA"`.
+# Column `id` (or `taxonID`) contain taxon IDs from GBIF Backbone. Notice that
+# if there is no match to backbone, the id is equal to
+# `"https://www.gbif.org/species/NA"`.
 
 # Taxa in eu_taxa matching the GBIF Backbone
 eu_taxa_matched_backbone <- eu_taxa %>%
