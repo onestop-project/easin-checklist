@@ -46,7 +46,7 @@ easin_taxa_matched_backbone <- easin_taxa %>%
 nrow(easin_taxa_matched_backbone)
 
 # Percentage
-nrow(easin_taxa_matched_backbone)/nrow(easin_taxa) * 100
+nrow(easin_taxa_matched_backbone) / nrow(easin_taxa) * 100
 
 
 # Get taxa from temporary European checklist of invasive alien species
