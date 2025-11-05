@@ -3,8 +3,9 @@ library(dplyr)
 library(readr)
 
 # Get info for all species ####
-valid_environments <- c("MAR", "FRW", "TER", "OLI")
-info_easin_species <- get_species(environment = valid_environments)
+environments <- reasin::environments()
+valid_environments <- environments$env_code
+info_easin_species <- reasin::get_species(environment = valid_environments)
 # Remove duplicates
 info_easin_species <- info_easin_species %>%
   dplyr::distinct(EASINID, .keep_all = TRUE)
