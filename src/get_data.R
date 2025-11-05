@@ -17,7 +17,7 @@ info_easin_species
 
 # Get all info from some nested columns ####
 
-# Define a function to create a data.frame with all EASINID and the unnested
+# Define a function to create a data.frame with all `EASINID` and the unnested
 # data.frame from the specified column
 get_col_info <- function(df, col_name) {
   df %>%
