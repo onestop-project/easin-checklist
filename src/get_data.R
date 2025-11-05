@@ -17,8 +17,8 @@ info_easin_species
 
 # Get all info from some nested columns ####
 
-# Create a data.frame with all EasinID and the unnnested data.frame from the
-# specified column
+# Define a function to create a data.frame with all EASINID and the unnested
+# data.frame from the specified column
 get_col_info <- function(df, col_name) {
   df %>%
     dplyr::select(EASINID, {{col_name}}) %>%
@@ -71,3 +71,4 @@ readr::write_csv(
   "data/raw/native_ranges.csv",
   na = ""
 )
+
