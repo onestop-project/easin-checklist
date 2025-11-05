@@ -1,9 +1,12 @@
-library(reasin)
+library(readr)
 library(rgbif)
 library(dplyr)
 
-# Get species from EASIN Catalogue Database
-easin_taxa <- get_species()
+# Get species from EASIN Catalogue Database as saved in `info_easin_species.csv`
+easin_taxa <- readr::read_csv(
+  file = "data/raw/info_easin_species.csv",
+  na = ""
+)
 
 # Create scientific name column based on columns `Name` and `Authorship`
 easin_taxa <- easin_taxa %>%
