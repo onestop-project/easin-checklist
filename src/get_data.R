@@ -1,53 +1,24 @@
-library(jsonlite)
+library(reasin)
 library(dplyr)
-library(purrr)
 library(readr)
 
-# Get all species ####
-url <- "https://easin.jrc.ec.europa.eu/apixg/catxg/getall/skip/0/take/99999"
-all_species <- jsonlite::fromJSON(
-  txt = url,
-  simplifyVector = TRUE,
-  flatten = TRUE) %>%
-  dplyr::tibble()
-all_species
+# Get info for all species ####
+environments <- reasin::environments()
+valid_environments <- environments$env_code
+info_easin_species <- reasin::get_species(environment = valid_environments)
+# Remove duplicates
+info_easin_species <- info_easin_species %>%
+  dplyr::distinct(EASINID, .keep_all = TRUE)
 
-# Example: get info one species
-url_single_species <- sprintf(
-  "https://easin.jrc.ec.europa.eu/apixg/catxg/easinid/%s",
-  all_species$EasinID[1])
-info_single_species <- jsonlite::fromJSON(
-  txt = url_single_species,
-  simplifyVector = TRUE,
-  flatten = TRUE
-)
-info_single_species
-
-# Function to get all information for a single species/taxon
-get_species_info <- function(easin_id) {
-  url_single_species <- sprintf(
-    "https://easin.jrc.ec.europa.eu/apixg/catxg/easinid/%s",
-    easin_id
-  )
-  jsonlite::fromJSON(
-    txt = url_single_species,
-    simplifyVector = TRUE,
-    flatten = TRUE
-  ) %>%
-    dplyr::as_tibble()
-}
-
-# We do for all EASINID
-info_easin_species <- purrr::map_df(
-  all_species$EasinID[1:1000], # For testing, only first 1000, change to all_species$EasinID
-  get_species_info
-)
 info_easin_species
+
+# To just get an overview of all species, use `get_species()` without arguments:
+# overview_easin_species <- get_species()
 
 # Get all info from some nested columns ####
 
-# Create a data.frame with all EasinID and the unnnested data.frame from the
-# specified column
+# Define a function to create a data.frame with all `EASINID` and the unnested
+# data.frame from the specified column
 get_col_info <- function(df, col_name) {
   df %>%
     dplyr::select(EASINID, {{col_name}}) %>%
@@ -56,7 +27,7 @@ get_col_info <- function(df, col_name) {
 }
 
 
-first_introductions <- get_first_introductions(
+first_introductions <- get_col_info(
   info_easin_species,
   "FirstIntroductionsInEU"
 )
