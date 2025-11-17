@@ -10,32 +10,27 @@ easin_taxa <- readr::read_csv(
 
 # Create scientific name column based on columns `Name` and `Authorship`
 easin_taxa <- easin_taxa %>%
-  # Add prefix `easin_` to columns to avoid possible name clashes later
-  dplyr::rename_with(~ paste0("easin_", .x)) %>%
-  dplyr::mutate(easin_scientific_name = paste(easin_Name, easin_Authorship)) %>%
+  dplyr::mutate(scientificName = paste(Name, Authorship)) %>%
   # Remove trailing spaces
   dplyr::mutate(
-    easin_scientific_name = stringr::str_trim(easin_scientific_name)
+    scientificName = stringr::str_trim(scientificName)
 )
 
-# Match to GBIF Backbone
-easin_taxa_match <- purrr::map(
-  easin_taxa$easin_scientific_name,
-  rgbif::name_backbone,
-  strict = TRUE,
-  .progress = TRUE
+# Check taxa against GBIF Backbone
+easin_taxa <- rgbif::name_backbone_checklist(
+  name = easin_taxa,
+  strict = TRUE
   ) %>%
-  purrr::list_rbind()
-
-# Add `gbif_` prefix to matched columns to make provenance clear
-easin_taxa_match <- easin_taxa_match %>%
-  dplyr::rename_with(~ paste0("gbif_", .x))
-
-# Join EASIN taxa names to matched results
-easin_taxa <- dplyr::bind_cols(
-  easin_taxa,
-  easin_taxa_match
-)
+  # Rename the original columns, returned with prefix `verbatim`, using suffix `easin_`
+  dplyr::rename_with(
+    .cols = dplyr::starts_with("verbatim"),
+    .fn = ~ stringr::str_replace(.x, pattern = "verbatim", replacement = "easin")
+  ) %>%
+  # Add prefix `gbif_` to all other columns
+  dplyr::rename_with(
+    .cols = -dplyr::starts_with("easin"),
+    .fn = ~ paste0("gbif_", .x)
+  )
 
 # Get taxa matching strictly, i.e. no higher rank or fuzzy matches
 easin_taxa_matched_backbone <- easin_taxa %>%
