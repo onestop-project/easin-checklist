@@ -24,7 +24,7 @@ easin_taxa <- rgbif::name_backbone_checklist(
   # Rename the original columns, returned with prefix `verbatim`, using prefix `easin_`
   dplyr::rename_with(
     .cols = dplyr::starts_with("verbatim"),
-    .fn = ~ stringr::str_replace(.x, pattern = "verbatim", replacement = "easin")
+    .fn = ~ stringr::str_replace(.x, pattern = "^verbatim", replacement = "easin")
   ) %>%
   # Add prefix `gbif_` to all other columns
   dplyr::rename_with(
